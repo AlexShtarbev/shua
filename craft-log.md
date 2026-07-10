@@ -40,7 +40,18 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 | Date | Drill | Rule(s) | Note |
 |------|-------|---------|------|
-| | | | |
+| 2026-07-10 | Pre-writing sheet before ch-1 rewrite (`manuscript/book-1-rewrite/chapter-1-drill.txt`): beat sketch + engineering word inventory (precision screwdrivers, anti-magnetic tweezers, side cutters, digital calipers, multimeter, soldering gear) | 10.8, 10.1 | Self-invented outline-first workflow. Sketch used "her/she" throughout; draft converted to "it" with deliberate slips — slip-canon was craft, not accident. "Rain outside" in sketch, dropped from draft — reclaim in revision (humanize anchor). |
+
+## Workflow conventions (standing)
+
+- **Editorial marks (2026-07-10):** annotated passes are delivered INLINE in the draft as
+  `[SP <rule#>: what's off — kind of fix]` tags (e.g. `[SP 1.4: sting buried — move last]`).
+  Alex registered `\bSP \d` as an IntelliJ TODO pattern → the TODO tool window is the
+  punch list; address a mark, delete the tag. Empty TODO window = pass addressed.
+  Mechanical typo fixes still applied directly (§10.4); sentences stay Alex's.
+- **Provenance ledger (§10.9):** `shua/` is a git repo (init 2026-07-10, root 54d1ff5,
+  repo-local identity alex.shtarbev@gmail.com). Commit per writing/annotation session.
+- **Drafts are `.md`**, numbered `chapter-NN.md`, in `manuscript/book-1-rewrite/`.
 
 ## Session retros (one line each)
 

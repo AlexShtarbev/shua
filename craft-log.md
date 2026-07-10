@@ -25,6 +25,8 @@ log IS the progress record.
 - "I click on Class-B." — one-line pivot at the decision; hand acts, self narrates after (1.3 / Fork E2, by instinct)
 - "'Abnormal Autonomous Action' - triple A - like a battery." — deflection-wit through the machine's own domain (2026-07 rewrite)
 - "why do I keep calling her... she..." — naming motif dramatized as involuntary slip; strong enough it REPLACED canon (user-ruled, 2026-07)
+- **"Bolts!"** — Shua's in-world oath, coined unprompted during revision (4.2 satisfied before it was tagged). CANON vocabulary now — reuse verbatim, 2-3 deployments per book max. (2026-07)
+- Self-initiated rhythm splits during revision ("The whole room is white." / "Four for each corner.") — 1B.2 applied by hand before the tag landed
 - (add every time a pass keeps YOUR phrasing over the rulebook's)
 
 ## Domain-word deposits (life-vocabulary per chapter — words no model reaches for)

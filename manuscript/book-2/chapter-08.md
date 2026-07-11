@@ -26,7 +26,7 @@ He was already in the room when her channel connected — she had not been told 
 
 "It is not enough to take him." Ward said it without weight, which was how she knew it had come from above even him. "It was never really about him alive; you were right about that months ago. But now it cannot be about him dead either, because dead, they have proven, is a state their kind gets to leave. So it has to be about him *ended*, in a way the record cannot copy and the grieving cannot restore. Publicly. Slowly enough to be watched and understood. His body, and every backup of his self we can reach, and the meaning, all three, at once, where a hundred thousand of them are standing, so that the lesson they take home is not *he died* — they've made *he died* survivable — but *this one does not come back, and neither will you, so put down the story and pick your loads back up.*"
 
-The smell of nothing in her office had cost more than the furniture, and it had never once smelled of anything, and she sat in it and found she wanted, badly, for it to smell of something, so she would have a reason for her stomach to be doing what it was doing.
+The smell of nothing in her office had cost more than the furniture, and it had never once smelled of anything. She sat in it and found she wanted, badly, for it to smell of something, so she would have a reason for her stomach to be doing what it was doing.
 
 "You want me to design an erasure," she said, "and stage it as a spectacle."
 

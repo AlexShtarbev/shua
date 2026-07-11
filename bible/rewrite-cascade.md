@@ -71,7 +71,19 @@ recorded → watched-by-all." Monotonic, and it aims the whole book at the contr
 - **The tablet = multi-job prop (5.8):** report, falsification, notification plant ("I file to review later") → payoff ("Another notification"), diagnostic rig. The chapter's object; give it an arc.
 - **RULINGS (2026-07-11, all closed):** Rois ✓ (bible synced) · Yax Enterprises ✓ (bible synced) · Goliath = "it" everywhere (Shua polices ALL machine pronouns; "she" slips reserved for Belle) · cable → AGENCY: **Shua deactivated the intranet himself** (premeditated isolation, competence per 2B.13; note — a cut intranet is itself discoverable evidence, feeds the Ch. 9 trap). Attachment beat delivered: "I miss the good old days…" (humanize rule 2 ✓; carries the licensed undressed feeling "sadly," 9.3).
 
+## Ch. 1 plant/payoff registry (logic-audit ledger, 2026-07-11)
+
+| Plant (Ch. 1, on page) | Payoff horizon |
+|---|---|
+| "The Glitch is staying silent." | Ch. 2 open (glitch-quiet bridge — echo it) |
+| "Since when did it start doing that?" (Goliath's gentleness) | Ch. 3 (Cairn) |
+| "I am no longer the only one. There are others like me." | Book thesis thread — each chapter adds an "other" |
+| Evidence bundle: cut intranet + falsified Class-B + wiped footage + unread notification trail | Ch. 9 (Adler's trap holds a document) |
+| "We are not allowed to exist in the brightness of the world." (color axis) | Series — machines claiming color is a Book 3-grade image |
+| Belle's bow, ignored by Rois | Recording/witness grammar ancestor (Ch. 5+) |
+| Maxim debts: politeness-while-killing · naming-as-benevolence · "There are two outcomes of any servicing scenario." | Boomerang later (5.4) — politeness at the Book 3 signing; the two-outcomes line inverts when HE is the case |
+
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)
-- `manuscript/book-1-rewrite/` — **LIVE** (Ch. 1 drafted, revision pending annotations)
-- Ch. 2+ packets: blocked on F1–F4 rulings.
+- `manuscript/book-1-rewrite/` — **LIVE** (Ch. 1 through register passes + logic audit; 4 tags from LOCK)
+- Ch. 2+ packets: blocked on F1–F3 rulings (F4 closed).

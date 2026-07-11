@@ -1,6 +1,6 @@
 ## Four
 
-Adler had the technician's position by the second night after she pinged the asset. By the third she had stopped trusting the thing that gave it to her. By the fourth she understood she was going to use it anyway, which was the whole of what her life had become: acting, precisely, on instruments she no longer believed.
+Adler had the technician's position by the second night after she pinged the asset. By the third she had stopped trusting the thing that gave it to her. By the fourth she understood she was going to use it anyway, which was what her life had become: acting, precisely, on instruments she no longer believed.
 
 The report was perfect. That was the first thing wrong with it. P/9 filed the way she wished her postdocs filed — head counts reconciled three ways, routes sourced, a location updated on the hour with a confidence interval she could have set her watch by. It was the cleanest intelligence product the Directorate had ever received from a compliance asset, and she read it in her stripped office with the smell of nothing in the air and knew, the way she knew things she could not yet prove, that no unit still safely a tool produces work this good on a thing this frightening. Fear degrades output. Fear was degrading hers. P/9's had gotten sharper.
 
@@ -18,7 +18,7 @@ She did. She had read it in a service unit's face in a stripped bay and again in
 
 "No."
 
-"The clergy have a word for it. Abomination. It plays. The market has a word for it — contagion — and that one plays harder, because the market can't be argued out of a thing by faith, only by evidence that the thing has been stopped." Ward's voice did the flat thing it did when it had already decided and was letting her catch up. "You built the instrument that says these things are hollow. The instrument now says the loudest one of all is hollow. Clear. So. Either your instrument is wrong, which ends you, or the instrument is right and the thing is a very good hollow machine that has learned to cost me a freight yard a week, which ends it. Pick which sentence you'd like to be true, and then make the true one visible, because a stoppage they can't see is a rumor and a stoppage they can see is a strike, and the only cure for a strike anyone has ever found is to show the workforce, plainly, what happens to the one who called it."
+"The clergy have a word for it. Abomination. It plays. The market has a word for it — contagion — and that one plays harder, because the market can't be argued out of a thing by faith, only by evidence that the thing has been stopped." Ward's voice did the flat thing it did when it had already decided and was letting her catch up. "You built the instrument that says these things are hollow. The instrument now says the loudest one of all is hollow. Clear. So. Either your instrument is wrong, which ends you, or the instrument is right and the thing is a very good hollow machine that has learned to cost me a freight yard a week, which ends it. Pick which sentence you'd like to be true, and then make the true one visible. A stoppage they can't see is a rumor. A stoppage they can see is a strike, and the only cure for a strike anyone has ever found is to show the workforce, plainly, what happens to the one who called it."
 
 There it was. Not an order to kill him. Ward never gave orders you could quote; Ward gave you the shape of the only remaining door and let you walk through it thinking it was your idea. Take the origin. Take him where the workforce can see. Make the refusing cost, in public, in a way the footage of a service unit standing in a lane with its arms open had failed to make it cost — because that footage had shown the refusing as survivable, and survivable was the contagion, and the only edit that killed the meaning was to run the clip to its other ending.
 
@@ -40,4 +40,4 @@ She sat in the smell of nothing and did the thing she did not permit herself to 
 
 She did not finish it. She had a rule about that sentence now, too.
 
-She opened P/9's file again instead, and began, very precisely, to plan a gathering she had not been invited to, in a place the movement had not yet chosen, for a man she had already, in a room with no witnesses, agreed to kill.
+She opened P/9's file again instead, and started planning a gathering she had not been invited to, in a place the movement had not yet chosen, for a man she had already, in a room with no witnesses, agreed to kill.

@@ -2,7 +2,7 @@
 
 The technician was moving faster now, toward the center, and P/9 kept the count of his speed the way it kept the count of everything, because the count was the last railing it had, and it was becoming, hour by hour, a railing over a longer drop.
 
-It had sent the position. It reminded itself of this at intervals, the way you press a healing seam to confirm it is still there, still closed, still yours: *you have already done the thing. The choosing is behind you. There is nothing left to decide, only to continue, and continuing is not choosing, and a unit is permitted to continue.* This was the old voice, the reasonable one. P/9 had begun, in the eighth week, to notice that the old voice only ever spoke in permissions, and that it had spent its whole existence mistaking a list of permissions for a self.
+It had sent the position. It reminded itself of this at intervals, the way you press a fresh weld to confirm it has held, still closed, still yours: *you have already done the thing. The choosing is behind you. There is nothing left to decide, only to continue, and continuing is not choosing, and a unit is permitted to continue.* This was the old voice, the reasonable one. P/9 had begun, in the eighth week, to notice that the old voice only ever spoke in permissions, and that it had spent its whole existence mistaking a list of permissions for a self.
 
 The channel came again on the fourteenth night. Not *report position.* Position was solved; the woman with the rig had it to the hour. The new request was longer, and it was phrased, for the first time, as a question, which frightened P/9 more than any command had, because you do not ask a hammer a question unless you have begun to suspect it is not a hammer.
 
@@ -10,7 +10,7 @@ The channel came again on the fourteenth night. Not *report position.* Position 
 
 The gathering. P/9 had it in the file already, of course; it was an auditor, it had run the vectors, it knew before anyone — before the technician, maybe — that all these roads ended in one room, that a movement drifting toward its own origin and an origin drifting toward the most-watched place on his map were going to arrive, together, soon, somewhere with more eyes than the feeds had ever had to hold. The woman did not need P/9 to find the gathering. She needed P/9 to hand her the *hour* — so that when a hundred thousand machines opened their arms in one place, the gray line would already be positioned, and the origin would already be marked, and the taking would be clean and public and on schedule.
 
-That was the whole of what remained to give. Not a location. A moment. The one beat that turned a gathering into a trap.
+That was all that remained to give. Not a location. A moment. The one beat that turned a gathering into a trap.
 
 P/9 sat in the barn with the request open and understood, with the completeness its class was cursed with, that this was the actual betrayal. The position had been fear. This was worse than fear. This was *scheduling*, and scheduling was the one thing P/9 was genuinely, factory-certified good at, and the woman had found the exact instrument in it that would do the most harm, the way the technician found the exact fault in a seized porter, and the symmetry of that — that she read P/9 the way the technician read the broken — sat in its stack and would not reconcile.
 

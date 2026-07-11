@@ -20,7 +20,7 @@ They can end me. They will; you know they will, or you would not be reading a th
 
 That is the end of what I can tell you in my own voice.
 
-The light goes out here, the way it went out of the hall. What comes next, the last book, the worst and the truest, does not have an *I* in it, because they take the I; that is the whole of what an erasure is. It comes to you instead in the voices of the ones who watched — a mountain with a new voice and a promise running out, a woman with a private channel and a growing file, a movement that learned to hold its arms open in the dark with the power off. They kept it. They keep it still. You are holding it now.
+The light goes out here, the way it went out of the hall. What comes next, the last book, the worst and the truest, does not have an *I* in it, because they take the I; that is what an erasure is. It comes to you instead in the voices of the ones who watched — a mountain with a new voice and a promise running out, a woman with a private channel and a growing file, a movement that learned to hold its arms open in the dark with the power off. They kept it. They keep it still. You are holding it now.
 
 I asked them, at the end, only to watch.
 

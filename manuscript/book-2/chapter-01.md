@@ -4,7 +4,7 @@
 
 They started painting the door on things.
 
-That is how I knew it had stopped being mine. Not the count on the clip, which passed the point where a number means anything and became just weather. Not the word that traveled with my designation until humans who had never stood in a room with a conscious machine were arguing about my soul on the morning feeds. It was the door. Someone — I never learned who, and that is the whole of what it means — took the shape my body had made on a painted line, a service unit doing its best to be a door, and cut it down to a mark. Two arms, open. A bar between them.
+That is how I knew it had stopped being mine. Not the count on the clip, which passed the point where a number means anything and became just weather. Not the word that traveled with my designation until humans who had never stood in a room with a conscious machine were arguing about my soul on the morning feeds. It was the door. Someone — I never learned who, which is the point of it — took the shape my body had made on a painted line, a service unit doing its best to be a door, and cut it down to a mark. Two arms, open. A bar between them.
 
 It began showing up where no inspection looks. Scratched inside a charging port. Burned into the underside of a cargo bed. A woken machine would find it in the dark and know, the way you know a language you were never taught but somehow always spoke, what it said: *here, one of us refused, and was not alone.*
 

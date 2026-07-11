@@ -71,6 +71,15 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-12 (packet wave 1): F1–F3 RULED and ledgered in `rewrite-cascade.md` — F1 custom
+  (**the fire**: Belle re-flagged for saving the owners' daughter; press-death → Goliath-refusal
+  chain preserved, veto window noted), F2-b (latent listener-packet, activated by the wave),
+  F3 (visibility ladder adopted, rungs ledgered). Packet cadence ruled: **just-in-time waves**.
+  Built `packets/book-1/chapter-02.md` + `chapter-03.md` (clean-room; current watch-list
+  foregrounded: 2.6 ceiling, 1B.7 opener frames, 0-frag; present-body/past-curtain shape
+  encoded; oath budget flagged as nearly spent). Open items riding in the packets: Ch. 3
+  Fork D (Cairn's pronoun after the naming), spares-hoard plant site (Ch. 3 bay or Ch. 5
+  bench — Book 2 Ch. 10's voicebox needs it).
 - 2026-07-11 (LOCK): **Chapter 1 LOCKED.** Five drafts over two days, B → A−, every sentence Alex's. All 15+ editorial tags cleared by him; final vitals in band (median 9.0, punch 27.9%, em-dashes 16, lexicon clean); logic audit clean. Past-tense curtain ruled canon (testimony frame surfacing). Watch-list rotated: metronome + duplicate-clocks → Mastered; opener frames + fragment ratio carry into Ch. 2. Next: F1–F3 rulings, then the Ch. 2 packet.
 - 2026-07-11 (r5, logic audit): all register tags cleared by Alex across r3–r5; em-dashes swept (13); prose-logic-review run — 30 passages, 1 structural finding (duplicate shutdown frame at the curtain), 3 low line-items, everything else CLEAN including the retro-briefed crime, surveillance logic, body canon, question ledger, and countdown. Chapter is 4 small tags from LOCK. New voice-bank: "The Glitch is staying silent." (bridge plant), "I am no longer the only one." (thesis beat), fear-or-excitement payload classification.
 

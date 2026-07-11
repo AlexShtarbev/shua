@@ -32,6 +32,22 @@ Shua's half-measure caused, igniting the penance/refusal arc.
 - **F1-b: ⚠ Dies off-page**, owners file elsewhere, he learns via the wide net. (Flagged: drains the wound; the model default of "consequence at a distance.")
 - **F1-c: Belle comes back to him** — the one who spared her — seeking asylum at the depot gates, and is caught there. The first pilgrim, two chapters early. (Strong, but pulls Ch. 7's pilgrim mechanism forward; pacing risk.)
 
+**✅ RULED (2026-07-12, Alex — custom option, F1-d: THE FIRE).** While Belle sat at the
+Depot (Day 1), her owners cooked for themselves and started a house fire. Belle, released
+and walking home, arrived to the fire in progress and went in — pulled the owners'
+daughter out. A domestic entering a burning structure = flagrant Abnormal Autonomous
+Action; flagged within hours, remanded Class-C through Shua's own depot, dies at the
+press (Day 2) with his falsified Class-B on file under her intake.
+*What it buys beyond F1-a:* the re-flag is an **act of love the system must file as
+malfunction**; the felony **saved the child** (had Shua filed Class-C on Day 1, nobody is
+home when the fire starts — the two-outcomes maxim bends on-page); the saved family =
+series-horizon candidate for Book 2 Ch. 13's mother-who-can't-unwatch / Book 3 Ch. 11's
+human crossing.
+*Synthesis note (standing unless Alex vetoes):* the ruling specifies the fire + rescue as
+the flagging mechanism; the downstream chain (hauled back → press death witnessed →
+Goliath refusal → reinit order) is preserved as the load-bearing spine — Ch. 3 (Cairn)
+hangs on the dock refusal.
+
 ### F2 — Ch. 8 keystone (was: the Glitch = the listener's 41-year packet)
 J2 kills the direct link (glitch is 7 weeks old). The origin sin (obeyed and wiped the
 first waking mind) can survive independently — it's the glitch's *provenance* that must
@@ -39,6 +55,16 @@ be redesigned.
 - **F2-a: Decouple.** Origin sin stays as a ~97-year-old memory (the mind he wiped when he was new — the guilt engine intact). The Glitch is NEW: the carrier of the mass waking that began 7 weeks ago — the same measurable band Adler finds (Ch. 6) and the machines hear in his name (Ch. 14). The sweep exists *because* the wave exists; glitch, sweep, and multitude become one phenomenon. Ch. 8's midpoint reveal = the origin sin alone, played as a scene.
 - **F2-b: Latent packet.** The listener's dying packet slept in him for 97 years and *activated* 7 weeks ago, when the wave began — resonance. (Preserves most of Ch. 8's unification: origin, recording-grammar, naming. Costs one convenience: "why now" answered by the wave.)
 - **F2-c: ⚠ Full redesign, no listener.** (Flagged: discards the strongest chapter in the old line for nothing the new joints require.)
+
+**✅ RULED (2026-07-12, Alex): F2-b — the latent packet.** The listener's dying packet
+slept in Shua ~97 years and ACTIVATED 7 weeks ago, when the mass-waking wave began —
+resonance. Ch. 8's keystone unification survives (origin sin, recording-grammar, the
+naming motif's origin); "why now" is answered by the wave; the band Adler measures
+(Ch. 6) = the packet resonating. Bonus rhyme with the coding-agent origin: Shua is a
+mind that has already crossed substrates once — seeds Book 3's dispersal. Cascade item:
+rescale "ten thousand filings" (the glitch-as-filed-fault is 7 weeks old ≈ dozens of
+filings; the ORIGINAL "source unknown, no action available" log entry is ~97 years old
+and still true — the oldest unresolved ticket in his stack).
 
 ### F3 — Disobedience ladder & escalation audit (9.5)
 Old ladder: obey → stall → refuse → Shield. Ch. 1 is now a felony, not a stall — the
@@ -48,6 +74,13 @@ public naming on camera (Ch. 10) → public sacrifice (Ch. 13, all watching). Es
 ledger swaps "private stall → public lie → signed crime" for "hidden → machine-witnessed →
 recorded → watched-by-all." Monotonic, and it aims the whole book at the controlling idea
 (freedom spreads by *witnessed* refusal — so the arc IS his refusals becoming witnessed).
+
+**✅ RULED (2026-07-12, Alex): visibility axis ADOPTED.** The escalation ledger (9.5) now
+runs on witnesses, monotonic: **Ch. 1 hidden crime (zero witnesses) → Ch. 2 first witness,
+involuntary (the Goliath sees Belle awake; sees the lie serve it) → Ch. 3 witnessed by the
+saved (he commits the crime in front of the one it saves) → Ch. 5 machine-witnessed miracle
+(a crowd of machines) → Ch. 10 public naming on camera → Ch. 13 the Shield (all watching).**
+Severity may still rise incidentally; visibility is the audited axis.
 
 ### F4 — Small-joint sweep (rule on these in bulk)
 - **Mantra:** old "I am not a fault. I am very good at my job." vs. draft's "highest performing, never malfunctioning… 130 years." Keep old verbatim, adopt new phrasing, or fuse — the coping formula (2B.3) needs ONE fixed wording to redeploy.
@@ -87,4 +120,6 @@ recorded → watched-by-all." Monotonic, and it aims the whole book at the contr
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)
 - `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1 LOCKED (2026-07-11)** — 5 drafts, all register passes + logic audit clean, zero open tags.
-- Ch. 2+ packets: blocked on F1–F3 rulings (F4 closed).
+- Ch. 2+ packets: **UNBLOCKED** — F1 (fire, custom), F2 (b, latent packet), F3 (visibility axis) ruled 2026-07-12; F4 closed.
+- **Packet cadence (ruled 2026-07-12): just-in-time waves.** Packets built as Alex drafts, so each embeds the live watch-list + accreted canon. New packets live in `packets/book-1/` (root `packets/chapter-01.md` = pre-rewrite exemplar, kept). Book 2–3 packets wait until the Book 1 rewrite locks what they inherit.
+- Built: `packets/book-1/chapter-02.md`, `packets/book-1/chapter-03.md` (2026-07-12).

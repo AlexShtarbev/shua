@@ -61,6 +61,7 @@ recorded → watched-by-all." Monotonic, and it aims the whole book at the contr
   - **Tense: PRESENT for the scene body** (Alex changed "I had 11 minutes" → "I have"; body swept to present). ⚠ CONFIRM: the closing two ¶s ("The day filled… I went… were shutting down") remain past — deliberate end-of-day retrospection, or seam to sweep? One-word ruling needed; if deliberate, "The day filled" wants its verb ("was filled") so the shift reads chosen.
   - **Oaths (4.2): "Bolts!" canon; escalated variant "Bolts and packets!"** — density question open (two oaths four lines apart at the checkbox/pivot; recommendation: keep one).
   - **Mantra wording (2B.3) LOCKED by revision:** "I am the highest performing automaton in the city. I never malfunction." — redeploys verbatim at future injuries.
+  - **The past-tense curtain (RULED 2026-07-11):** the chapter runs present tense, but the FINAL ¶ ("As my programs were shutting down… was scheduled") stays past — held by Alex through three tag rounds = deliberate. Canon: the curtain ¶ is narrated-from-after, the testimony frame surfacing at the last beat. Every Book 1 rewrite chapter may use this same shape (present body, past curtain); nothing else in a chapter goes past without cause. Shutdown staging: "system powered off" and "programs shutting down" are sequential stages, not a duplicate frame.
 
 ## Ch. 1 expansion canon (2026-07-11, from Alex's draft — ledgered)
 
@@ -85,5 +86,5 @@ recorded → watched-by-all." Monotonic, and it aims the whole book at the contr
 
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)
-- `manuscript/book-1-rewrite/` — **LIVE** (Ch. 1 through register passes + logic audit; 4 tags from LOCK)
+- `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1 LOCKED (2026-07-11)** — 5 drafts, all register passes + logic audit clean, zero open tags.
 - Ch. 2+ packets: blocked on F1–F3 rulings (F4 closed).

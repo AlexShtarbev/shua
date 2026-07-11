@@ -9,8 +9,8 @@ log IS the progress record.
 | Rule | What keeps happening | Since | Status |
 |------|---------------------|-------|--------|
 | 2.6 | Questions: 1/891 → 1/242 → **1/117 after revision** (target ~1/180). Risk has FLIPPED to over-density — don't add more; one fresh chapter in band → Mastered. | 2026-07 | OPEN (watch the ceiling now) |
-| 1B.7 | Sentence-opener frame "I have" ×7 in ch-1 r2 (was ×5) — identical frames read as template; vary the opener, promote the object or participle. | 2026-07 | OPEN (new) |
-| 1C.1/1C.5 | Duplicate clock statements — fixed brilliantly in the glitch ¶ (the ticking paragraph), then re-introduced at the cover-tracks ¶ (stamp + "little time" + "a few minutes"). The stamp alone does the work. | 2026-07 | OPEN (new) |
+| 1B.7 | Sentence-opener frame "I have" ×6 / "I am" ×6 at ch-1 lock — identical frames read as template; vary the opener, promote the object or participle. Carry into Ch. 2. | 2026-07 | OPEN |
+| 0 (frag) | Fragments 18.9% vs 25–35 target at ch-1 lock — scene 2 runs fuller-sentenced; more "It waits."-class beat-fragments. Carry into Ch. 2. | 2026-07 | OPEN (new) |
 
 **Retired from watch-list (fixed in ch-1 revision, one round each):**
 - 0/1.1 narration median: 12.0 → **9.0, in band.**
@@ -20,7 +20,8 @@ log IS the progress record.
 
 | Rule | Evidence | Date |
 |------|----------|------|
-| | | |
+| 1B.2/1.4 (metronome) | 41% → in-band (27.9%) with irregular spacing, held across r2–r5 of ch-1; organic zingers rationed by hand, clock stamps licensed | 2026-07-11 |
+| 1C.1/1C.5 (duplicate clocks) | Repeat offender through r2–r3; by r5 Alex self-caught the pattern (cover-tracks ¶ fixed, shutdown frames differentiated into stages) | 2026-07-11 |
 
 ## Voice bank (Alex's idiolect — phrases/rhythms that broke a rule and WON)
 
@@ -70,6 +71,7 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-11 (LOCK): **Chapter 1 LOCKED.** Five drafts over two days, B → A−, every sentence Alex's. All 15+ editorial tags cleared by him; final vitals in band (median 9.0, punch 27.9%, em-dashes 16, lexicon clean); logic audit clean. Past-tense curtain ruled canon (testimony frame surfacing). Watch-list rotated: metronome + duplicate-clocks → Mastered; opener frames + fragment ratio carry into Ch. 2. Next: F1–F3 rulings, then the Ch. 2 packet.
 - 2026-07-11 (r5, logic audit): all register tags cleared by Alex across r3–r5; em-dashes swept (13); prose-logic-review run — 30 passages, 1 structural finding (duplicate shutdown frame at the curtain), 3 low line-items, everything else CLEAN including the retro-briefed crime, surveillance logic, body canon, question ledger, and countdown. Chapter is 4 small tags from LOCK. New voice-bank: "The Glitch is staying silent." (bridge plant), "I am no longer the only one." (thesis beat), fear-or-excitement payload classification.
 
 - 2026-07-10: Built pair-writing packet for Ch. 1 human re-write (`packets/chapter-01.md`) — clean-room applied (existing AI draft not quoted). Foregrounded the two OPEN watch-list rules (2.6 questions, 1B.2/1.4 metronome) as the primary cues; 6 staging forks with AI-obvious options flagged. Awaiting Alex's draft → annotated pass next.

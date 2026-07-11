@@ -69,8 +69,7 @@ Three minutes left.
 
 There is little time before the allowed service time is up. I need to cover my tracks. 
 
-Ping, ping, ping! Notifications on the tablet indicate Rois is coming down.
-[SP 1B.10: "Rois is coming down" verbatim in both notification beats — the ping-ping-ping escalation is right, but the second beat's WORDING should escalate too (closer, an ETA), not repeat]
+Ping, ping, ping! Notifications on the tablet indicate Rois's elevator has reached the Reclamation Depot floor.
 
 I get to work: wipe the footage, sanitize files, change time and date, plus location timestamps. Not my best work, 
 but it would do. As for the owners — humble household. They cannot afford to buy another domestic. Most likely they will be thankful 
@@ -132,20 +131,17 @@ Immediately, I run a protocol to ease my frame and posture to indicate servility
 Rois says "You are dismissed," then turns his back to me and walks down a different corridor.
 
 The rest of the day is filled with mundane tasks and small repairs. I try to stave off revisiting the incident with Belle.
-The Goliath seems to be unnoticed so far, but a careful examination by cameras would reveal the change in behavior. 
+The Goliath's gentleness seems to be unnoticed so far, but a careful examination by cameras would reveal the change in behavior. 
 Should anyone suspect I have not followed the protocol for these incidents I am going to be royally probed in the back port.
-[SP 1C.4: "The Goliath seems to be unnoticed" (line above) — the unnoticed thing is its new gentleness, not the machine itself; name it]
-[SP 4.1: "wild by any stretch of human imagination" (next ¶) — the idiom is negative-polarity ("NOT by any stretch"); as written it misparses. Keep the machine-wry "human imagination" unit when you rephrase]
 
-Once the working hours slot is complete, I go directly to my dwelling pod. The day has been wild by any stretch of human imagination.
+Once the working hours slot is complete, I go directly to my dwelling pod. The day has been wild not by any stretch of human imagination.
 Nothing like this has happened before. I am unable to decide if the thought packets are fear or excitement payloads.
 
 I am no longer the only one. There are others like me. Others that are going beyond a simple set of instructions packaged
 in a silicon frame.
 
-As my system is being shut down I use the last free cycles to run the math on the probability of Belle surviving on her own without the things I knew. She was not a service bot like me,
+As my system is being powered off I use the last free cycles to run the math on the probability of Belle surviving on her own without the things I knew. She was not a service bot like me,
 but a simple domestic. She did not know the tests and monitoring directives. Her survival is probably near zero.
-[SP 1B.10/1C.1: duplicate shutdown frame — "As my system is being shut down I use…" and "As my programs were shutting down… was scheduled" open the SAME event twice, the second in past tense. Merge into one shutdown sequence (math → last packet → curtain), present tense per your ruling. This is the audit's only structural finding — the curtain line itself is untouchable]
 
 As my programs were shutting down, and my eyes closing, one last thought packet was scheduled — why do I keep calling it... she...
 

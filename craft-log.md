@@ -8,9 +8,13 @@ log IS the progress record.
 
 | Rule | What keeps happening | Since | Status |
 |------|---------------------|-------|--------|
-| 2.6 | Questions: 1/891 → **1/242 in hand-drafted ch-1 rewrite** (target ~1/180). Near band; one more chapter in-band → Mastered. | 2026-07 | OPEN (improving) |
-| 1B.2/1.4 | Metronome: 41% → **21.4%, punch spacing CV 0.55 (irregular = good)** in rewrite. In band; hold it one more chapter. | 2026-07 | OPEN (improving) |
-| 0 / 1.1 | Narration median 12.0 vs ≤9 target — long dash-chained sentences; split at the dashes. (New, from ch-1 rewrite vitals.) | 2026-07 | OPEN |
+| 2.6 | Questions: 1/891 → 1/242 → **1/117 after revision** (target ~1/180). Risk has FLIPPED to over-density — don't add more; one fresh chapter in band → Mastered. | 2026-07 | OPEN (watch the ceiling now) |
+| 1B.7 | Sentence-opener frame "I have" ×7 in ch-1 r2 (was ×5) — identical frames read as template; vary the opener, promote the object or participle. | 2026-07 | OPEN (new) |
+| 1C.1/1C.5 | Duplicate clock statements — fixed brilliantly in the glitch ¶ (the ticking paragraph), then re-introduced at the cover-tracks ¶ (stamp + "little time" + "a few minutes"). The stamp alone does the work. | 2026-07 | OPEN (new) |
+
+**Retired from watch-list (fixed in ch-1 revision, one round each):**
+- 0/1.1 narration median: 12.0 → **9.0, in band.**
+- 1B.2/1.4 metronome: organic zingers cured (21.4%); the r2 vitals metronome flag (punch CV 0.28) is the **countdown device — LICENSED** (9.11: the regular tick mirrors the character counting; it IS the dread). Keep non-clock zingers rationed.
 
 ## Mastered (rules that stopped appearing in passes)
 
@@ -27,6 +31,15 @@ log IS the progress record.
 - "why do I keep calling her... she..." — naming motif dramatized as involuntary slip; strong enough it REPLACED canon (user-ruled, 2026-07)
 - **"Bolts!"** — Shua's in-world oath, coined unprompted during revision (4.2 satisfied before it was tagged). CANON vocabulary now — reuse verbatim, 2-3 deployments per book max. (2026-07)
 - Self-initiated rhythm splits during revision ("The whole room is white." / "Four for each corner.") — 1B.2 applied by hand before the tag landed
+- **The ticking paragraph** (ch-1 r2): countdown stamps interleaved INSIDE interiority ("Thirty-six seconds. … Twenty-eight seconds. … Four seconds.") — solved the two-clocks collision by making the sub-clock live; 2B.7 gauge × 6.22 alternating tempo, invented unprompted. NAME IT, REUSE IT.
+- "There is one caveat — I am a Class-C unit myself." — trailing undercut (1.18) by instinct; also the new reveal staging
+- Gauge as characterization: stamps run 11→Ten→Nine→Eight→Seven→**Three** — the silent 7→3 jump means four minutes vanished while he looked at Belle. Time disappearing = the look mattering, told by clock alone.
+- "Rois looks at me like you would a microwave before you put your food in" — human-marker simile from lived domain (2026-07-11 expansion)
+- "royally probed in the back port" — crude machine idiom; no model writes this. Keeper.
+- "Humans love their colors. Automatons get three. White, gray and black." — worldbuilding through the sentence + fragment rhythm; spawned the color-axis canon (4.9)
+- Curtain upgraded again: "why do I keep calling it... she..." — the slip now happens INSIDE the sentence; the line performs itself
+- The oath moved OFF the pivot — "I click on Class-B." stands alone again; the reaction beat relocated to the Rois notification. 1.3/1.4 fix self-administered.
+- Exposition sites 1–3 all restaged by Alex from the forks: offline-rig → live event; procedure → two-outcomes shape; parenthesis gone. The asymmetry sentence (2.8) delivered: "Rois looks to be unaware of the Class-C case that I just hid under his nose."
 - (add every time a pass keeps YOUR phrasing over the rulebook's)
 
 ## Domain-word deposits (life-vocabulary per chapter — words no model reaches for)

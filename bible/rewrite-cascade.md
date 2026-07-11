@@ -56,7 +56,20 @@ recorded → watched-by-all." Monotonic, and it aims the whole book at the contr
 - **Goliath:** pure smasher in the draft ("smashed to pieces"). Cairn's Ch. 3 turn needs the gentleness seed planted *somewhere* in Ch. 1–2 — Ch. 1 revision or Ch. 2's job?
 - **Rios / named humans:** absent (humanize rule 3). Ch. 1 revision or first appears Ch. 2?
 - **"source unknown, no action available" / ten thousand filings:** dead with the 41-year glitch (7 weeks ≈ dozens of filings at most). Drop, or rescale ("fifty-one filings. No one has answered.").
-- **Register locks, still open from the annotated pass:** reader address (cap at 1 testimony line vs. re-lock to a chattier Murderbot-address register) and **tense** (past locked vs. the draft's present-leaning mix). These govern every chapter of the rewrite — rule before Ch. 2's packet.
+- **Register locks — RULED in ch-1 revision (2026-07-10, by Alex's edits):**
+  - **Reader address: capped at ONE per chapter.** Ch. 1 keeps "I don't care about them and neither should you" as its single address (address #1 cut, #3 converted to FID self-question). This is the testimony-frame budget going forward.
+  - **Tense: PRESENT for the scene body** (Alex changed "I had 11 minutes" → "I have"; body swept to present). ⚠ CONFIRM: the closing two ¶s ("The day filled… I went… were shutting down") remain past — deliberate end-of-day retrospection, or seam to sweep? One-word ruling needed; if deliberate, "The day filled" wants its verb ("was filled") so the shift reads chosen.
+  - **Oaths (4.2): "Bolts!" canon; escalated variant "Bolts and packets!"** — density question open (two oaths four lines apart at the checkbox/pivot; recommendation: keep one).
+  - **Mantra wording (2B.3) LOCKED by revision:** "I am the highest performing automaton in the city. I never malfunction." — redeploys verbatim at future injuries.
+
+## Ch. 1 expansion canon (2026-07-11, from Alex's draft — ledgered)
+
+- **Shua origin — MAJOR:** he was a disembodied **coding agent**, later *migrated to a humanoid frame*; AI invented ~138 years ago (track record 130y, Class-C 97y — compatible). Pre-embodiment origin is new series canon; interacts directly with the F2 glitch-provenance forks (a mind that has already crossed substrates once).
+- **Machine color canon:** automatons are allowed three colors — white, gray, black; the Goliath is charred black (furnace-ash camouflage). "Humans love their colors." = the world's signature axis (4.9); machines as negative space. High-value; thread it.
+- **The Goliath seed delivered on-page:** faces Shua "almost expectantly"; sets a cleaning bot into the press with "gentleness and care"; Shua's stake coined: "the next time I see the Goliath will not be for repairs."
+- **Rois voice (3.2):** command-line diction — "I want it fixed ASAP." / "You are dismissed." Looks at machines "like you would a microwave."
+- **The tablet = multi-job prop (5.8):** report, falsification, notification plant ("I file to review later") → payoff ("Another notification"), diagnostic rig. The chapter's object; give it an arc.
+- **RULINGS PENDING (tagged in draft):** "Rois" vs old canon "Rios" · "Yax Enterprises" vs "Yax Engineering" · Goliath pronoun policy (he/it — naming motif) · tripped cable: luck vs by-design isolation.
 
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)

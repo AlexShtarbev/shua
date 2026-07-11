@@ -54,7 +54,7 @@ recorded → watched-by-all." Monotonic, and it aims the whole book at the contr
 - **Maxim wording:** "polite as they are having you killed" survived in-voice at `chapter-01.md:23`. Accept this as the new verbatim (ledger updated), or restore the old standalone-sentence form in revision.
 - **Gauge:** old 9-day personal-diagnostic countdown is absent. The draft's countdown (11→7 minutes) is scene-local. Does the book keep a chapter-scale depleting gauge (2B.7), and what is it now? (Candidate: weeks-since-Glitch counting *up* — an approaching-storm gauge instead of a fuse.)
 - **Goliath:** pure smasher in the draft ("smashed to pieces"). Cairn's Ch. 3 turn needs the gentleness seed planted *somewhere* in Ch. 1–2 — Ch. 1 revision or Ch. 2's job?
-- **Rios / named humans:** absent (humanize rule 3). Ch. 1 revision or first appears Ch. 2?
+- **Rois / named humans:** absent (humanize rule 3). Ch. 1 revision or first appears Ch. 2?
 - **"source unknown, no action available" / ten thousand filings:** dead with the 41-year glitch (7 weeks ≈ dozens of filings at most). Drop, or rescale ("fifty-one filings. No one has answered.").
 - **Register locks — RULED in ch-1 revision (2026-07-10, by Alex's edits):**
   - **Reader address: capped at ONE per chapter.** Ch. 1 keeps "I don't care about them and neither should you" as its single address (address #1 cut, #3 converted to FID self-question). This is the testimony-frame budget going forward.
@@ -69,7 +69,7 @@ recorded → watched-by-all." Monotonic, and it aims the whole book at the contr
 - **The Goliath seed delivered on-page:** faces Shua "almost expectantly"; sets a cleaning bot into the press with "gentleness and care"; Shua's stake coined: "the next time I see the Goliath will not be for repairs."
 - **Rois voice (3.2):** command-line diction — "I want it fixed ASAP." / "You are dismissed." Looks at machines "like you would a microwave."
 - **The tablet = multi-job prop (5.8):** report, falsification, notification plant ("I file to review later") → payoff ("Another notification"), diagnostic rig. The chapter's object; give it an arc.
-- **RULINGS PENDING (tagged in draft):** "Rois" vs old canon "Rios" · "Yax Enterprises" vs "Yax Engineering" · Goliath pronoun policy (he/it — naming motif) · tripped cable: luck vs by-design isolation.
+- **RULINGS (2026-07-11, all closed):** Rois ✓ (bible synced) · Yax Enterprises ✓ (bible synced) · Goliath = "it" everywhere (Shua polices ALL machine pronouns; "she" slips reserved for Belle) · cable → AGENCY: **Shua deactivated the intranet himself** (premeditated isolation, competence per 2B.13; note — a cut intranet is itself discoverable evidence, feeds the Ch. 9 trap). Attachment beat delivered: "I miss the good old days…" (humanize rule 2 ✓; carries the licensed undressed feeling "sadly," 9.3).
 
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)

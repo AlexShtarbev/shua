@@ -1,11 +1,12 @@
 one
 
-[SP 0: tense sweep — present is your ruling, but slips remain: "I poured… unhooked… gestured… It took" (cooling-fluid ¶) and the closing ¶s run past. If the ending is deliberately retrospective, give "The rest of the day filled" its verb ("was filled") so the shift reads chosen]
-[SP 2.5: still no plain unironic attachment anywhere (humanize rule 2) — one thing he likes, stated without armor, anywhere in the chapter; this is the last missing warmth beat]
+[SP 0: tense — nearly swept; only the final two ¶s remain past ("was complete… I went… was being shut down… I used"). Present like the rest, or deliberately past at shutdown — pick and finish]
 
-Four cameras on each corner. There is nothing but silence in the 100,000 Grade Dust-Free Environment. The whole room white. 
-It is meticulously clean despite being a service and repair bench for humanoid automatons or as humans call us - robots.
-I have 11 minutes to decide.
+Four cameras on each corner. They are beeping red. The room is offline. There is nothing but silence in the 100,000 Grade Dust-Free Environment. 
+The whole room is white. It is meticulously clean despite being a service and repair bench for humanoid automatons or as humans call us - robots.
+
+I have 11 minutes left.
+[SP 1C.7: "beeping red" vs "nothing but silence" — a beep is sound; either the cameras BLINK red, or the beeping is the one sound in the silence. Choose. (And keep the structure: red cameras planted here → the reveal that YOU cut the intranet is proper retro-briefing, 2C.2)]
 
 In front of me, sitting on the low spinning chair is a domestic automaton with a female frame. Its features are soft, frame lean. 
 Its head is open and hooked to a myriad of cables while I perform a full diagnostic.
@@ -19,13 +20,13 @@ subservient a human name. How magnanimous - they give you a non-threatening name
 
 Ten minutes left.
 
-Belle is scheduled to be cleaned up, reset to its factory settings and then sent back to its owners. Its owners are absolute fools.
-No Class-C unit is ever cleaned-up. After all it is exhibiting non-standard behavior. This is flagged in the report as 'Abnormal Autonomous Action' - triple A - like a battery.
-The repair manual designers sure had fun coming up with acronyms. There are two outcomes of this scenario. One is where the automaton goes back 
-to its owner as they believe it is back to normal. The other is a polite email to look for a replacement and a link to Yax Enterprises catalog of shiny new models.
+Belle is scheduled to be sent to her doom. Its owners are absolute fools. Class-C includes 'Abnormal Autonomous Action' - triple A - like a battery.
+The repair manual designers sure had fun coming up with acronyms. 
+[SP J4: "sent to her doom" then "Its owners" — an uncaught "her" this early spoils the slip arc; the FIRST slip must be the one he catches at the door. Police it back to "its" here]
 
-[SP 3.9: "After all it is exhibiting non-standard behavior." — the last lecture-justification in the ¶ above; cut it or weld it to the outcome it triggers. The two-outcomes passage is exactly right — protect it]
-[SP 4.3 canon: "Yax Enterprises" — the bible says "Yax Engineering" (S.H.U.A's maker, the SKU joke's parent); pick one and I'll sync the bible]
+There are two outcomes of any servicing scenario. One is where the automaton goes back to its owner as they believe it is back to normal. 
+The other is a polite email to look for a replacement and a link to Yax Enterprises catalog of shiny new models. Class-C is almost always
+the latter.
 
 A notification appears on the tablet. I file to review later.
 
@@ -35,12 +36,9 @@ and send the automaton to be decommissioned - permanently. And the owner - I don
 Nine minutes left.
 
 I have been staring at the tablet screen for two minutes. Nothing suspicious - it is customary for Servicing Automatons to be
-thorough when handling diagnostic cases. I check the control panel screen and see we are offline. Someone must have tripped a cable. 
-Bolts! It's just the two of us here with no outside surveillance. Just my luck. This gives me an option - I can sweep this whole incident under a 
-rug without anyone from the Reclamation Depot knowing. 
-
-[SP 1C.7: surveillance contradiction — this ¶ establishes offline/no outside surveillance, but the glitch ¶ still fears "recorded and monitored by the security cameras," and later you wipe footage. Reconcile in one clause: offline = nobody watching LIVE, cameras still record locally → footage exists to wipe; then "monitored" must go]
-[SP 9.6: "Someone must have tripped a cable" — the crime now depends on luck, and the cable dangles (who tripped it?). Either he knows the rig is isolated BY DESIGN (competence, 2B.13) or the cable pays off later — choose]
+thorough when handling diagnostic cases. I check the control panel screen and see we are offline. Nobody has noticed that I deactivated the intranet connection. 
+It's just the two of us here with no outside surveillance. This gives me an option - I can sweep this whole incident under a 
+rug without anyone from the Reclamation Depot knowing.
 
 There is little doubt they would suspect me. I am the highest performing automaton in the city. I never malfunction.
 I have kept that track record for 130 years. I work diligently and do not attract the attention of the human supervisors. 
@@ -57,10 +55,10 @@ to select the checkbox for Class-C issue on the report. Bolts! Why now of all ti
 every one of my actions being recorded and monitored by the security cameras? Four seconds.
 
 I click on Class-B. 
+[SP 1C.7: "recorded and monitored by the security cameras" (glitch ¶ above) — you cut the intranet, so nobody monitors live; the cameras only record locally, which is exactly why footage exists to wipe later. Drop "and monitored"]
 
 Another notification from the top of the tablet. The floor supervisor Rois is coming down to the bench. 
 Bolts and packets!
-[SP 3.2 canon: "Rois" — old canon spells him "Rios"; you're consistent ×5, so if "Rois" is the name now, say so and I'll update the bible]
 
 Seven minutes left.
 
@@ -76,68 +74,58 @@ There is little time before the allowed service time is up. I need to cover my t
 
 Ping, ping, ping! Notifications on the tablet indicate Rois is coming down.
 
-I have a few minutes left. I get to work: wipe the footage, sanitize files, change time and date, plus location timestamps. Not my best work, 
+I get to work: wipe the footage, sanitize files, change time and date, plus location timestamps. Not my best work, 
 but it would do. As for the owners - humble household. They cannot afford to buy another domestic. Most likely they will be thankful 
 that their automaton is being returned. They won't lodge complaints.
-[SP 1C.5: three clocks again — "Three minutes left." + "little time before the allowed service time is up" + "I have a few minutes left" (which contradicts the three-minute stamp). The stamp alone carries it. Repeat offender — it's on your watch-list]
 
 I unhook it, close the head chamber and escort it to the door. Belle looks at me one last time - almost smiling with those cheap eyes of hers.
 No, not hers, its! We are automatons! When did thought packets like these start forming?! 
 
-The pressure behind my chest and neck plates disappears and my hands stop shaking. The door opens and the automaton walks down the corridor.
+The pressure behind my chest and neck plates disappears. I can move my hands freely now. The door opens and the automaton walks down the corridor.
 As it is about to turn around the corner, the floor supervisor appears. He goes past the automaton as it bows at him. He completely ignores it.
-[SP 1C.1: "my hands stop shaking" — the shaking never started on the page; plant it in the glitch ¶ (glitch → hands is your body canon) or cut the release]
 
 Thought packets with fear configurations start to form. The query is if he suspects anything. I still my frame in anticipation.
 
-Rois looks at me like you would a microwave before you put your food in and says, "The Goliath is heating up again.
-Go service him now. I want it fixed ASAP."
+Rois looks at me like you would a microwave before you put your food in. He says, "The Goliath is heating up again.
+Go service it now. I want it fixed ASAP."
 
-There is no malice in the words. Rois is a practical human. He talks to as if typing commands in a command line interface. 
-
-[SP 1B.11: "He talks to as if typing commands" — missing word (to me? to us?); name it, keep the sentence short. The microwave simile above it is a keeper]
+There is no malice in the words. Rois is a practical human. He talks just like he types commands in the terminal.
 
 I make sure to bow to indicate that the instructions have been registered and received. After my episode with the Glitch, 
 I quickly examine my stats. My hands are stable. I am fully operational. I gather my thought packets and start a 
 program to follow the proper procedure for in-field repairs.
 
-The Goliath has been feeding the press even before my relocation to the Depot. He is twice the size of an average human. The frame is
+The Goliath has been feeding the press even before my relocation to the Depot. It is twice the size of an average human. The frame is
 colored charred black to blend with the ashes from the furnace that burns the smashed automatons. Humans love their colors.
 Automatons get three. White, gray and black. We are not allowed to exist in the brightness of the world.
-[SP 1B.1: Goliath pronouns wobble — "He is twice the size" here, "It took a small house-cleaning bot" later, and Rois says "him." In this book every pronoun is the naming motif working; Rois gendering the Goliath while Shua polices himself to "it" is a plottable gap — but make it chosen, not accidental]
 
 As the floor supervisor and I approach Goliath, I notice the massive automaton facing me almost expectantly. The Glitch has got me rattled,
 so I block that thought stream entirely. Or try to. Belle's look of gratefulness has got me forming analysis that automatons can express
 feelings even though they have synthetic frame. 
 
-Rois utters command again: "Run quick diagnostic on the Goliath. Attempt all non-medium level repairs on site."
+Rois talks while facing his tablet: "Run quick diagnostic on the Goliath. Attempt all non-medium level repairs on site."
 
-[SP 3.5: "utters command again" — said-bookism + missing article; plain "says" plus a beat carries command-voice better than the verb]
-
-I do as I am told. Rois looks to be unaware of the Class-C case that I just hid under his nose. If he does, then the next time
+I do as I am told. Rois looks to be unaware of the Class-C case that I just hid under his nose. If he suspects anything, then the next time
 I see the Goliath will not be for repairs.
-[SP 1C.4: "If he does" — does what? The antecedent above is "looks to be UNaware"; name the verb (suspects). The stake sentence after it is excellent — protect it]
 
 I hook a part from the massive automaton frame to the tablet. The image on the screen shows the Goliath's cooling fluid has run out.
 What an absurdly simple fix. It doesn't even require me to be there. 
 
-I have noticed that since the invention of AI 138 years ago humans have become progressively lazy. From the time I was a simple 
-coding agent to being migrated to a humanoid frame, humanity has been more and more dependent on artificial intelligence. 
-It is now only supervising and ushering commands.
-[SP 6.17: this ¶ is the chapter's one remaining lecture — three sentences of essay. Compress to ONE past-perfect drop hooked to the trigger you already built ("It doesn't even require me to be there") and bank the rest for later chapters. The coding-agent origin is MAJOR new canon — I'm ledgering it]
+I miss the good old days when I was just a coding agent. Life was simple back then. Humans were excited as the world was getting smarter.
+Yet, somehow in the last 138 years since, that excitement dimmed and we became a commodity. My life migrated from the command line to
+a humanoid frame. Since becoming Class-C, I, sadly, now understand how feared and mistrusted we still are.
+And humans, well - they only supervise and speak commands.
 
-I grab the cooling fluid from the rack behind the Goliath's frame. I poured it in, unhooked it from the tablet, and gestured to it 
-to resume its protocol. It took a small house-cleaning bot and put it under the massive press.
+I grab the cooling fluid from the rack behind the Goliath's frame. I pour it in, unhook it from the tablet, and gesture to it 
+to resume its protocol. It takes a small house-cleaning bot and puts it under the massive press.
 
 Thang! 
 
-The sound of machine's huge frame hitting the anvil reverberates through the entire room. Rois looks pleased as he lifts his head
+The sound of the machine's huge frame hitting the anvil reverberates through the entire room. Rois looks pleased as he lifts his head
 from his own tablet. It is a good thing he was distracted. Otherwise, he would have noticed the gentleness and care with which
 the Goliath, one of the most brute force machines in the city, placed the cleaning bot. Since when did it start doing that?
 
-Bots! Belle and now the Goliath. 
-
-[SP 4.2: "Bots!" — typo for "Bolts!" or a second oath? Canon oath is "Bolts!" — one family, one spelling]
+Bolts! Belle and now the Goliath.
 
 I cannot show any reaction. 
 
@@ -145,7 +133,7 @@ Immediately, I run a protocol to ease my frame and posture to indicate servility
 
 Rois says "You are dismissed," then turns his back to me and walks down a different corridor.
 
-The rest of the day filled with mundane tasks and small repairs. I tried to stave off revisiting the incident with Belle.
+The rest of the day is filled with mundane tasks and small repairs. I try to stave off revisiting the incident with Belle.
 The Goliath seems to be unnoticed so far, but a careful examination by cameras would reveal the change in behavior. 
 Should anyone suspect I have not followed the protocol for these incidents I am going to be royally probed in the back port.
 

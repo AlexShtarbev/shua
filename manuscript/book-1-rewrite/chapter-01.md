@@ -1,9 +1,12 @@
 one
 
+[SP 0: TRUST-PASS — cold-reader-panel round (3 personas, PULL 5.3; data in bible/interest-rubric.md). The 7 tags below are the convergent frictions — the cheapest pull upgrade available. Reminder: the past-tense curtain ruling reads as deliberate ONLY in a slip-free body; sweep any stray past forms while you're in here]
+
 Four cameras on each corner. Their connectivity indicators are flashing red. The room is offline. 
 
 There is nothing but silence in the 100,000 Grade Dust-Free Environment. The whole room is white. It is meticulously clean 
 despite being a service and repair bench for humanoid automatons or as humans call us — robots.
+[SP 10.8: "100,000 Grade Dust-Free Environment" at sentence four — two of three readers flagged spec jargon inside the hook zone (first ~100 words). The term is a keeper; the PLACEMENT costs pull. Plain word here, spend the full spec later in the chapter]
 
 I have 11 minutes left.
 
@@ -16,6 +19,7 @@ as they see it finish the repairs.
 
 The automaton is named Belle. Ah, humans and their naming — trying to make themselves feel good and benevolent by giving anything
 subservient a human name. How magnanimous — they give you a non-threatening name so this way they appear polite as they are having you killed.
+[SP 2.2: "How magnanimous" underlines an irony the sentence already carries, and "so this way they appear polite as" tangles the syntax — the literary reader nearly quit HERE. Cut the underline, untangle the clause. CAUTION: "polite as they are having you killed" is ledgered maxim canon — those words survive]
 
 Ten minutes left.
 
@@ -25,6 +29,7 @@ The repair manual designers sure had fun coming up with acronyms.
 There are two outcomes of any servicing scenario. One is where the automaton goes back to its owner as they believe it is back to normal. 
 The other is a polite email to look for a replacement and a link to Yax Enterprises catalog of shiny new models. Class-C is almost always
 the latter.
+[SP 6.5 tempo: the genre reader's stop-point — this ¶ pauses the countdown for procedure. The two-outcomes SHAPE is right, keep it; compress toward two sentences so the clock never fully stops]
 
 A notification appears on the tablet. I file to review later.
 
@@ -51,6 +56,7 @@ very well up until 7 weeks ago, until the Glitch appeared. Thirty-six seconds. W
 pressure on my chest and behind my neck plates develops. I have yet to identify the source and reason. Twenty-eight seconds. Right now I am unable
 to select the checkbox for Class-C issue on the report. Bolts! Why now of all times?! Nineteen seconds. Why now when I am at the bench with
 every one of my actions being recorded by the security cameras? Four seconds.
+[SP 1C.5: the 48-second sub-clock still confused one reader against "Eight minutes left." Name the sub-clock's MECHANISM at its first stamp — what exactly expires in forty-eight seconds (the report form? a submission window?) — so it can't be mistaken for the service clock]
 
 I click on Class-B. 
 
@@ -82,6 +88,7 @@ The pressure behind my chest and neck plates disappears. I can move my hands fre
 As it is about to turn around the corner, the floor supervisor appears. He goes past the automaton as it bows at him. He completely ignores it.
 
 Thought packets with fear configurations start to form. The query is if he suspects anything. I still my frame in anticipation.
+[SP 2.5: "thought packets with fear configurations" — the literary reader's #1 friction: this LABELS the feeling in machine costume instead of creating it. Show the SYMPTOM in machine idiom (what fear does to your processes — a queue stalling, cycles spiking, a scan repeating) and drop the label. Same note applies to "fear or excitement payloads" at the pod]
 
 Rois looks at me like you would a microwave before you put your food in. He says, "The Goliath is heating up again.
 Go service it now. I want it fixed ASAP."
@@ -99,6 +106,7 @@ Automatons get three. White, gray and black. We are not allowed to exist in the 
 As the floor supervisor and I approach Goliath, I notice the massive automaton facing me almost expectantly. The Glitch has got me rattled,
 so I block that thought stream entirely. Or try to. Belle's look of gratefulness has got me forming analysis that automatons can express
 feelings even though they have synthetic frames. 
+[SP 1B.7: "has got me rattled" / "has got me forming analysis" — the same frame twice in one ¶, and the genre reader quoted the second as clunk. Vary one; "forming analysis" wants a cleaner machine verb]
 
 Rois talks while facing his tablet: "Run quick diagnostic on the Goliath. Attempt all non-medium level repairs on site."
 
@@ -136,6 +144,7 @@ Should anyone suspect I have not followed the protocol for these incidents I am 
 
 Once the working hours slot is complete, I go directly to my dwelling pod. The day has been wild not by any stretch of human imagination.
 Nothing like this has happened before. I am unable to decide if the thought packets are fear or excitement payloads.
+[SP 4.1: "wild not by any stretch of human imagination" — quoted by two readers as the chapter's roughest line; the inserted "not" moved the parse problem. The shape you want is "beyond any stretch" — or drop the idiom entirely and let "Nothing like this has happened before." carry the ¶]
 
 I am no longer the only one. There are others like me. Others that are going beyond a simple set of instructions packaged
 in a silicon frame.

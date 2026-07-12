@@ -118,7 +118,7 @@ Severity may still rise incidentally; visibility is the audited axis.
 
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)
-- `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1 LOCKED (2026-07-11)** — 5 drafts, all register passes + logic audit clean, zero open tags.
+- `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1: TRUST-PASS OPEN (2026-07-12)** — lock reopened by the cold-reader panel (PULL 5.3; `bible/interest-rubric.md`); 8 [SP] tags in-file. Relock when tags clear + panel re-run confirms pull gain.
 - Ch. 2+ packets: **UNBLOCKED** — F1 (fire, custom), F2 (b, latent packet), F3 (visibility axis) ruled 2026-07-12; F4 closed.
 - **Packet cadence (ruled 2026-07-12): just-in-time waves.** Packets built as Alex drafts, so each embeds the live watch-list + accreted canon. New packets live in `packets/book-1/` (root `packets/chapter-01.md` = pre-rewrite exemplar, kept). Book 2–3 packets wait until the Book 1 rewrite locks what they inherit.
 - Built: `packets/book-1/chapter-02.md`, `packets/book-1/chapter-03.md` (2026-07-12).

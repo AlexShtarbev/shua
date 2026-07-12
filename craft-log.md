@@ -71,6 +71,14 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-12 (interest rubric): Built `bible/interest-rubric.md` — two-layer story-interest
+  instrument (craft rubric 12 axes / cold-reader perception panel, personas = the comps).
+  Ch. 1 baseline: **craft 20/24, perception PULL 5.3, CONTINUE 2/3.** Delta = structure
+  sells, surface drags. Unanimous hooks: intranet reveal, "I am also a Class-C unit," the
+  ticking paragraph. Convergent friction: copyedit-level roughness (quoted lines fed back
+  for trust-pass), spec jargon in the hook zone (10.8 placement amendment), machine-idiom
+  emotion labels (NEW watch-list candidate: "fear configurations" = 2.5 in costume).
+  Note: surface noise makes even RULED choices (past-curtain) read as slips.
 - 2026-07-12 (packet wave 1): F1–F3 RULED and ledgered in `rewrite-cascade.md` — F1 custom
   (**the fire**: Belle re-flagged for saving the owners' daughter; press-death → Goliath-refusal
   chain preserved, veto window noted), F2-b (latent listener-packet, activated by the wave),

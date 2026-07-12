@@ -43,10 +43,9 @@ malfunction**; the felony **saved the child** (had Shua filed Class-C on Day 1, 
 home when the fire starts — the two-outcomes maxim bends on-page); the saved family =
 series-horizon candidate for Book 2 Ch. 13's mother-who-can't-unwatch / Book 3 Ch. 11's
 human crossing.
-*Synthesis note (standing unless Alex vetoes):* the ruling specifies the fire + rescue as
-the flagging mechanism; the downstream chain (hauled back → press death witnessed →
-Goliath refusal → reinit order) is preserved as the load-bearing spine — Ch. 3 (Cairn)
-hangs on the dock refusal.
+*Synthesis CONFIRMED by Alex (2026-07-12):* "Belle is dragged back to the press — just
+the reason why is changed." The downstream chain (hauled back → press death witnessed →
+Goliath refusal → reinit order) is locked spine; the fire is the flagging mechanism only.
 
 ### F2 — Ch. 8 keystone (was: the Glitch = the listener's 41-year packet)
 J2 kills the direct link (glitch is 7 weeks old). The origin sin (obeyed and wiped the

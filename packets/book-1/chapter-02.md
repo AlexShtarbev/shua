@@ -9,11 +9,9 @@
 > anchors** (system strings / locked maxims / the mantra) that later chapters and Books 2–3
 > pay off. Everything else is yours to voice.
 >
-> **F1 RULING BAKED IN (yours, 2026-07-12): THE FIRE.** One standing assumption to veto
-> before you write: the fire is the *re-flagging mechanism* — Belle still comes back
-> through your Depot and dies at the press, witnessed. Ch. 3 (Cairn) hangs on the dock
-> refusal. If you meant Belle to die IN the fire instead, stop and say so — that reroutes
-> Ch. 3 entirely.
+> **F1 RULING BAKED IN (yours, 2026-07-12): THE FIRE — synthesis CONFIRMED.** The fire is
+> the *re-flagging mechanism only*; Belle still comes back through your Depot and dies at
+> the press, witnessed. Ch. 3 (Cairn) hangs on the dock refusal.
 
 ---
 

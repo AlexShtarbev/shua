@@ -13,7 +13,7 @@
 | J1 | **Falsify + release:** Shua reclassifies Belle Class-B, wipes footage, sanitizes timestamps, sends her home. A *hidden crime*, not a stall. | RESCHEDULE-checkbox stall; Belle stays in-system |
 | J2 | **Timeline:** Shua ~130 years old; awake/Class-C and hiding for **97 years**; **the Glitch appeared 7 weeks ago** (pressure at chest + behind neck plates). | 41 years at the bench; glitch carried 41 years |
 | J3 | **Belle goes home** — alive, un-wiped, untaught. Shua's own math: survival near zero (she doesn't know the tests and monitoring directives). | Belle rides the return rack, dies at the press Ch. 2 |
-| J4 | **Naming motif = the slip.** He involuntarily says "her/she," catches himself; the curtain is the slip escaping again. | Stated absolute refusal ("not even inside my own head") |
+| J4 | **Naming motif = the slip.** He involuntarily says "her/she," catches himself; the curtain is the slip escaping again. **AMENDED (2026-07-13, Alex):** Ch. 1's rebuilt ending (fire-news stinger) carries naming by direct address only ("Belle. What have you done?"); the involuntary she-slip **relocates to Ch. 2** — fires mid-crisis, uncorrected, the first "she" he doesn't catch. Ch. 3 Fork D (Cairn's pronoun) rides on the Ch. 2 slip now. | Stated absolute refusal ("not even inside my own head") |
 | J5 | Class system on the page: **Class-A / B / C** (new/worn/anomalous); report term **"Abnormal Autonomous Action" (AAA)**. | "anomalous initiative" euphemism; Class-C only |
 
 ## What the new architecture BUYS (real gains — use them)
@@ -46,6 +46,14 @@ human crossing.
 *Synthesis CONFIRMED by Alex (2026-07-12):* "Belle is dragged back to the press — just
 the reason why is changed." The downstream chain (hauled back → press death witnessed →
 Goliath refusal → reinit order) is locked spine; the fire is the flagging mechanism only.
+
+**⏱ TIMING AMENDED (2026-07-13, Alex, ruled):** the fire's NEWS breaks at **Ch. 1's
+close** — Rois hears the report on his tablet and runs; Shua's curtain is "Belle. What
+have you done?" Ch. 2 opens in the aftermath (echo-bridge, 6.19) — no fire-reveal beat
+needed there; feed-review/reconstruction remains available for *detail*, not for news.
+News wording canon (per the published Ch. 1 line): "domestic has saved **its owners**
+from their burning house" — the household (incl. the daughter, series-horizon seed)
+stands behind the loose news phrasing; the report is imprecise, the canon event intact.
 
 ### F2 — Ch. 8 keystone (was: the Glitch = the listener's 41-year packet)
 J2 kills the direct link (glitch is 7 weeks old). The origin sin (obeyed and wiped the
@@ -104,21 +112,50 @@ Severity may still rise incidentally; visibility is the audited axis.
 - **The tablet = multi-job prop (5.8):** report, falsification, notification plant ("I file to review later") → payoff ("Another notification"), diagnostic rig. The chapter's object; give it an arc.
 - **RULINGS (2026-07-11, all closed):** Rois ✓ (bible synced) · Yax Enterprises ✓ (bible synced) · Goliath = "it" everywhere (Shua polices ALL machine pronouns; "she" slips reserved for Belle) · cable → AGENCY: **Shua deactivated the intranet himself** (premeditated isolation, competence per 2B.13; note — a cut intranet is itself discoverable evidence, feeds the Ch. 9 trap). Attachment beat delivered: "I miss the good old days…" (humanize rule 2 ✓; carries the licensed undressed feeling "sadly," 9.3).
 
+## Ch. 1 expansion canon — round 2 (2026-07-14, from Alex's self-annotation-pass rewrite)
+
+- **THE FIRST SPOKEN LIE (major, Alex's unprompted staging of the dialogue fork):** after the press
+  Thang, Rois asks — sharply, "words almost garbled" — "What was the result of the diagnostic from
+  the Class-C?" Shua, counting half a second first: **"Class-B. It was incorrectly assigned."**
+  First lie spoken aloud to a human. Ladder intact (still a hidden crime — no one KNOWS it's a lie);
+  Ch. 2's THE LIE (beat 15, thermal, protecting a refuser) now has an ancestor to escalate from.
+- **Rois suspicion thread (new, chapter-spanning):** frantic typing with no pending work orders →
+  the garbled pointed question → "He stares at me. Or more like through me." → hears the news →
+  RUNS. Rois leaves Ch. 1 possibly suspicious — feeds his Ch. 2 override voice and Adler's Ch. 9
+  file. The dead-zone is now armed end to end (KU's 3-round stop-point addressed structurally).
+- **Doom-¶ CUT (Alex's ruling, beyond the cool-one-of-two note):** "Belle is scheduled to be sent to
+  its doom / absolute fools / Triple-A" ¶ removed entirely. The stake now lands by inference
+  ("Typical Class-C behavior" + "Class-C means the furnace"). **Consequence: the term 'Abnormal
+  Autonomous Action' (AAA, J5 canon) no longer appears in Ch. 1** — Ch. 2 must introduce it at the
+  remand (packet notes updated).
+- **Alibi upgraded to rehearsal-with-a-secret:** "If anyone asks: it is customary… I have had the
+  result for the better part of an hour." — he's been sitting on a finished diagnostic, stalling.
+- Pending ruling (tagged in draft): the Glitch de-capitalized chapter-wide — restore capital-G
+  (recommended) or re-rule lowercase book-wide and re-sync bible + packets.
+
 ## Ch. 1 plant/payoff registry (logic-audit ledger, 2026-07-11)
 
 | Plant (Ch. 1, on page) | Payoff horizon |
 |---|---|
-| "The Glitch is staying silent." | Ch. 2 open (glitch-quiet bridge — echo it) |
+| "The Glitch is silent." (curtain ¶ — wording updated in the r5 rebuild) | Ch. 2 open (glitch-quiet bridge — echo it) |
 | "Since when did it start doing that?" (Goliath's gentleness) | Ch. 3 (Cairn) |
-| "I am no longer the only one. There are others like me." | Book thesis thread — each chapter adds an "other" |
+| **"Belle. What have you done?"** + the fire news heard through Rois's tablet (r5 rebuild) | Ch. 2 opens by seizing it (6.19); the did-she-stage-it loop is live |
 | Evidence bundle: cut intranet + falsified Class-B + wiped footage + unread notification trail | Ch. 9 (Adler's trap holds a document) |
 | "We are not allowed to exist in the brightness of the world." (color axis) | Series — machines claiming color is a Book 3-grade image |
 | Belle's bow, ignored by Rois | Recording/witness grammar ancestor (Ch. 5+) |
 | Maxim debts: politeness-while-killing · naming-as-benevolence · "There are two outcomes of any servicing scenario." | Boomerang later (5.4) — politeness at the Book 3 signing; the two-outcomes line inverts when HE is the case |
 
+> **Registry delta (2026-07-13, r5 rebuild):** CUT from Ch. 1 — the she-slip + noticing
+> (relocated to Ch. 2 per J4 amendment) · "I am no longer the only one / others like me"
+> thesis ¶ (the thread now STARTS in Ch. 2 — the Goliath is count #1 on the page) ·
+> Belle-survival math (superseded: the fire news answers it louder) · the pod/shutdown
+> sequence and with it the past-tense testimony curtain (F4 ruling re-opens: the
+> present-body/past-curtain shape is still book canon; Ch. 1 currently ends present-tense —
+> per-chapter application is optional, not mandatory).
+
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)
-- `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1: TRUST-PASS OPEN (2026-07-12)** — lock reopened by the cold-reader panel (PULL 5.3; `bible/interest-rubric.md`); 8 [SP] tags in-file. Relock when tags clear + panel re-run confirms pull gain.
+- `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1: RELOCKED (2026-07-13)** — seven cold-reader panel rounds, PULL 5.3 → 6.3 (confirmed ×2), CONTINUE 3/3 throughout; full data `bible/interest-rubric.md`. Fire-news stinger ending is canon (F1-d timing amendment). Polish wave executed by Alex same day (rain bookend · tactical opening · confident-wrong-model open · seemed-sweep · furnace verdict · question restoration) — **FINAL panel r8: PULL 6.5 (best), CONTINUE 3/3 eighth straight. LOOP CLOSED; Ch. 1 FINAL-RELOCKED at 6.5.** Loop total 5.3 → 6.5. Residuals ledgered in the rubric ("draw attention" ×2 reword; coolant dead-zone compression; literary self-annotation axis = Ch. 2+ curriculum). Zero tags in-file.
 - Ch. 2+ packets: **UNBLOCKED** — F1 (fire, custom), F2 (b, latent packet), F3 (visibility axis) ruled 2026-07-12; F4 closed.
 - **Packet cadence (ruled 2026-07-12): just-in-time waves.** Packets built as Alex drafts, so each embeds the live watch-list + accreted canon. New packets live in `packets/book-1/` (root `packets/chapter-01.md` = pre-rewrite exemplar, kept). Book 2–3 packets wait until the Book 1 rewrite locks what they inherit.
 - Built: `packets/book-1/chapter-02.md`, `packets/book-1/chapter-03.md` (2026-07-12).

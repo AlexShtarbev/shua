@@ -12,6 +12,19 @@
 > **F1 RULING BAKED IN (yours, 2026-07-12): THE FIRE — synthesis CONFIRMED.** The fire is
 > the *re-flagging mechanism only*; Belle still comes back through your Depot and dies at
 > the press, witnessed. Ch. 3 (Cairn) hangs on the dock refusal.
+>
+> **⏱ AMENDED (2026-07-13, yours): the fire NEWS broke at Ch. 1's close** — Rois heard the
+> report and ran; your curtain was "Belle. What have you done?" This chapter opens in the
+> AFTERMATH: no fire-reveal beat needed; the reader arrives already knowing. **NEW MICRO-FORK
+> (rule when you draft): open same-evening (the Depot mobilizing behind Rois's sprint) or
+> Day-2 morning (the packet's original clock)?** Same-evening buys momentum off the stinger;
+> Day-2 buys the false-quiet dread of beat 1. Both keep the press at 9:40 Day 2.
+>
+> **🎯 SLIP RELOCATED HERE (2026-07-13 ruling, J4 amendment):** Ch. 1 no longer slips —
+> naming there is direct address only. **The first involuntary "she" fires in THIS chapter,
+> mid-crisis, UNCORRECTED** — the first one he doesn't catch. Place it deliberately (candidate
+> sites: the feed-review of the rescue; the dock when her eyes find him; the press ¶). It is
+> the motif's true onset now — Ch. 3 Fork D (Cairn's pronoun) rides on it.
 
 ---
 
@@ -57,8 +70,9 @@
 ### Who's on stage (voice tells)
 - **Shua** — survivor grammar (§2B): scoreboard interiority, deference-as-tactic,
   competence as armor. Polices ALL machine pronouns to "it"; **"she" slips are
-  Belle-reserved canon and deliberate** — this chapter is their natural habitat; place
-  each one on purpose.
+  Belle-reserved canon and deliberate** — and per the 2026-07-13 ruling, **the motif's
+  FIRST slip fires in this chapter, uncorrected** (Ch. 1 no longer slips; it plants the
+  name only). Place it on purpose; every later slip escalates from this one.
 - **Belle** — never speaks. Fire-marked now. Acts only: the eyes that find him and ask
   nothing, the folded hands, **the bow**. Her one act of the chapter is the bow.
 - **The Goliath (G-071)** — mute. **Canon (character sheet, fixed):** nobody puts a
@@ -93,8 +107,10 @@
 - Ch. 1 debts this chapter services: **"There are two outcomes of any servicing
   scenario."** — BEND it (the fire found a third; outcome one turned into outcome two
   anyway). Full inversion is reserved for when HE is the case — don't spend it.
-- Bridge-in (6.19): Ch. 1 planted **"The Glitch is staying silent."** + the slip + the
-  survival math. Open by paying the glitch-quiet plant (your wording).
+- Bridge-in (6.19): Ch. 1's actual plants (r5 rebuild): **"The Glitch is silent."** (curtain
+  ¶ wording) · the fire news heard through Rois's tablet · **"Belle. What have you done?"**
+  Open by seizing the curtain — the question, the news, or Rois's sprint. (The old survival-math
+  and slip plants were cut from Ch. 1; the slip is now THIS chapter's beat — see header.)
 - Bridge-out: deposit the **numbers** want-word at the curtain (fourteen hours / 840
   minutes family) — Ch. 3 opens by seizing the number.
 - Terms fixed by canon: **Class-C**, **Abnormal Autonomous Action (AAA)**, **the press**,
@@ -132,16 +148,20 @@ No heart, no breath (9.3) — counting-instead-of-breathing is his licensed tic.
 
 ## 2. Beat sheet (claim-map altitude — what each movement ESTABLISHES / REQUIRES)
 
-### Movement I — The quiet and the news
-1. **Bridge-in: the glitch-quiet echo.** Morning normalcy that reads as relief and is
-   actually the last of something. *Establishes:* he's telling himself it worked.
-2. **A Class-C AAA remand inbound.** The case arrives as paperwork before it arrives as
-   Belle (delayed noun available — Fork A). *Requires:* the reader feels routing, not
-   coincidence — the Depot is simply where his district's Class-Cs go.
-3. **The fire, reconstructed.** Owners cooking for themselves (their domestic was at the
-   Depot); the fire; Belle arriving home; going in; the daughter carried out. *Requires:*
-   reconstruction through his diagnostic eye — records, footage, damage — not a narrated
-   montage. Domain-word site #1 (real fire/electrical failure modes).
+### Movement I — The quiet and the news *(AMENDED 2026-07-13 — the news already broke at Ch. 1's close)*
+1. **Bridge-in: seize the curtain.** Open on the aftermath of "Belle. What have you done?" —
+   the question still unresolved, the Glitch still silent. (Micro-fork in header: same-evening
+   mobilization vs Day-2 morning false-quiet.) *Establishes:* the hidden crime now has a
+   public shadow.
+2. **A Class-C AAA remand inbound.** The case arrives as paperwork wearing a name he already
+   dreads (the delayed noun now works in REVERSE — he knows before the manifest confirms).
+   *Requires:* the reader feels routing, not coincidence — the Depot is simply where his
+   district's Class-Cs go.
+3. **The rescue, reconstructed for DETAIL (not news).** He already knows THAT it happened;
+   this beat is him learning HOW — through his diagnostic eye: her feed, records, damage.
+   The did-she-stage-it loop (planted by the news wording) gets fed here, not answered.
+   Domain-word site #1 (real fire/electrical failure modes). Candidate site #1 for the
+   relocated SLIP.
 4. **The syllogism (1C.10).** One inference per short sentence: Class-C filed → Belle
    held Day 1 → nobody home → the daughter dies. His crime saved the child. Then the
    counter-turn: the act that saved the child is the exact act they kill machines for.
@@ -186,7 +206,14 @@ No heart, no breath (9.3) — counting-instead-of-breathing is his licensed tic.
 15. **THE LIE.** "Thermal — shoulder assembly" (shape yours). Flat true-things voice, on
     camera, to a supervisor. *Requires:* hands steadiest they've been — by agency (1C.7).
     Deposit **"Machines don't lie; everyone knows that."** on Rois's non-reaction. Mantra
-    deploys here or just after the press — once.
+    deploys here or just after the press — once. **ANCESTOR (2026-07-14, Ch. 1 canon):
+    Shua's first spoken lie already happened — "Class-B. It was incorrectly assigned.",
+    delivered after counting half a second. THIS lie must escalate from that one: bigger
+    stakes (protecting a refuser mid-standoff, not hiding his own crime), and the
+    half-second-count tic can recur — the reader now knows what it means when he counts.
+    NOTE also: Rois left Ch. 1 possibly suspicious (garbled question, stare-through) —
+    his non-reaction here reads differently against that; and the AAA term (J5) no longer
+    appears in Ch. 1 — introduce 'Abnormal Autonomous Action' at the remand paperwork.**
 16. **The bow.** Belle to the Goliath — twenty years of practice in it — witnessed by the
     machine that tried. Then the crane; then the press does what the press does.
     **Craft: 6.9/6.21 — trigger to consequence; sound, then aftermath; no crush
@@ -228,15 +255,17 @@ No heart, no breath (9.3) — counting-instead-of-breathing is his licensed tic.
 The **⚠ AI-obvious** option is flagged (9.6) — if your instinct lands there, treat it as
 the distribution's mode and reach past it.
 
-**Fork A — how the news arrives.**
-- ⚠ A1: he reads the remand manifest, then the fire is explained in summary. (State the
-  event, then exposit — the model default.)
-- A2: **the fire arrives as HER FEED** — he reviews the rescue through Belle's own optics
-  during intake. Rhymes with Ch. 1's disk-scan reveal; machine-native; the reader meets
-  the daughter through the eyes of the machine that will die for saving her.
-- A3: it reaches him first as workload — a remand slot in the morning queue, an
-  annoyance-shaped line from Rois — and the name lands late, off the manifest, as a
-  fragment (delayed noun, 1.9).
+**Fork A — how the DETAIL arrives** *(re-scoped 2026-07-13: the news itself broke at Ch. 1's
+close, so A1/A3's news-delivery job is moot; the fork now stages how he learns the HOW).*
+- ⚠ A1: the rescue explained in narrated summary off the manifest. (State-then-exposit —
+  the model default, and doubly dead now the reader already knows the what.)
+- A2: **the rescue arrives as HER FEED** — he reviews it through Belle's own optics during
+  intake. Rhymes with Ch. 1's disk-scan reveal; machine-native; the reader meets the
+  daughter through the eyes of the machine that will die for saving her. (Strongest slip
+  site: watching through her eyes is where "it" fails him.)
+- A3: detail withheld until Belle arrives physically — fire-marked frame as the first
+  document; he reads the event off char patterns and servo damage (bench-specialist
+  grammar, 2B.13); the feed only after.
 
 **Fork B — the family's presence.**
 - ⚠ B1: absent entirely; grief at a distance. (Same weakness F1-b was flagged for.)
@@ -313,9 +342,11 @@ allowed to say. Reread test: the informed read is crueler.
 last act is the bow. The press is procedure; the horror is that it's procedure.
 
 **⑦ Motif deposits due:** machines-don't-lie · hands-tell-you-more · numbers (bridge-out)
-· two-outcomes BENT (not inverted) · mantra ×1 · the "others like me" thesis thread
-(Ch. 1: "I am no longer the only one" — the Goliath is the count going up; let the count
-tick without commentary).
+· two-outcomes BENT (not inverted) · mantra ×1 · **the first uncorrected "she"** (relocated
+slip — the motif's true onset) · the "others like me" thesis thread — NOTE: Ch. 1's thesis ¶
+("I am no longer the only one") was cut in the r5 rebuild, so **the thread now STARTS here**:
+the Goliath is count #1 on the page; let the count tick without commentary, no thesis
+sentence anywhere (9.2).
 
 **⑧ Loose threads left taut (9.4):** why the Goliath woke (never say "witness"
 abstractly); the family (series horizon); the Glitch's nature; the evidence file

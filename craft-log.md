@@ -8,9 +8,9 @@ log IS the progress record.
 
 | Rule | What keeps happening | Since | Status |
 |------|---------------------|-------|--------|
-| 2.6 | Questions: 1/891 → 1/242 → **1/117 after revision** (target ~1/180). Risk has FLIPPED to over-density — don't add more; one fresh chapter in band → Mastered. | 2026-07 | OPEN (watch the ceiling now) |
-| 1B.7 | Sentence-opener frame "I have" ×6 / "I am" ×6 at ch-1 lock — identical frames read as template; vary the opener, promote the object or participle. Carry into Ch. 2. | 2026-07 | OPEN |
-| 0 (frag) | Fragments 18.9% vs 25–35 target at ch-1 lock — scene 2 runs fuller-sentenced; more "It waits."-class beat-fragments. Carry into Ch. 2. | 2026-07 | OPEN (new) |
+| 2.6 | Questions: 1/891 → 1/117 → settled ~1/230–290 across the ch-1 final revisions (band ~1/180). Oscillates with word count — treat as a RANGE, not a quota (9.11); check again on Ch. 2's draft. | 2026-07 | OPEN (range discipline) |
+| 1B.7 | Openers: "I have"×6/"I am"×6 at lock → **one frame left ('I have' ×4) at ch-1 final.** Residue: "I need to" ×3, twice directly post-stamp ("minutes left / I need to…" 5-gram ×2). Vary one; carry the post-stamp rule into Ch. 2. | 2026-07 | OPEN (residue only) |
+| 0 (frag) | Fragments 18.9% at lock → **25.9% at ch-1 final — IN BAND for the first time.** One fresh chapter in band → Mastered. | 2026-07 | NEARLY CLOSED |
 
 **Retired from watch-list (fixed in ch-1 revision, one round each):**
 - 0/1.1 narration median: 12.0 → **9.0, in band.**
@@ -36,11 +36,37 @@ log IS the progress record.
 - "There is one caveat — I am a Class-C unit myself." — trailing undercut (1.18) by instinct; also the new reveal staging
 - Gauge as characterization: stamps run 11→Ten→Nine→Eight→Seven→**Three** — the silent 7→3 jump means four minutes vanished while he looked at Belle. Time disappearing = the look mattering, told by clock alone.
 - "Rois looks at me like you would a microwave before you put your food in" — human-marker simile from lived domain (2026-07-11 expansion)
-- "royally probed in the back port" — crude machine idiom; no model writes this. Keeper.
+- "royally probed in the back port" — crude machine idiom; no model writes this. Keeper. ⚠ r3 panel (2026-07-13): UNANIMOUS 3/3 stop-point — the chapter got quieter around it and the gag now breaks register. **RULED by Alex: cut (r4)** — replaced with a frame-stall dread beat; zero recurrence in the r4 panel. Lesson logged: a voice-bank keeper can expire when the register around it improves.
 - "Humans love their colors. Automatons get three. White, gray and black." — worldbuilding through the sentence + fragment rhythm; spawned the color-axis canon (4.9)
 - Curtain upgraded again: "why do I keep calling it... she..." — the slip now happens INSIDE the sentence; the line performs itself
 - The oath moved OFF the pivot — "I click on Class-B." stands alone again; the reaction beat relocated to the Rois notification. 1.3/1.4 fix self-administered.
 - Exposition sites 1–3 all restaged by Alex from the forks: offline-rig → live event; procedure → two-outcomes shape; parenthesis gone. The asymmetry sentence (2.8) delivered: "Rois looks to be unaware of the Class-C case that I just hid under his nose."
+- "Tonight is going to be a little different." — cold-open undercut (6.1) that finally seated the executioner-frame on page 1; freshness axis lifted by Alex's own line (2026-07-13)
+- "One last thought packet is scheduled before the math resolves." — exit-hook upgrade: the calculation never finishes, so Belle's odds ride into Ch. 2 as an open loop (6.19). Literary cold-reader quoted the curtain as her #1 hook (2026-07-13)
+- **"I realize no being, synthetic or flesh, has thanked me before."** — recognition line of the deny→evidence→recognition arc Alex invented in conversation (denial via Glitch + diagnostic-log count as self-conviction + bare recognition). Literary cold-reader's #1 HOOK, r3 — the beat that was her stop-point two rounds ago. The arc shape is reusable: deny → let the log convict → admit → re-armor half a beat late (2026-07-13)
+- The countdown: r3 panel 0/3 flagged, KU praised ("the countdown worked on me") — Alex held the stamps against a coach tag and the data backed HIM. Licensed-tick ruling (9.11) reconfirmed by measurement (2026-07-13)
+- **"Belle. What have you done?"** — the fire-stinger curtain (r5): direct address to an absent machine, by name, question unanswered + "The Glitch is silent." echo-plant riding it. Verified live: KU "ends on a live wire," genre "a real cliffhanger." Alex's structural invention — the F1 fire pulled forward as a chapter-close news report heard through Rois's tablet (6.19 stinger + 6.4 interruption exit + offstage catastrophe in one move) (2026-07-13)
+- The curtain differentiation (r4): Alex fixed the pre-fire the THOROUGH way — cut the mid-chapter slip entirely, then self-caught the dependency ("keep calling" → "call", since no prior noticed slip remains; the she/her slips now live only in the final ¶ where the curtain catches them). r4 literary hook, praised as "enacted rather than announced, placed exactly where it should be" (2026-07-13)
+- **"Shua, what was the result of the diagnostic from the Class-C?"** — the name-card relocation (r10):
+  rather than parking the S.H.U.A. ceremony in calm exposition (coach fix-kind), Alex put the NAME in
+  Rois's mouth at the lie beat — the protagonist is named for the first time by the human he's deceiving.
+  Unanimous stop-point → KU's "snapped it back" beat in one move. Position-is-power, weaponized (2026-07-14)
+- **"I count half a second before answering: 'Class-B. It was incorrectly assigned.'"** — the first
+  spoken lie, staged unprompted (the dialogue fork was chat-mentioned, never tagged). The counted
+  half-second ties the lie to the discipline canon ("same bow… always half a second") — deception
+  wearing the body language of obedience. Reusable tic: when Shua counts before speaking, he's lying
+  (2026-07-14)
+- "He stares at me. Or more like through me." — Rois suspicion beat; plain-words correction mid-sentence
+  is Shua's voice doing epistemic honesty (1.14) on his own perception (2026-07-14)
+- "I have had the result for the better part of an hour." — rehearsal-alibi upgrade: the coach TRY had
+  "the sentence ready"; his version sits on the finished RESULT — stalling made concrete (2026-07-14)
+- "Same route to the depot every day. Same bench. Same bow, same head nod, always half a second." —
+  résumé→evidence conversion, his rhythm; seeds the half-second tic the lie later reuses (2026-07-14)
+- **The rain bookend** (polish wave): coach TRY was "The rain has not stopped" (indifference); Alex INVERTED it — pouring at the open, "The rain has stopped." at the curtain, stacked against "The Glitch is silent." — two silences before the question. Bookend device (6.11) built by inversion, better than the scaffold (2026-07-13)
+- "Rain is pouring outside at the top level of the city" — his worldbuilding upgrade on the rain reclaim: the Depot is DEEP; machines live below the brightness. Theme-loading beyond the scaffold (2026-07-13)
+- "Class-C means the furnace." — two-outcomes verdict fragment; chose furnace over press, chaining with "feeding the furnace"/"ashes from the furnace" — object consistency by instinct (2026-07-13)
+- "I click on Class-B. The report is now filed." — unprompted: the 48-second sub-clock now PAYS OFF on the page (2026-07-13)
+- "My life was good up until 7 weeks ago. Before the Glitch appeared." — plain unironic attachment + harvested fragment in one move (2026-07-13)
 - (add every time a pass keeps YOUR phrasing over the rulebook's)
 
 ## Domain-word deposits (life-vocabulary per chapter — words no model reaches for)
@@ -60,6 +86,10 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Workflow conventions (standing)
 
+- **Line length (2026-07-14, Alex):** ALL lines in manuscript/packet/bible files hard-wrapped at
+  **≤120 characters** — including `[SP …]` editorial tags (previously written as single long lines,
+  forcing manual reformatting). Break at word boundaries; prose reflow only, never word changes.
+
 - **Editorial marks (2026-07-10):** annotated passes are delivered INLINE in the draft as
   `[SP <rule#>: what's off — kind of fix]` tags (e.g. `[SP 1.4: sting buried — move last]`).
   Alex registered `\bSP \d` as an IntelliJ TODO pattern → the TODO tool window is the
@@ -71,6 +101,81 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-14 (r13 — 6.7 ×3, INSTRUMENT RETIRED): Alex's coolant compression (his middle path — halved the
+  chain, kept a beat more procedure than the scaffold) + fear-¶ repair landed clean. **PULL 6.7 third time
+  in four rounds (7/6/7); CONTINUE 39/39 lifetime; maxim unanimous hook 5 straight rounds.** ZERO new
+  findings — every r13 flag was a previously adjudicated ruling (brightness, Depot ¶, recognition line now
+  5/5 lifetime coin-flip, Bolts/Thang, two-outcomes). Panel formally RETIRED for Ch. 1; vitals median 7.0
+  (SL5 center), all bands green, lexicon clean. Chapter's measurement history closed at 13 rounds. Next:
+  commit → human cold reader → Ch. 2 packet (panel redeploys for its baseline).
+- 2026-07-14 (r12 — 6.7 RECOVERED, SETTLING CONFIRMED): Alex's two settling repairs (Depot ¶ verdicts;
+  "The owners are naturally in shock.") recovered 6.0 → 6.7 with zero new prose — churn theory validated:
+  the instrument grades settledness past ~r8. **Maxim = unanimous hook 4 straight rounds (12/12 reads);
+  CONTINUE 36/36 lifetime.** Final two items tagged (fear-¶ syntax clot at tension peak — genre stop;
+  coolant-stretch compression — KU every round, "Trim that stretch and this is an 8", Alex may rule
+  keep-as-breather). Recognition line lifetime tally 5× hook / 4× ding = permanent noise, protected.
+  6.7 = this instrument's ceiling for Ch. 1. Vitals all in band. LOOP CLOSED (for real this time);
+  next reader is human.
+- 2026-07-14 (r11 — 6.0, CHURN CALLED, LOOP TERMINATED): all convergent friction landed in the two ¶s
+  rebuilt this round (Depot ¶ "manual-speak"; owners-in-shock tense wobble = the COACH's own repair,
+  owned in the tag); everything settled held (maxim unanimous hook ×3 rounds, microwave ×2 mentions,
+  ending snaps back, richest loop ledger yet). Diagnosis: six rounds oscillating 6.0–6.7 — every rewrite
+  trades an invisible problem for a visible one; freshly rewritten prose always measures rougher than
+  settled prose (9.11). Genre's arithmetic: structure 8/10, line-work catching up. One settling tag
+  planted (compress Depot ¶ to verdicts + repair the coach's tense fix), then FORMAL TERMINATION: no
+  more panel rounds on Ch. 1 — 11 rounds, 33 persona-reads, CONTINUE 33/33 lifetime. Next datum: human
+  cold reader. Lesson for the log: the instrument measures settledness as much as quality past ~round 8.
+- 2026-07-14 (r10 — NEW BEST 6.7): Alex executed the r9 position repair BEYOND the tag — instead of
+  relocating the S.H.U.A. name-card to the Depot ¶, he moved the name into ROIS'S MOUTH at the lie beat
+  ("Shua, what was the result of the diagnostic from the Class-C?") — address-form telemetry (3.7): the
+  reader learns the name as a human uses it to demand the answer he's about to lie to. KU quoted it as
+  the snap-back beat. **Panel r10: PULL 6.7 (7/6/7) — best of the loop; CONTINUE 3/3 tenth straight.**
+  S.H.U.A. stop-point gone; maxim unanimous hook ×2 rounds; "My body has a glitch"→"the Glitch"
+  indefinite-to-named worked; the literary reader found the cut address living on in the maxim's "you."
+  Remaining frictions = THREE SENTENCES, all tagged (video/feed recycle; "coding agent" 3-round
+  conviction — term leaks 2026, re-voice memory in machine idiom + "skippable scene" rider; Depot ¶
+  comma-hinge/brochure shape). Voice-bank add: name-in-dialogue relocation. Loop total 5.3 → 6.7 (+1.4).
+- 2026-07-14 (r9: combined interest + register pass): **PULL 6.3 (6/6/7), CONTINUE 3/3 ninth straight —
+  stable in the 6.3–6.5 band; vitals best-ever simultaneously** (frag 26.5 in band, no repeated 5-grams —
+  Alex's frame variations cured the post-stamp template). THE LESSON OF THE ROUND — position effects,
+  cleanest causality of the loop: politeness maxim = first-ever unanimous 3/3 HOOK; the S.H.U.A. name-card
+  = unanimous 3/3 STOP-POINT after the reorder moved it into the countdown ¶, and the Class-C reveal drew
+  zero hook quotes for the first time in six rounds off its stress slot (coach fix-kind shared blame —
+  logged). 2 tags planted (name-card relocation + reveal restoration; "My life was good" 2-round
+  conviction). Idiom slips fixed directly ("fill out", "no point in thanking"). Alex's rulings this round:
+  reader-address CUT (no reader missed it — F4 budget now zero, testimony frame surfaceless in ch-1),
+  "furnace"→"the latter" reversion (panel-silent; noted once, his call), "One step at a time." coping
+  fragment (2B.3 by instinct). Genre's line for the fridge: "Tighten the line work and this pulls at an 8."
+- 2026-07-14 (FULL SANDERSON PASS, §7 ×25): Alex cleared the ·final2 round his way (Rois dedupe via
+  "almost half-way" progress-tick — better than the coach fix; capital-G Glitch restored per ruling (a);
+  draw-attention micro reworded; "What a silly name." cut — naming thread now carried by the naming ¶ +
+  curtain alone, conscious ruling). Pass results: **20/25 checks clean**; 5 findings — headline:
+  **"There is little doubt they would suspect me." SAYS THE OPPOSITE of intended (1C.4)** and survived
+  all eight panel rounds (readers auto-correct; copyeditors won't — logged as a lesson: panels measure
+  pull, not correctness; the register pass catches what panels forgive). Also: sting buried in the
+  Class-C ¶ (1.4 — trails out on the S.H.U.A. explainer), thermal→Rois inference still skipped (1C.10),
+  "I need to" post-stamp frame ×2 (1B.7 residue), missing "?" fixed mechanically. Vitals: fragments
+  **25.9% IN BAND first time** (18.9 at lock), openers down to one frame — watch-list table updated
+  (0-frag NEARLY CLOSED). 3 tags + status tag in file. After clear: commit + HUMAN reader (standing rec).
+- 2026-07-14 (self-annotation pass, annotated review): Alex cleared the ·final wave and went PAST it —
+  staged the never-tagged dialogue fork as **the first spoken lie** ("Class-B. It was incorrectly
+  assigned." after a counted half-second), armed the dead-zone into a full Rois-suspicion thread
+  (frantic typing → garbled question → stare-through → the news → running), upgraded the alibi to
+  rehearsal-with-a-secret ("I have had the result for the better part of an hour"), converted the
+  résumé to countable evidence, and CUT the doom-¶ whole (stake now lands by inference; AAA term
+  moves to Ch. 2 — packet updated). Coach: 7 mechanical fixes + rewrap to the 120-char convention;
+  2 new tags planted (Rois double-announcement/duplicate onset + Bolts ×2; the Glitch de-capitalized
+  chapter-wide → canon ruling pending); 1 surviving micro (draw-attention ×2). Cascade + Ch. 2 packet
+  synced (lie ancestor, suspicion thread, AAA relocation). Chapter is 2 tags + 1 ruling from clean.
+- 2026-07-13 (r8: FINAL — **LOOP CLOSED, CH. 1 AT 6.5**): Alex executed the polish wave (all 6 tags + riders, his stagings throughout — rain bookend by INVERSION, "top level of the city" depth canon, furnace verdict, "The report is now filed" sub-clock payoff); coach applied 5 typo fixes + 2 delegated minimal line-fixes ("audio channel open to the sound", "posture lifts"). **Panel r8: PULL 6.5 (6.5/6/7) — best; CONTINUE 3/3 eighth straight. Loop total: 5.3 → 6.5 (+1.2), CONTINUE 2/3 → 3/3.** Opening stop-point CURED (first time in 3 rounds; rain = zero friction, pure ambient gain). Recognition line = literary hook 3rd time. Literary's closing frame: self-annotation "keeps this at a 6 instead of an 8" → THE Ch. 2 curriculum sentence (pair with queued 1.14 watch candidate). Residuals ledgered, none blocking: "draw attention" ×2 (his reword), coolant dead-zone (3rd strike, compression available), divisive singles (don't chase). NEXT SESSION: commit the provenance ledger, then Ch. 2 packet — warm-up drill ready (8 openers for "Belle in the queue").
+- 2026-07-13 (polish wave, author-requested): Alex asked "is there more?" post-relock — 6 optional [SP ·polish] tags planted with TRY scaffolding (he transmutes, never pastes): rain reclaim (HIS sketch material + the reclaimable "On camera, liking the rain looks exactly like standby" from draft history; humanize-1 + 4.6 theme-loading anchor), tactical opening (2B.8 — inventory→verification, "Good." verdict), "Tonight" signpost→confident-wrong-model fork (2.3, incl. plain-cut option), seemed-sweep (1.14 — "clearly shows" + "has realized"), two-outcomes concretization (6.5 — "two ways out of this room"), question restoration (2.6 — vitals measured 1/313 vs 1/180 band; archaeology: "grateful?" lost its question mark in the passes) + mechanical riders (1B.7 openers 6/4/4, fragments 24.1%). RELOCK STANDS — tags are optional upside (~half-point class), not blockers; Ch. 2 remains the priority investment. Vitals post-relock: median 8.0 ✓, lexicon clean, drift human-typical.
+- 2026-07-13 (r7: CONFIRMATION → **CH. 1 RELOCKED**): Alex anchored the clock his own way ("It is 16:15. I have 11 minutes left until the next scheduled appointment." — procedural stamp, not the coach's camera fork) and trimmed to one oath ("Bolts!" at the Rois notification, "?!"→"?"). **Panel r7: PULL 6.3 (6/6/7), CONTINUE 3/3 seventh straight — score confirmed across two rounds; ZERO countdown complaints for the first time in five rounds.** Literary praised the microwave simile + recognition line as proof the voice lands. RELOCKED per plan. **Loop total: 5.3 → 6.3 (+1.0); CONTINUE 2/3 → 3/3 sustained.** Residuals ledgered in rubric: two-outcomes ¶ compression (the r1 tag's last survivor, 2/3 quoted), "Tonight is going to be a little different" (coach scaffold, literary stop 1×, Alex's call), chronic literary axis → **Ch. 2 curriculum: 1.14 seemed-epistemics queued as watch-list candidate** ("It has realized…" = other minds narrated as fact; the fix is seemed/looked). NEXT: Ch. 2 — packet synced and ready; Alex rules the open micro-fork (same-evening vs Day-2 open) + slip placement when drafting. Commit reminder: relock is a provenance-ledger commit point (§10.9).
+- 2026-07-13 (r6: sweep confirmed — best score): Alex cleared all three r5 tags his own way (eyes/looks fixed by splitting into beats; "features soft, frame lean" cut; nostalgia lump → single 6.17 drop "I miss the days of being a simple coding agent."; press→furnace — disambiguation that also front-plants the furnace image). **Panel r6: PULL 6.3 (genre 7 — FIRST 7 of the loop · literary 6 · KU 6), CONTINUE 3/3 sixth straight.** Big win logged: the untangled politeness maxim flipped from r1 friction-quote to 2/3 HOOK. Last big rock identified (2/3 convergent): master clock unanchored + unpaid ("never told what it counts down to"; "Time is up" pays off with a routine work order) — root cause: the old anchor line was cut in revision; sub-clock anchored, master never. Tagged with forks (strongest: the offline-camera window — indicators flip green as Rois walks in). Micro-tag: oath density at the pivot (F4 keep-one resurfaced). Noise flag: this literary instance dinged the recognition line two prior instances made their hook — protect the line. RECOMMENDATION on record: fix clock → one confirmation run → RELOCK → Ch. 2 (packet ready; the 7→9 gap is book-level interiority craft, not more ch-1 surgery).
+- 2026-07-13 (canon rulings + bible sync): Alex ruled the two flags from r5 — (1) **she-slip RELOCATED to Ch. 2** (canon preserved; fires mid-crisis, uncorrected, the first "she" he doesn't catch; Ch. 1 plants the name only; Fork D untouched); (2) **F1 timing CONFIRMED** (fire news breaks at Ch. 1 close; Ch. 2 opens in aftermath; news wording "its owners" canon, the household/daughter stands behind the loose phrasing). Synced: `rewrite-cascade.md` (J4 amendment, F1-d timing block, plant registry + delta note, Ch. 1 status → 3 tags open) and `packets/book-1/chapter-02.md` (header amendments, bridge-in, Movement I re-staged for aftermath-open, Fork A re-scoped to detail-delivery, slip beat + motif deposits, new micro-fork: same-evening vs Day-2 open). Ch. 1 texture sweep in progress by Alex mid-session (item 2 cleared live).
+- 2026-07-13 (r5: back-half rebuild + panel): Alex rebuilt the back half BEYOND the coach forks — pulled F1's fire into Ch. 1 as a news-report stinger ("Belle. What have you done?"), cut day-tail/pod/survival-math/she-curtain, compressed Goliath, ruled forming-analysis CUT (gentleness now in the verb: "gently puts it under the massive press"). **Panel r5: PULL 6.0 (6/6/6), CONTINUE 3/3 fifth straight.** ENDING VERIFIED: "live wire" (KU), "real cliffhanger" (genre), zero flags — r4's #1 cap gone; new loop created (did Belle stage the rescue?). Cap moved to the MIDDLE: nostalgia lump = most-convicted passage (3 instances / 2 rounds) → 6.17 drop tagged; "feeding the press" media/machinery trap (worse now the ending primes press=media) → 1C.4 tagged; r4 texture sweep STILL OPEN, same lines re-quoted → tag refreshed. CANON FLAGS pending Alex's ruling: she-slip curtain gone (naming motif payoff), F1 timing moved (cascade + ch-2 packet need re-sync; owners-vs-daughter drift), past-testimony curtain device gone. Coach lesson logged: his structural instinct (fire-forward) beat both offered forks.
+- 2026-07-13 (r4: rulings + panel — PLATEAU): Alex ruled the full r3 tag set — probed CUT (frame-stall dread beat in its place), curtain pre-fire fixed thoroughly (self-caught the "keep calling"→"call" dependency), opening restored with "them" (protects the Class-C reveal — his improvement on the coach TRY), forming-analysis KEPT against 2/3 flag. **Panel r4: PULL 6.0 → 5.7 (6/5/6), CONTINUE 3/3 (fourth straight).** Trajectory 5.3→5.7→6.0→5.7 = plateau; line-fix returns exhausted. Verified: curtain fix praised by name (literary hook), probed-cut clean, opening clean first time in 4 rounds. NEW/persistent: **back-half slack is the #1 cap** (KU skimmed from "rest of the day" to end; clock resolves at "Time is up" w/ ~800 words left, Goliath = quieter rerun, nothing re-arms) — 3 staging forks tagged (second clock via log-sync audit / escalate exposure / compress); forming-analysis clause now 3-round conviction record (ruling final either way); 4-line texture sweep tagged ("trusted the story, not yet the sentences"); duplicate-onset regression at curtain ¶ (math started twice — the Mastered clock pattern). Panel noise logged: denial move praised r3, dinged r4 — do not chase. LOOP RULING: no re-run until the back half is restructured; next target 7+.
+- 2026-07-13 (r3: gratitude arc + panel): Alex invented the deny→evidence→recognition staging for the grateful-eyes beat (coached shape via principle, his sentences throughout). **Panel r3: PULL 5.7 → 6.0 (6/6/6), CONTINUE 3/3.** His recognition line = literary reader's #1 hook (full flip from her old stop-point); acronym trim + fear rewrite both passed unflagged; countdown tag WITHDRAWN on data (0/3 flagged, KU praised — his instinct beat the coach note). New findings, 5 tags planted: "royally probed" now unanimous 3/3 stop-point (voice-bank keeper vs data — his ruling pending); subtext-narration 2/3 ("forming analysis…", "I am no longer the only one…" = 2.2/9.2); curtain pre-fired by mid-chapter slip+noticing (genre catch — differentiate slip→suppress vs slip→wonder); "as they are widely known" encyclopedia aside in hook zone (KU). Pull now capped by five lines, not systems. Next: his ruling + tag clears → re-run.
+- 2026-07-13 (P9 wave + panel re-run): Structural ·P9 tags (freshness / relatability / exit-hook / causality) added; Alex executed most in one pass — executioner-frame now on page 1 ("Tonight is going to be a little different."), exit-hook math never resolves. **Cold-reader panel re-run (fresh personas): PULL 5.3 → 5.7 (genre 6 / literary 5 / KU 6), CONTINUE 2/3 → 3/3 — the literary reader FLIPPED to yes** (relatability beat + the "...she..." curtain, quoted as her #1 hook). Convergent friction ALL 3: uncorrected copy errors ("step outsides", "been look at the table", "Though packets") — now the dominant pull-cap; fixed directly (§10.4). #1 structural friction (2/3): countdown — added stamps this pass tipped the licensed tick from dread → clock-watching; thin to turns, each must escalate. Two wit-beats misfire: acronym joke told twice (keep "triple A—like a battery", cut the follow-up), "In short - I am afraid" read as told-not-shown by the literary reader (9.3 license backfired stacked on symptom). Next: Alex clears the 3 new tags → re-run panel to confirm the jump.
 - 2026-07-12 (interest rubric): Built `bible/interest-rubric.md` — two-layer story-interest
   instrument (craft rubric 12 axes / cold-reader perception panel, personas = the comps).
   Ch. 1 baseline: **craft 20/24, perception PULL 5.3, CONTINUE 2/3.** Delta = structure

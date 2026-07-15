@@ -164,6 +164,30 @@ small cuts, THEN re-run.**
 
 ---
 
+## Ch. 1 post-retirement check (re-run 13, at user request, after external editorial wave)
+
+**Layer 2 — perception: PULL 6.7/10 (genre 7 · literary 6 · KU 7) · CONTINUE 3/3 (14th straight; 42/42 lifetime).**
+Independently reproduces the retired loop's ceiling (6.7 x4 now) — instrument consistency
+confirmed across coaching sessions. **Layer 1 — craft re-scored on the fire-stinger build:
+22/24** (up from 20 at baseline: causality 2 — the thermal-warning plant armed the Goliath
+bridge; exit hook 2 — "Belle. What have you done?" 3/3 cliffhanger; hook latency DOWN to 1 —
+see below; freshness 1 held). The politeness maxim: unanimous hook, now 6 straight rounds.
+
+**New findings (edit-regressions from the external wave, not re-litigation — tagged in draft):**
+1. **Unanimous stop-point (3/3):** "The service and repair bench is where malfunctioning
+   machines come to be diagnosed." — brochure sentence in the hook zone (post-loop insertion).
+2. **Fire timeline (literary):** produced news report exists minutes after Belle leaves —
+   reads as error; plus owners-vs-daughter drift against cascade F1. Canon ruling needed.
+3. **Climax legibility (KU):** the press sequence — "read it three times" (6.22 staging).
+4. Texture micro-list: "A decision is to be made. Now." / "carefully thrown" / "naturally
+   in shock" (2-round conviction). Fixed directly: "hulling"->"hulking".
+
+**Standing:** instrument remains RETIRED for optimization (the ceiling is real); this was a
+verification read of new prose. Clear the 5 tags -> chapter re-settles at ceiling. The datum
+that moves the number next is rung 2: a HUMAN cold reader.
+
+---
+
 ## Ch. 1 re-run 12 (2026-07-14) — CEILING CONFIRMED ×3 · INSTRUMENT RETIRED
 
 **Layer 2 — perception: PULL 6.7/10 (genre 7 · literary 6 · KU 7) · CONTINUE 3/3 (13th straight).**

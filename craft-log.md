@@ -95,12 +95,148 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   Alex registered `\bSP \d` as an IntelliJ TODO pattern → the TODO tool window is the
   punch list; address a mark, delete the tag. Empty TODO window = pass addressed.
   Mechanical typo fixes still applied directly (§10.4); sentences stay Alex's.
+- **Two-layer editorial notes (2026-07-15, Alex — "top quality for me"):** inline `[SP …]` anchors stay
+  one line ≤120 chars; the FULL comment lives in the chapter's companion `chapter-NN-notes.md` —
+  device explained, corpus example, 2–3 staging options, the honest counter-point (case for leaving
+  the text alone), and the AI-obvious version to avoid. Praise entries included (vocabulary
+  transfer is the point). Strike a note when its tag is ruled and cleared. CAUTION: the IntelliJ
+  TODO regex `\bSP \d` misses non-numeric tags (`[SP micro:`, `[SP canon:`, `[SP notes:`) — widen
+  it to `\[SP ` or the coach leads every tag with a rule number.
 - **Provenance ledger (§10.9):** `shua/` is a git repo (init 2026-07-10, root 54d1ff5,
   repo-local identity alex.shtarbev@gmail.com). Commit per writing/annotation session.
 - **Drafts are `.md`**, numbered `chapter-NN.md`, in `manuscript/book-1-rewrite/`.
 
 ## Session retros (one line each)
 
+- 2026-07-15 (wave 11 — CLEAN, loop closed at instrument level): last two rulings executed — swept-rug
+  traded for PLAIN statement ("hidden from the Reclamation Depot." — the third door, most register-native,
+  names the adversary; 1.1) and the press interface resolved ("connects its right arm to the machine to
+  activate it" — variation closed, mechanics parse cold; coach fixed 1 missing article). ZERO tags, zero
+  open notes. Vitals at close: 1,730 w, median 7.0, fragments 31.2%, punch 28.3% (corpus center),
+  questions 1/173 in band, semicolons 0, lexicon clean, drift human-typical. Chapter has cleared: 2 dry
+  line sweeps + prose-logic-review + full §7 ×25 + 2 delta passes. Notes file converted to final-verdict
+  record. Standing: deposits await Alex's logging ("I stall." et al.); 9.3b + stare ride into Ch. 2
+  packet. NEXT AND FINAL: COMMIT the 11-wave session (still nothing committed — provenance!) → human
+  cold reader → Ch. 2.
+- 2026-07-15 (wave 10 — delta pass on the crisis rebuild): **the paralysis beat rebuilt BEYOND the ask
+  and is now the chapter's best ¶** — selectivity demonstrated as a troubleshooting sequence (retry →
+  flex-test passes → targeted retry stalls → "I stall."), the sub-clock became diegetic (36→21→12 = the
+  seconds the retries consumed; countdown now meters the panic instead of decorating it), 1C.7 closed
+  for good. Also executed: decision-Now (table/tablet cut), "exactly two outcomes" (registry re-synced),
+  head-jerks (0.1 verb fix), quickly cut, digit convention complete, "3 seconds pass." pre-Thang beat
+  (rhymes w/ "Two seconds pass." at the news — digit/word split between the twins noted). Coach
+  mechanicals ×3 (doubled-as, he-looks, colon space). OPEN ×2: hydraulic-machine's-body variation (1B.1,
+  one word) + swept-under-a-rug ruling (carried). Vitals: 1,757 w, questions 1/159 (rich side — range
+  not quota), fragments 31%, punch 27.1%. Deposit due from Alex: "I stall." Next: 2 rulings → COMMIT
+  (still nothing committed today) → human reader.
+- 2026-07-15 (wave 9 — FULL SANDERSON PASS, §7 ×25, on request): **21/25 PASS, 4 micro findings, 2
+  book-level notes.** Findings: truncated clause at the press beat ("as the Goliath." — the hydraulic-press
+  edit amputated it; fork: commit the cut + let Thang! carry it, or restore w/ the anvil — the same edit
+  flattened the ch.'s most concrete sound image), "swept under a rug" (the one stock idiom — learned-voice
+  vs machine-native concealment image, 4.1/9.9 fork), 2 manner adverbs (sharply/quickly — 0.1; "gently" and
+  "asks so quickly" explicitly licensed as data-bearing), paralysis-scope ruling requested once (cleared-
+  unchanged in wave 8). Book-level: undressed-feeling license unspent (9.3b — plant one in Ch. 2 aftermath;
+  packet note due), title slot unexercised (numbered chapters; "one" has a latent double reading). Notable
+  passes: irony placement clean at all 4 reveals, reread test crueler ("It must be the Glitch" devastates
+  informed), 1 earned triad only, ending chosen-not-defaulted (stare test = receipts). LEDGER CORRECTION:
+  "dyrollic" was a spelling of hydraulic, not a coinage — deposit-candidate note withdrawn (coach misread;
+  Alex's fix revealed it). Scorecard lives in chapter-01-notes.md. After these 4: commit → human reader.
+- 2026-07-15 (wave 8 — prose-logic-review, first since 2026-07-11): claim map ×16 passages on the
+  post-plant chapter. **13 CLEAN, 3 micro, 0 structural.** Findings: paralysis scope (1C.7 — "movement
+  actions" general, clicks Class-B 2 lines later; option (b) offered = he NOTICES the selectivity, which
+  plants conscience-as-glitch without naming it), press inverted onset (1C.1 — plain "the press" before
+  "the dyrollic press"; fork: name early vs let Ch. 2 own the coinage), machine's-hammer referent (1B.1 —
+  two machines on stage; fixes #2+#3 = one edit). Verified CLEAN and worth knowing: two-system body canon
+  held across 7 waves (Glitch = pressure/selective refusal vs fear = stall/spikes/tremble — curtain
+  distinguishes them explicitly), clock monotonic + nested sub-clock, Rois ladder, all plants synced w/
+  exact Ch. 2 bridge wording, alibi = deliberate retro-briefing not dependency bug, cover-up coherent
+  (case exists, reads misclassified), news timing = ruled canon not reopened. Alex's wave-7 clears
+  confirmed (intensifiers by deletion; experiencing-an-error). Chapter is register-dry AND logic-clean:
+  after these 3 micros, next stop is commit → human reader → Ch. 2.
+- 2026-07-15 (wave 7 — sweep DRY, loop declared done): second consecutive micro-only sweep → line-level
+  loop closed per the r11 lesson (past settledness, rewrites trade invisible for visible). Alex's wave-6
+  executions all landed, two better than asked: "Four cameras." (verdict fragment, 1.9) and the locked
+  log's third form — "It WILL be automatically rotated" (circumstance→judgment→certainty across three
+  revisions; Ch. 9 shows it un-rotated). "I've known the result" dedup sharpened the rehearsal beat.
+  2 final micros tagged: massive/large/megaton (varied-not-cut — intensifier rotation is the trap;
+  + megaton exactness vs Shua's price-everything voice) and Currently+ongoing double-stamp. 1 comma
+  fixed. Vitals: 1,729 w, questions 1/172 IN BAND, median 7.0, lexicon clean. NEXT (recommended, in
+  order): clear 2 micros → Alex logs deposits (dyrollic, hulling, megaton-or-not, rotated-and-deleted,
+  bench tools) → COMMIT the session (nothing committed today; ch-02.md staged empty) → human cold
+  reader → Ch. 2 drafting (packet synced; stare banked for the refusal beat).
+- 2026-07-15 (wave 6 — sweep on the polished state): MILESTONE: questions 1/174 — IN BAND for the first
+  time since the packet named 2.6 the standing weakness (closed by "What for?" / "For how long?" / the
+  Why-now cascade). Alex also fixed the doubled-question tail his way ("For how long?" — cascade kept,
+  template texture gone) and upgraded the locked-log misprice with a reason-clause ("automatically
+  rotated and deleted" — real log-rotation, 10.8; 2.3 now fully earned). Sweep found 6: the interesting
+  one is the "most likely" ×3 fork (9.11) — Option A converts the locked-log hedge into the THIRD
+  probability rating, the wrong one → motif-boomerang (5.4) that Ch. 9 collects; AI-obvious option
+  (synonym-cycling hedges) flagged. Others: four-cameras-per-corner arithmetic (1C.5, hook zone),
+  it-observed-it double pronoun (1C.4, fix overlaps the most-likely dedup), tablet-screen ×2, massive
+  ×3 (size paid once at "twice the size" — intensifier inflation = model texture), "All of a sudden"
+  connective (suddenness by cut, not label: "Then one word cut through. Assassin."). Mechanical ×2
+  (was-scribbled tense, clipped-to). Registry maxim quote synced to manuscript wording. Vitals: 1,741 w,
+  median 7.0, punch 26.5%, CV 0.63, lexicon clean. Deposits still unlogged by Alex: dyrollic, hulling,
+  rotated-and-deleted, the bench tools.
+- 2026-07-15 (wave 5 — all tags executed; notes file converted to verdict ledger): Alex cleared the board.
+  Locked-log pricing LANDED — "It's a simple file. No need to spend time on it." — the no-TIME→no-NEED shift
+  transfers the irony from clock to judgment in one word (best edit of the loop; entry 1 has the Gavilar
+  "But no. That was ridiculous." + 1B.8 verdict-frame corpus mapping and the three AI-trope flags: shrug /
+  dressed-up dismissal / narrator wink). "Power spikes" fixed clean (9.9). CURTAIN RULED: stare reverted,
+  verified 13-round shape stands — 9.5/9.6 working as designed (ending chosen against a live alternative);
+  stare BANKED for Ch. 2 where the Goliath's seeing is earned canon — flag it in the Ch. 2 packet at
+  drafting. Doubled press question RULED voice (obsession cascade, cleared twice) — logged, one residue
+  stated once ("doing that" ×2 tail = repeated-frame texture, 9.11), never to be raised again. Notes file
+  entries now carry verdicts + Sanderson examples + AI-trope flags per the two-layer convention. Mechanical
+  ×1 (spend time on it). Probability idiom now runs 3 ratings in the chapter, third one wrong = motif born.
+- 2026-07-15 (wave 4 — notes convention ruled, companion file built): Alex ruled the elaborate-comment
+  format canon ("top quality for me"): two layers — ≤120-char anchor in manuscript + expanded entry in
+  `chapter-01-notes.md` (device / corpus example / options / counter-point / AI-obvious version). File
+  built with 5 entries: locked-log 2.3 (the exemplar — the chat explanation that prompted the ruling),
+  power-functions micro, the NEW Goliath-stare curtain fork (his boldest edit — visibility rung zero
+  vs. the 13-round-verified stinger shape; 4 options incl. redirect-the-stare-to-the-door), the doubled
+  press question (tag cleared unchanged — cascade-vs-widen ruling requested), and a praise block
+  ("What for?" = 1B.9 run clean; maxim restored to canon; pronoun sweep; "carefully thrown" =
+  voice-bank candidate; the probability idiom = new machine voice tell, cashable a third time at the
+  locked log). Wave-3 executions verified: There-is frames varied, table→tablet, clean×2→"conclusive."
+  Mechanicals ×4 (on-top-of; Golaith; doubled verb resolved to "connects" — only verb that parses
+  with "to"; turn→turns). Memory saved: editorial-notes-two-layer. TODO-regex gap flagged in
+  conventions.
+- 2026-07-15 (wave 3 — editor review of Alex's second revision): +231 words (1,818), all in the licensed front half.
+  Executed his way: BOTH strategy-menu plot plants — the owner's note (COMMON DESIGNATION (OPTIONAL), child's
+  scribble = the fire's face + naming motif's human side; "Belle. … Belle." echo landing) and the locked-log evidence
+  seam ("There is no time to go examine it." — cascade registry rows added, Ch. 2 + Ch. 9 horizons) — plus tools on
+  the bench (drill inventory spent), Belle's gray work clothes (color canon working), ivory→black, 127/130 reconciled,
+  wonder-flip, widening-rung attempt, "dyrollic press" coinage + "high probability they will be relieved" (deposit
+  candidates — Alex to log). Questions 1/202 (band ~1/180 — nearly there). NEW tags ×10: 2 canon flags for his ruling
+  (protected maxim reworded killed→"decommissioned" — defensible, the word enacts the euphemism, but the exact words
+  were ledgered; the Goliath as him/he/his at the press beat — pronoun ruling says "it", slips reserved for Belle,
+  sentence also has a doubled verb), 1B.9 restate-vs-widen on the doubled question, "There is" ×7 opener migration
+  (the frame moved from "I have" — WATCH-LIST CANDIDATE: opener frames migrate, they don't die), table-vs-tablet
+  ambiguity (1C.4), 4 micros. Mechanical ×13 applied directly. Vitals: median 7.0, CV 0.76 bursty, lexicon clean;
+  semicolon/paren flags are tag artifacts. Capital-G pending ruling CLOSED in cascade (his revision = the
+  recommended option).
+- 2026-07-15 (wave 2 — Alex executed round 1, tags expanded on request): Alex cleared most of wave 1 HIS way — 3.15
+  catalog beat landed as EVIDENCE for the deny ("My database has cataloged 127 years'… This is a first." — strengthens
+  deny→evidence→recognition), digits ruled chapter-wide, halfway/since-before/paced fixed, stall dup cleared, "I have"
+  alibi frame reworded, capital-G Glitch restored (= the cascade's recommended pending ruling — cascade ¶ can close).
+  He then asked the 10.8/2.6 summary tags be expanded into site notes: 18 tags planted (10.8 ×8 incl. curtain + budget
+  — key find: the drill-file tool inventory (calipers/tweezers/side cutters) is UNSPENT and the bench has no tools on
+  page, 10.8+3.8 compose; 2.6 ×6 incl. budget + the cheap statement-wonder flip; 4 new flags from his fresh lines:
+  "ivory hulling frame" vs charred-black color canon (1C.7 — biggest), decision half-repetition (1B.10), 127-vs-130
+  clock fork (slip or minable 3-yr gap — his ruling), huge-frame variant #3 (1B.1)). Mechanical ×3 direct: diagnostics
+  typo, years' apostrophe, Five→5 straggler. Budgets stated in-file: 2–3 words, +2–3 questions — sites are a menu, not
+  a checklist.
+- 2026-07-15 (annotated pass + growth ruling, post-retirement): Alex asked for adds/interest/rhythm. 13 [SP] tags
+  planted in ch-1, new ≤120-char one-line format (matches the wrap convention). Contents: 2 ADD sites (3.15
+  expression-catalog at the grateful beat = the one addition with payoff density; 10.8 deposits at the two crisis
+  beats), 2.6 question-site pointer (packet's glitch ¶ / worn hands / Goliath), watch-list residue (1B.7 "I have" ×4),
+  1.14 live instance ("It has worked out that…" — the queued Ch. 2 candidate, active here), 1B.1 Goliath variation
+  purge, dup-frame stall ¶, Rois second onset, draw-attention survivor, 4 word-level micros (even-and-evenly,
+  since-before, halfway, digit-vs-word numerals — his rulings). Coach error caught in-session: glitch capitalization
+  tagged as inconsistency, then WITHDRAWN — indefinite-to-named is the r10 ruled device; verify against the loop
+  ledger before tagging adjudicated lines. Growth question answered from the packet: ~1,000 words licensed
+  (budget 2,600, draft 1,587); currency is interiority, not procedure; back half stays compressed (r13 ruling).
 - 2026-07-14 (r13 — 6.7 ×3, INSTRUMENT RETIRED): Alex's coolant compression (his middle path — halved the
   chain, kept a beat more procedure than the scaffold) + fear-¶ repair landed clean. **PULL 6.7 third time
   in four rounds (7/6/7); CONTINUE 39/39 lifetime; maxim unanimous hook 5 straight rounds.** ZERO new

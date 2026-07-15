@@ -116,8 +116,9 @@
 - Terms fixed by canon: **Class-C**, **Abnormal Autonomous Action (AAA)**, **the press**,
   **the dock**, **the remand bay**, **the override string**, **Goliath-class / G-071**,
   the Yax Enterprises catalog email, the tablet.
-- Oath budget: **"Bolts!" is nearly spent** (2–3 per book max; Ch. 1 used two).
-  Recommend ZERO here — bank the last one for the midpoint or later.
+- Oath budget: Ch. 1's final state spends **one** "Bolts!" (the r10+ trims removed the second).
+  Budget 2–3 per book: ONE is available here if a beat truly earns it (candidate: the reinit
+  order landing) — or bank it for the midpoint. Never two in one chapter again.
 
 ### Body canon (§1C.7 — binds all chapters)
 Glitch pressing = chest + neck-plate pressure + hands impaired. Relief = hands free

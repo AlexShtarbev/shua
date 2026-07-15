@@ -130,8 +130,8 @@ Severity may still rise incidentally; visibility is the audited axis.
   remand (packet notes updated).
 - **Alibi upgraded to rehearsal-with-a-secret:** "If anyone asks: it is customary… I have had the
   result for the better part of an hour." — he's been sitting on a finished diagnostic, stalling.
-- Pending ruling (tagged in draft): the Glitch de-capitalized chapter-wide — restore capital-G
-  (recommended) or re-rule lowercase book-wide and re-sync bible + packets.
+- ~~Pending ruling~~ **RULED (2026-07-15):** capital-G restored by Alex in revision ("My body has
+  the Glitch.") — the recommended option; bible + packets already carry capital-G, no re-sync needed.
 
 ## Ch. 1 plant/payoff registry (logic-audit ledger, 2026-07-11)
 
@@ -143,7 +143,9 @@ Severity may still rise incidentally; visibility is the audited axis.
 | Evidence bundle: cut intranet + falsified Class-B + wiped footage + unread notification trail | Ch. 9 (Adler's trap holds a document) |
 | "We are not allowed to exist in the brightness of the world." (color axis) | Series — machines claiming color is a Book 3-grade image |
 | Belle's bow, ignored by Rois | Recording/witness grammar ancestor (Ch. 5+) |
-| Maxim debts: politeness-while-killing · naming-as-benevolence · "There are two outcomes of any servicing scenario." | Boomerang later (5.4) — politeness at the Book 3 signing; the two-outcomes line inverts when HE is the case |
+| Maxim debts: politeness-while-killing · naming-as-benevolence · "There are exactly two outcomes of the bench." | Boomerang later (5.4) — politeness at the Book 3 signing; the two-outcomes line inverts when HE is the case |
+| Owner's note under COMMON DESIGNATION (OPTIONAL) — "Belle," scribbled by a human child (2026-07-15 add) | Ch. 2 (the fire's face; the naming motif's human side — who names, loves) |
+| The single locked log file Shua can't reach, left unexamined under clock pressure (2026-07-15 add) | Ch. 9 (Adler's trap holds a document — the seam the reader watched him leave) |
 
 > **Registry delta (2026-07-13, r5 rebuild):** CUT from Ch. 1 — the she-slip + noticing
 > (relocated to Ch. 2 per J4 amendment) · "I am no longer the only one / others like me"

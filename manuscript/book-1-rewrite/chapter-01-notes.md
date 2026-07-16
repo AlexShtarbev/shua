@@ -144,6 +144,49 @@ the actor (1B.1: repeat the plain name; it's cohesion, not clumsiness).
 — but not at the highest-legibility-stakes beat. **AI-obvious:** "the massive machine" —
 elegant variation.
 
+## 10. "Currently, I am experiencing an error. My body has the Glitch." (2.5/9.3) — OPEN, lever 2
+
+**Where.** The ticking paragraph, before the symptom run.
+**Device.** Flash → body → self-censor (2.5): the body evidence comes FIRST; the diagnosis
+arrives late or never. Your own next sentences already do the enacting ("My joints refuse
+movements. Certain tasks do not execute. …I try to click Class-C. I stall.") — the announce-
+line pre-empts them, and "experiencing an error" is a feeling-label in machine costume (the
+literary persona's named 6-vs-8 blocker: "constant self-annotation").
+**Corpus example.** Gavilar never says "I am experiencing fear" — "He found himself
+trembling. Which was stupid." The body acts; the self comments after.
+**Options.** (a) Cut both sentences — the symptoms open cold, "the Glitch" lands later where
+"I have yet to identify the source" already names it. (b) Keep "My body has the Glitch." as
+a 4-word verdict AFTER the symptom run (verdict-last, 1.4). (c) Rule keep as clinical voice.
+**AI-obvious.** Replacing with a longer diagnostic preamble — inflation in the other direction.
+
+## 11. "The question is if the floor supervisor suspects anything." (2.5) — OPEN, lever 2
+
+**Where.** The 1-minute-left fear beat.
+**Device.** Same axis. The paragraph already enacts the question three ways: stilled frame,
+fixed lenses, "Have I missed anything?" — the announce-line narrates what the reader is
+already feeling. Cut it and the beat opens on "Thought packets stalled in the queue." (a
+symptom, register-perfect) and closes on the live question.
+**Counter-point.** "The query is if…" phrasing is machine-idiom; if you want a query-shaped
+thought, fold it INTO the final question instead of stating it about yourself.
+**AI-obvious.** Swapping in a body cliché ("my sensors tighten") — stock-body in costume (9.3).
+
+## 12. The coolant stretch (6.5 scene-vs-summary) — OPEN, lever 1 (ruling re-opened by Alex)
+
+**Where.** "I hook the massive automaton… does not even require an automaton." + "I grab the
+cooling fluid… pour the liquid carefully into the automaton."
+**History.** KU stop-point in 4 separate rounds; his exact words: "Trim that stretch and this
+is an 8." You ruled keep-as-breather (valid — the quiet sets up the gentleness contrast);
+you re-opened the ruling for the 8-push (2026-07-16).
+**Device.** 6.5 — compress the unimportant ON PURPOSE; the compression itself characterizes
+(what the POV deems routine). The breather survives as one beat, not two.
+**Options.** (a) Fold: hook → diagnosis verdict → fetch-and-pour in one sentence each, cut
+"The fix is simple and manual. One might argue…" (its idea — beneath-me routine — is
+carried by the nostalgia line that follows anyway; 5.7 the idea survives the cut).
+(b) Keep the "does not even require an automaton" wit as the fold's verdict-last sentence.
+Either way the Rois-glance ¶ stays untouched — it arms the interrogation.
+**AI-obvious.** Cutting the whole stretch including the Rois glance — that breaks the news-
+report causality. Trim the maintenance, keep the plot.
+
 ## Praise — the new zone's real wins (no action)
 
 - **"Sometimes I wonder if the sky is one of us."** — the standout new line. Rain is the
@@ -209,3 +252,24 @@ Ch. 2; 4 line-level notes (all cheap, all in the new zone — settling regressio
 The settled front half (waves 1–11) remains CLEAN and was not re-litigated. Vitals in band
 (1,900 w, median 7.0, lexicon clean). Next: rule the depot geography, clear the four line
 tags, then this expanded zone rejoins the locked chapter.
+
+---
+
+## The 8-push (2026-07-16, Alex ruled: ALL THREE levers open)
+
+Reader-sourced path to 8 — each lever is a persona's own quoted blocker:
+- **Lever 2 (literary, "self-annotation keeps this at a 6 instead of an 8"):** notes #10, #11.
+  Only two true announce-lines exist; the probability-speak lines are Shua's assessment idiom
+  (2.13, scheming lexicon) — protected as voice, NOT tagged.
+- **Lever 1 (KU, "trim that stretch and this is an 8"):** note #12 — keep-as-breather ruling
+  re-opened by Alex for the push; compression, not deletion.
+- **Lever 3 (genre, "tighten the line work and this pulls at an 8"):** RESTRAINT — after
+  #10–#12 execute, NO further prose changes; Alex closes the editor buffer, coach runs the
+  final typography sweep ("Rain - a strange phenomenon" em-dash + strays), text settles,
+  THEN the relock panel measures. Fresh prose always measures rough (9.11) — the settle IS
+  the lever.
+
+**Honest projection:** all three doors falling ≈ 7.0–7.5; an 8.0 average also needs the
+literary instance's chronic axis quiet on the day (persona noise floor). CONTINUE is already
+42/42 — the commercial job is done regardless; this push is for craft, and its real dividend
+is Ch. 2 drafted with caught-feelings natively.

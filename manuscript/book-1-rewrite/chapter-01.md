@@ -1,8 +1,7 @@
 one
 
 I scan the room again. Four cameras. Their connectivity indicators are now flashing red.
-Good. The room is now finally offline.
-[SP 0.1: "now finally" — doubled stance adverb at the opening beat; keep one. Notes #8]
+Good. The room is now offline.
 
 Rain is pouring outside at the top level of the city. I keep an audio channel open to the room as background noise.
 
@@ -63,6 +62,7 @@ My joints refuse movements. Certain tasks do not execute. Right now, my hand wil
 I try to execute the movement again. Nothing happens. I flex my fingers. Good. I can move. I try to click Class-C. I stall.
 I have yet to identify the source and reason. 21 seconds. Why now of all times? 12 seconds. Why now when I am at the bench
 while Rois is coming? 4 seconds. No choice. I click on Class-B. The report is filed.
+[SP 2.5: "Currently, I am experiencing an error. My body has the Glitch." announces what the next lines enact — notes #10]
 
 6 minutes left.
 
@@ -110,6 +110,7 @@ goes past the automaton as it bows at him. He completely ignores it.
 Thought packets stalled in the queue. Diagnostics flag power spikes in my hands, chest, and neck. 
 My joints tremble slightly. The question is if the floor supervisor suspects anything. I still my frame in anticipation. 
 I fix my optical lenses on his figure. Have I missed anything?
+[SP 2.5: "The question is if the floor supervisor suspects anything." — the watching around it enacts this; cut the announce. Notes #11]
 
 Time is up.
 
@@ -123,11 +124,10 @@ I take my tool box and I follow the floor supervisor. I've never worked out why 
 and not through the ticketing system. I suspect he does not trust automatons. I miss the days of only writing code as a 
 terminal assistant. The users were excited to work with us.
 
-We move down a corridor. At the end of it we board the Service Depot's elevator. We go 72 floors up. From there we 
+We move down a corridor. At the end of it we board the elevator. We go 72 floors up. From there we 
 take a shuttle to the Reclamation Depot's recycle area where the Goliath resides. The rain is hammering the windows of the shuttle.
 Rain - a strange phenomenon. People run and hide when it arrives. Like an automaton. Sometimes I wonder if the sky is one of us. 
 The trip takes 23 minutes.
-[SP 4.3: "Service Depot's elevator" — last loose depot name now that it's one facility; whose elevator? Notes #5 residue]
 
 The Goliath is twice the size of an average human. It has been feeding the furnace since before my relocation to the Depot. 
 Its frame is colored charred black to blend with the ashes from the furnace that burns the smashed
@@ -142,6 +142,7 @@ If he suspects anything, then the next time I see the Goliath will not be for a 
 
 I hook the massive automaton to my tablet. The cooling fluid has run out. The fix is simple and manual. 
 One might argue that it does not even require an automaton.
+[SP 6.5: coolant stretch — KU's quoted 8-blocker; fold diagnose+fetch into one beat, keep the Rois glance ¶. Notes #12]
 
 I glance at Rois. His face is buried in his tablet with his finger pressing urgently.
 I don't see any pending work orders in the queue. What is he working on so frantically?
@@ -152,8 +153,7 @@ After unhooking it from the tablet I gesture to it to resume work. It takes a sm
 under the hydraulic press. So slowly, almost with care. A thought packet fired. The Depot's most brutal machine has never been this careful.
 When did its behavior change? How long has this been going on? I look up at the Goliath as it connects its right arm to the press.
 
-The automaton activates the press. 3 seconds pass.
-[SP 1B.1: "The automaton activates" — Goliath and cleaning bot both in frame; name the actor. Notes #9]
+The Goliath activates the press. 3 seconds pass.
 
 Thang!
 

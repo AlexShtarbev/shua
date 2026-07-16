@@ -116,6 +116,15 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-16 (skills co-located into story-saint repo): relocated `sanderson-prose` + `prose-logic-review`
+  from `~/.claude/skills/` INTO `~/src/story-saint/skills/` (real dirs moved, incl. sanderson-prose's
+  scripts/ + references/), symlinked back into `~/.claude/skills/` — same pattern as the story-saint
+  siblings. ALL existing absolute paths still resolve through the symlinks: verified `vitals.py` runs via
+  `~/.claude/skills/sanderson-prose/scripts/vitals.py`, and the bible's + Ch. 2 packet's documented
+  `~/.claude/skills/sanderson-prose/SKILL.md` refs resolve. No file edits needed anywhere. Whole prose
+  toolchain (sanderson-prose, prose-logic-review, story-saint-book-editor) now co-located in the story-saint
+  repo; `prose-review-conductor` is the one holdout still in `~/.claude/skills/` (absorbed into book-editor
+  anyway — offered to move/retire it). New dirs UNTRACKED in the story-saint git repo (not committed).
 - 2026-07-16 (r15, first run of story-saint-book-editor): execution-verification round on the
   rebuilt back half. **All 5 prior notes EXECUTED/VERIFIED** — #2 his-way (the "So slowly,
   almost with care." variation + "A thought packet fired." flash), #5 ruled-by-edit (geography

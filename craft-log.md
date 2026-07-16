@@ -68,6 +68,16 @@ log IS the progress record.
 - "Class-C means the furnace." — two-outcomes verdict fragment; chose furnace over press, chaining with "feeding the furnace"/"ashes from the furnace" — object consistency by instinct (2026-07-13)
 - "I click on Class-B. The report is now filed." — unprompted: the 48-second sub-clock now PAYS OFF on the page (2026-07-13)
 - "My life was good up until 7 weeks ago. Before the Glitch appeared." — plain unironic attachment + harvested fragment in one move (2026-07-13)
+- **"So slowly, almost with care."** — the gentleness-beat variation (r15, note #2 his-way): varies
+  the vocabulary AND adds seemed-epistemics in four words; the brutal/careful antithesis kept its
+  verdict slot (2026-07-16)
+- **"It does not need me here at all."** — the coolant fold's verdict (r16): flat machine
+  understatement replacing "One might argue that it does not even require an automaton." — the wit
+  survives compression and pivots into the Rois glance, idle → observe (2026-07-16)
+- **"Good."** — the self-verdict tic, now a deliberate 3-deployment motif (r17): "Good. The room
+  is now offline." / "I flex my fingers. Good. I can move." / bare "Good." replacing the trimmed
+  relief clause — the machine's satisfaction stamp, coined across three separate revisions
+  (2026-07-16)
 - (add every time a pass keeps YOUR phrasing over the rulebook's)
 
 ## Domain-word deposits (life-vocabulary per chapter — words no model reaches for)
@@ -115,6 +125,38 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   `bible/interest-rubric.md` without duplicating their rules.
 
 ## Session retros (one line each)
+
+- 2026-07-16 (r17, lever completion + sweep — CLEAN, conducted): all three r16 items executed
+  same-session. #10 RULED BY EDIT: announce-line CUT (+ the 36s stamp with it — sub-clock
+  48/21/12/4, gap metered by the retries; adjudicated, never re-raise). #13 trimmed to bare
+  "Good." — the self-verdict tic now a 3-deployment motif (→ voice bank); side effect: file's
+  only repeated 5-gram gone, vitals reads zero. #14 his-way-beats-both-options: "the Reclamation
+  Depot's Service and Repair bench floor" — full one-site specificity as worldbuilding (coach
+  fixed caps to the line-14 establishment, §10.4). LEVER-3 SWEEP RUN: "Rain —" em-dash, name
+  caps, whitespace trim file-wide; ellipsis styles deliberately left (two functions, not one
+  policy). Vitals: 1,894 w, median 7.0, frag 29.7%, questions 1/189, 5-grams ZERO, lexicon
+  clean. Layer-1 holds 23/24. ZERO anchors, zero open notes — 8-push prose work COMPLETE.
+  NEXT: text settles → RELOCK PANEL (ruled endpoint); this is the provenance-commit point
+  (nothing committed since the 8-push opened).
+- 2026-07-16 (r16, 8-push execution verification, conducted): **levers 1+2 closed but for one
+  word.** #11 cut clean (¶ opens symptom-first, closes on the live question); #12 folded HIS way
+  ("It does not need me here at all." — wit-as-verdict pivoting into the Rois glance; KU's 4-round
+  stretch structurally gone); #10 executed-with-residue — Glitch verdict relocated per option (b),
+  named-late lands right, but "Currently, I am experiencing an error." survived → ONE ruling
+  requested (keep-as-clinical vs cut), the only prose decision left before lever 3. #8/#9/#5-residue
+  verified from the prior commit ("into the Goliath" fixed unprompted — 1B.1 self-applied). 2 new
+  micros tagged in the relocation's fresh prose (settling class): 3rd hands-can-move beat (1C.5,
+  the Mastered pattern echoing back) + "the Reclamation Depot floor" straggler (4.3). GEOGRAPHY
+  SYNCED per the #5 promise: cascade round-3 canon block (one arcology-scale Depot; deep bench;
+  recycle area +72 floors/23-min shuttle; "Service/Recycle Depot" RETIRED; dock UNPLACED — Alex
+  places it drafting Ch. 2) + Ch. 2 packet staging note. Delta logic audit on both restructured
+  passages: CLEAN. Vitals: 1,910 w, median 7.0, frag 29.1% (Mastered holding), questions 1/191,
+  lexicon clean. Layer-1 holds 23/24 — panel certifies at relock, not this number. Mechanical ×1
+  (froward). Noise not tagged: double-now at the #8 spot, pressure-phrase variants, news-voice
+  "robot". NEXT: #10 ruling → typography sweep (em-dash, ellipsis spacing, whitespace) → settle →
+  RELOCK PANEL. Spotted en passant: Ch. 2 beat sketch begun in `chapter-02.md` (Adler pulled
+  forward to the press scene = architecture fork the cascade doesn't know — packet wave +
+  pre-mortem when Alex brings it). Nothing committed at review time — commit offered.
 
 - 2026-07-16 (skills co-located into story-saint repo): relocated `sanderson-prose` + `prose-logic-review`
   from `~/.claude/skills/` INTO `~/src/story-saint/skills/` (real dirs moved, incl. sanderson-prose's

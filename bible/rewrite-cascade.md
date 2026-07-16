@@ -133,6 +133,26 @@ Severity may still rise incidentally; visibility is the audited axis.
 - ~~Pending ruling~~ **RULED (2026-07-15):** capital-G restored by Alex in revision ("My body has
   the Glitch.") — the recommended option; bible + packets already carry capital-G, no re-sync needed.
 
+## Ch. 1 expansion canon — round 3 (2026-07-16, geography RULED by edit)
+
+- **DEPOT GEOGRAPHY (Alex, ruled by edit — supersedes the three-name drift):** ONE facility,
+  the **Reclamation Depot**, arcology-scale. Shua's **Service and Repair bench** (a bench name,
+  not a site name) sits DEEP in the structure — below "the brightness of the world"; rain at the
+  top level reaches him as an audio channel. The **recycle area** (furnace + hydraulic press +
+  the Goliath) is **72 floors up plus a 23-minute internal shuttle** from the bench. "Service
+  Depot" and "Recycle Depot" as separate sites: **RETIRED** — never reuse. The shuttle journey
+  survives as canon atmosphere (rain hammering the windows; "Sometimes I wonder if the sky is
+  one of us.").
+- **Downstream (Ch. 2+):** bench floor ≠ press site. Belle's remand route, the press-witnessing
+  beat, and the Goliath's refusal all live in the recycle area — Shua must TRAVEL to witness
+  (the 23 minutes are spendable dread or compressible summary, drafter's call). Where the intake
+  dock sits relative to bench and recycle area is UNPLACED canon — Alex places it when drafting
+  Ch. 2. One Ch. 1 straggler tagged in-file: "the Reclamation Depot floor" at the Rois-arrival
+  beat (this floor / bench floor / rule as shop-floor idiom).
+- **"The trip takes 23 minutes."** — logistics fact doubling as the fire-timeline spacer
+  (elevator + shuttle + repair time puts real distance between Belle's exit and the news
+  bulletin). Registry-adjacent; keep the number consistent wherever the route recurs.
+
 ## Ch. 1 plant/payoff registry (logic-audit ledger, 2026-07-11)
 
 | Plant (Ch. 1, on page) | Payoff horizon |

@@ -6,6 +6,15 @@ AI-obvious version. Priors: waves 1–11 reached CLEAN; then new back-half mater
 (shuttle journey to the Recycle Depot, reworked Goliath-gentleness beat, Rois live-command
 musing, the rain-as-one-of-us interiority). This wave reviews the NEW zone. Five open notes.
 
+**r16 status (2026-07-16, 8-push verification):** #8, #9, #11, #12 EXECUTED; #5 residue CLEARED
+(one-site geography now fully on the page); #10 executed-with-residue — the announce-line
+survived the relocation, ONE ruling requested (see entry). Two new micros in the fresh
+relocation prose (#13, #14). Three anchors in-file.
+
+**r17 status (2026-07-16, lever completion + sweep):** #10 RULED BY EDIT (cut), #13 and #14
+EXECUTED — zero anchors in-file, zero open notes. Lever-3 typography sweep RUN (em-dash,
+name caps, whitespace). Chapter is lever-complete; next: settle → relock panel.
+
 ---
 
 ## 1. "the hydraulic machine" (1B.1) — ✅ EXECUTED (verified this wave: press→press→press; one typo residue "to press" fixed directly §10.4)
@@ -88,6 +97,11 @@ early). Watch it in Ch. 2/3 drafts.
 
 ## 5. Three depot names (canon ruling — gates Ch. 2) — ✅ RULED BY EDIT, one residue tagged. Alex collapsed the geography his own way (option d, better than my three): ONE facility — the Reclamation Depot — with a recycle AREA 72 floors up + 23-min internal shuttle. Arcology-scale depot; the journey survives; "Recycle Depot" as separate site is gone. RESIDUE: "the Service Depot's elevator" is the last loose name — rename it (the service elevator? the Depot's elevator?) or declare Service Depot a real second site. Ch. 2 packet geography syncs to one-site-with-area once the residue clears.
 
+**r16: RESIDUE CLEARED** — "the Service Depot's elevator" → "the elevator"; the destination reads
+"the Reclamation Depot's recycle area." One-site canon is now fully on the page. Geography synced
+this pass to `bible/rewrite-cascade.md` (canon block) + the Ch. 2 packet (staging note). One late
+straggler found and tagged separately (#14): "the Reclamation Depot floor" at the Rois-arrival beat.
+
 **The tangle.** The chapter now names three facilities: **Reclamation Depot** (×3 — Shua's
 home site, canon since the first draft), **Service Depot** (new — "the Service Depot's
 elevator"), and **Recycle Depot** (new — "where the Goliath resides"). Plus the "Service and
@@ -124,7 +138,7 @@ authorial inconsistency, not richness.
 
 ---
 
-## 8. "now finally" (0.1) — OPEN, micro
+## 8. "now finally" (0.1) — ✅ EXECUTED (his pick: cut "finally", kept "now" — the note leaned the other way; his ruling by edit, closed)
 
 **Where.** "Good. The room is now finally offline." — the opening beat.
 **Rule.** Two stance adverbs stacked on one verb; the register licenses stance adverbs (0.1)
@@ -133,7 +147,7 @@ beat needs (my read: "finally" — it implies the flood trick took a while, whic
 reveal pays). **Counter-point:** doubled adverbs can read as voice-fussiness; if it's how
 Shua savors the moment, rule keep. **AI-obvious:** cutting both — the beat goes flat.
 
-## 9. "The automaton activates the press." (1B.1) — OPEN, micro
+## 9. "The automaton activates the press." (1B.1) — ✅ EXECUTED ("The Goliath activates the press." — actor named at the climax beat; he also fixed "pour the liquid into the Goliath" unprompted, same 1B.1 family)
 
 **Where.** Press sequence, after "connects its right arm to the press."
 **Rule.** Three machines share the frame (Goliath, cleaning bot, press); "the automaton" has
@@ -144,7 +158,7 @@ the actor (1B.1: repeat the plain name; it's cohesion, not clumsiness).
 — but not at the highest-legibility-stakes beat. **AI-obvious:** "the massive machine" —
 elegant variation.
 
-## 10. "Currently, I am experiencing an error. My body has the Glitch." (2.5/9.3) — OPEN, lever 2
+## 10. "Currently, I am experiencing an error. My body has the Glitch." (2.5/9.3) — ✅ RULED BY EDIT: CUT (r17). The announce-line is gone and he took the 36-second stamp with it — the sub-clock now runs 48/21/12/4, the 48→21 gap metered by the symptom run and retries themselves (the diegetic-countdown device, self-consistent). The symptoms now open cold on "Whenever I perform actions…" — general→specific, then "My body has the Glitch." lands one ¶ later as the deferred verdict. Lever 2 fully closed; both announce-lines are out. ADJUDICATED — never re-raise. Original entry below for the record. The Glitch verdict relocated per option (b) — it now lands AFTER the symptom run, opening the approach ¶ ("My body has the Glitch. I brace myself."), named-late done right. The announce-line "Currently, I am experiencing an error." survived. You touched that exact line (removed the Glitch half), so this may be a keep-by-edit: the line IS the driest of the family — flat clinical stamp between two countdown ticks, arguably error-report idiom rather than feeling-label. Say **keep** and it closes forever as clinical voice; say **cut** and the stamps close ranks (48 → 36 with the dilemma question carrying the gap). One word either way.
 
 **Where.** The ticking paragraph, before the symptom run.
 **Device.** Flash → body → self-censor (2.5): the body evidence comes FIRST; the diagnosis
@@ -159,7 +173,7 @@ trembling. Which was stupid." The body acts; the self comments after.
 a 4-word verdict AFTER the symptom run (verdict-last, 1.4). (c) Rule keep as clinical voice.
 **AI-obvious.** Replacing with a longer diagnostic preamble — inflation in the other direction.
 
-## 11. "The question is if the floor supervisor suspects anything." (2.5) — OPEN, lever 2
+## 11. "The question is if the floor supervisor suspects anything." (2.5) — ✅ EXECUTED (announce-line cut clean; the ¶ now opens on "Thought packets stalled in the queue." and closes on "Have I missed anything?" — symptom-first, live question last, exactly the device. Lever 2's second door: closed)
 
 **Where.** The 1-minute-left fear beat.
 **Device.** Same axis. The paragraph already enacts the question three ways: stilled frame,
@@ -170,7 +184,7 @@ symptom, register-perfect) and closes on the live question.
 thought, fold it INTO the final question instead of stating it about yourself.
 **AI-obvious.** Swapping in a body cliché ("my sensors tighten") — stock-body in costume (9.3).
 
-## 12. The coolant stretch (6.5 scene-vs-summary) — OPEN, lever 1 (ruling re-opened by Alex)
+## 12. The coolant stretch (6.5 scene-vs-summary) — ✅ EXECUTED, his fold (r16). "One might argue that it does not even require an automaton." → "It does not need me here at all." — the wit kept as a 8-word verdict that pivots INTO the Rois glance (idle → observe, the join is motivated). Rois-glance ¶ untouched, news causality intact. KU's 4-round stretch is structurally gone; lever 1: closed. → voice bank (the flat machine understatement)
 
 **Where.** "I hook the massive automaton… does not even require an automaton." + "I grab the
 cooling fluid… pour the liquid carefully into the automaton."
@@ -186,6 +200,41 @@ carried by the nostalgia line that follows anyway; 5.7 the idea survives the cut
 Either way the Rois-glance ¶ stays untouched — it arms the interrogation.
 **AI-obvious.** Cutting the whole stretch including the Rois glance — that breaks the news-
 report causality. Trim the maintenance, keep the plot.
+
+## 13. "My hands and feet can move freely now." (1C.5) — ✅ EXECUTED (r17), option (a) plus his own move: the clause trimmed and replaced with a bare "Good." — the fragment does the verdict work, and it extends his self-verdict tic ("Good. The room is now offline." / "I flex my fingers. Good. I can move." / "Good.") into a THREE-DEPLOYMENT motif: the machine's satisfaction stamp. The relief beat at Belle's exit now owns "hands freely" uniquely. Side effect: the file's only repeated 5-gram ("pressure on my chest and") is gone — vitals reads zero. → voice bank (the tic)
+
+**Where.** The approach ¶: "My body has the Glitch. I brace myself. I still detect pressure on my
+chest and neck. I take a few steps forward. **My hands and feet can move freely now.**"
+**Rule.** This is the chapter's THIRD mobility check: (1) in-crisis "I flex my fingers. Good. I can
+move." (the selectivity demonstration — hands work, the Class-C click doesn't); (2) this one; (3) the
+relief beat at Belle's exit, "The pressure behind my chest and neck plates disappears. I can move my
+hands freely now." Beats 2 and 3 share the same clause almost verbatim — the Mastered 1C.5 pattern
+(duplicate clocks/frames: stages must read as stages, not reruns).
+**Options.** (a) Trim the clause here — "I brace myself. I still detect pressure… I take a few steps
+forward." already stages partial relief (pressure persists, movement returns) without pre-spending
+beat 3's wording. (b) Differentiate: make this one about *walking* (the feet are the new information;
+the hands were already cleared at the flex-test), e.g. the legs obey — then "hands freely" at Belle's
+exit stays unique. (c) Rule it voice (a machine re-running the same check is in-character).
+**Counter-point.** A diagnostic loop that repeats verbatim IS machine-natured; if you want the rerun
+flavor, option (c) is honest — but then beat 3 is the one carrying the echo, and it currently reads
+as the payoff ("The pressure… disappears"), so the echo may dilute it.
+**AI-obvious.** Adding a third variant phrasing ("my servos respond") — synonym rotation instead of
+structure.
+
+## 14. "the Reclamation Depot floor" (4.3, canon) — ✅ EXECUTED (r17), his staging beats both coach options: "the Reclamation Depot's Service and Repair bench floor" — maximal specificity that quietly re-anchors the one-site geography (the Depot has a bench floor and a recycle area; parallel naming does the worldbuilding). Coach fixed capitalization to match line 14's established "Service and Repair bench" (§10.4 established-name consistency). Geography canon is now seamless across the chapter.
+
+**Where.** "Notifications on the tablet indicate Rois's elevator has reached the Reclamation Depot
+floor."
+**Why.** Under the old three-site geography, Rois's elevator "reaching the Reclamation Depot" meant
+arriving at the facility. Under your one-site ruling the whole arcology IS the Reclamation Depot —
+spanning at least 72 floors — so "the Reclamation Depot floor," singular, went stale: which floor?
+Readers track proper nouns as slots (4.3); this is the last name-slot the ruling left unfilled.
+**Options.** (a) "has reached this floor" / "has reached my floor" — cheapest, keeps the beat about
+proximity. (b) "has reached the bench floor" — names the deep level, quietly reinforces the new
+geography. (c) Rule as-is: "the Depot floor" as shop-floor idiom (like "the factory floor" — THE
+working floor). Defensible; costs one cold-read wobble at a tense beat.
+**AI-obvious.** Renaming the whole beat around elevator mechanics ("descending to sublevel 47") —
+invented specificity the scene doesn't need.
 
 ## Praise — the new zone's real wins (no action)
 
@@ -273,3 +322,70 @@ Reader-sourced path to 8 — each lever is a persona's own quoted blocker:
 literary instance's chronic axis quiet on the day (persona noise floor). CONTINUE is already
 42/42 — the commercial job is done regardless; this push is for craft, and its real dividend
 is Ch. 2 drafted with caught-feelings natively.
+
+---
+
+## r16 verdict (2026-07-16 — 8-push execution verification)
+
+**Levers 1 and 2: closed but for one word.** #11 and #12 executed (his stagings, both better than
+the scaffolds); #10 executed-with-residue — the ruling request on the announce-line is the ONLY
+prose decision left before lever 3 (restraint → typography sweep → settle → relock panel) fires.
+#8, #9, #5-residue verified executed from the prior commit. Two new micros in the relocation's
+fresh prose (#13 relief-frame echo, #14 depot-floor straggler) — settling regressions, expected
+class, both cheap.
+
+**Delta logic audit (the two restructured passages):** the ticking-¶ → Glitch-¶ relocation is
+dependency-clean — symptoms enact first, "I have yet to identify the source" defers, "My body has
+the Glitch." arrives as the deferred answer; the interposed Rois-notification one-liners read as
+licensed countdown texture, not a split inference. The coolant fold is clean; the wit-verdict
+motivates the Rois glance. No structural findings.
+
+**Vitals (r16):** 1,910 w, median 7.0, fragments 29.1% (Mastered rule holding), punch 28.8%,
+questions 1/191, lexicon clean, CV 0.63. False alarms pre-named: one-¶ 35.6% = licensed stamps;
+said 0% = present tense; 1 paren = the (OPTIONAL) form-field; repeated 5-gram "pressure on my
+chest and" = the Glitch's signature symptom recurring (canon, exempt-class).
+
+**Interest self-score (Layer-1): 23/24, holding.** No structural movement this round (the
+compression tightened the causal chain if anything). Built-quality unchanged; the panel at relock
+certifies, not this number.
+
+**Mechanical (§10.4):** froward→forward. **Deferred to the lever-3 typography sweep:** "Rain - a
+strange phenomenon" hyphen→em-dash; "almost...grateful?" ellipsis spacing (house style elsewhere
+uses "… " with space); trailing-whitespace trim.
+
+**Noise, explicitly NOT tagged:** "now flashing red / now offline" double-now at the opening (he
+just executed #8 on that exact spot; re-tagging it would be goalpost-moving); the three pressure-
+phrase variants ("on my chest and behind my neck plates" / "on my chest and neck" / "behind my
+chest and neck plates") — canon elements all present, natural variation; "the robot" in the news
+report — broadcast register, humans talk like that.
+
+**Next:** one word on #10 → coach runs the typography sweep → buffer closes, text settles → relock
+panel (lever 3). Ch. 2 beat sketch spotted in `chapter-02.md` (Adler on stage — an architecture
+fork the cascade doesn't know yet); packet wave when you're ready.
+
+---
+
+## r17 verdict (2026-07-16 — CLEAN; 8-push levers complete, sweep run)
+
+**Zero anchors, zero open notes. The 8-push prose work is DONE.** #10 ruled by edit (cut — and the
+36s stamp went with it; sub-clock 48/21/12/4 stays diegetic), #13 trimmed to a bare "Good." (the
+self-verdict tic now a 3-deployment motif → voice bank), #14 renamed with full one-site specificity
+(his staging beat both coach options). No new findings; no re-litigation of settled zones.
+
+**Lever-3 typography sweep executed (coach, §10.4):** "Rain — a strange phenomenon." em-dash;
+"Service and Repair bench floor" caps matched to the line-14 establishment; trailing whitespace
+trimmed file-wide. Ellipsis styles left alone — the two narrative instances serve different
+functions (trail-off "pressure… I take" vs hesitation "almost...grateful?"), and the news-report
+bracket dots are quotation convention; standardizing would be sweep-invented policy, not repair.
+
+**Vitals post-sweep:** 1,894 w, median 7.0, fragments 29.7% (Mastered holding), punch 28.8%,
+questions 1/189, lexicon clean, repeated 5-grams ZERO, em-dashes 6. Same pre-named false alarms
+(one-¶ % = licensed stamps; said 0% = present tense; 1 paren = the (OPTIONAL) form-field).
+
+**Layer-1 self-score: 23/24, holding** — built more interesting than the 6.7-ceiling text the
+panel last measured; the panel certifies, not this number.
+
+**Standing:** text now settles (9.11 — fresh cuts measure rough for a round). Next measurement is
+the RELOCK PANEL (lever 3's endpoint, already ruled). Honest projection unchanged: 7.0–7.5 band,
+8.0 needs the literary instance's chronic axis quiet on the day. This session (levers + sweep) is
+the provenance-commit point — nothing committed since the 8-push opened.

@@ -25,6 +25,16 @@
 > mid-crisis, UNCORRECTED** — the first one he doesn't catch. Place it deliberately (candidate
 > sites: the feed-review of the rescue; the dock when her eyes find him; the press ¶). It is
 > the motif's true onset now — Ch. 3 Fork D (Cairn's pronoun) rides on it.
+>
+> **🗺 GEOGRAPHY SYNCED (2026-07-16, your Ch. 1 ruling-by-edit):** ONE site — the arcology-scale
+> **Reclamation Depot**. Your bench is DEEP (rain arrives as audio); the **recycle area** (furnace,
+> press, the Goliath) is **72 floors up + a 23-minute internal shuttle**. "Service Depot" /
+> "Recycle Depot" as site names are RETIRED. Staging consequence for THIS chapter: the press is in
+> the recycle area, so Belle's remand route and your witnessing of the press cross that distance —
+> the 23-minute ride is spendable dread (you, in transit, knowing) or compressible summary; the
+> reinit order can land mid-journey. **Unplaced canon, yours to set when drafting: where the intake
+> dock sits** (bench level? recycle area? its own bay?) — the dock beats below assume you can reach
+> it; place it, and the cascade ledgers it.
 
 ---
 

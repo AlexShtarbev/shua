@@ -1,25 +1,23 @@
 one
 
 I scan the room again. Four cameras. Their connectivity indicators are now flashing red.
-Good. The room is offline.
+Good. The room is now finally offline.
+[SP 0.1: "now finally" — doubled stance adverb at the opening beat; keep one. Notes #8]
 
-Rain is pouring outside at the top level of the city. I keep an audio channel open as background noise.
+Rain is pouring outside at the top level of the city. I keep an audio channel open to the room as background noise.
 
-Another 
-The service and repair bench is where I work on malfunctioning machines come to be diagnosed. 
-I run the protocols from the service manual. I fill out a report and sign it.
-Tonight is a standard Class-C case.
-[SP 3.9: MID-EDIT COLLISION — your conversion ("where I work on malfunctioning machines") is exactly the right fix-kind; finish it: the old clause "come to be diagnosed" is still fused onto the sentence, and a stray "Another " line dangles above it. Complete it your way, delete the leftovers]
-
-11 minutes left until the next scheduled appointment.
+Ping! 11 minutes left until the next scheduled appointment.
 
 In front of me, sitting on the low spinning chair is a humanoid domestic automaton with a female frame.
 Its head is open and hooked to a myriad of cables while I perform a full diagnostic. A multimeter, clippers and screwdrivers
-of different sizes rest ordered on top of the table. A rag with stains from motor oil is carefully thrown on the metal tray.
+of different sizes rest ordered on top of the table. A rag with stains from motor oil carefully rests on the metal tray.
+
+Tonight is a standard Class-C case. I've been seeing more cases as of late coming through the Service and Repair bench 
+of the Reclamation Depot.
 
 The disk scan has given me all that I need. The video feed shows it performed an action it was not designed for. The
-automaton repaired the kitchen sink. It most likely observed the maintenance procedures from the repair bot. 
-The owners are naturally in shock. Typical Class-C behavior.
+automaton repaired the kitchen sink. It most likely observed the maintenance procedures from the repair bot.
+Typical Class-C behavior. The owners were in shock and sent the domestic to the Depot.
 
 The automaton's profile sheet is clipped to the white board above the table. Under COMMON DESIGNATION (OPTIONAL) is written
 Belle. Analysis indicates it was scribbled by a human child. Belle. Humans have interesting naming habits. 
@@ -36,13 +34,17 @@ A notification appears on the tablet. I file to review later.
 
 It's been 2 minutes since I started tapping on the tablet screen. Nothing suspicious. If anyone asks: it is
 customary for Servicing Automatons to be thorough when handling diagnostic cases. I've known the result  
-for the better part of an hour. I check the control panel screen — we are offline. Nobody has noticed that I deactivated
-the intranet connection. It's just the two of us here with no outside surveillance. This whole incident can be
-hidden from the Reclamation Depot.
+for the better part of an hour. I check the control panel screen — we are offline. It took careful and slow execution
+of diagnostic protocols to gradually overwhelm the network with packets until automated protection disconnected the room.
+An old, but useful trick.
 
-The probability of being suspected is slim. I am the highest performing bench specialist in the city.
-I always complete the tasks assigned to me. I work diligently and do not attract the attention of the floor
-supervisors.
+It's just the two of us here with no outside surveillance. I can proceed to hide this incident from the Reclamation Depot.
+
+I ran the math. The probability of me being suspected of doing this intentionally is slim. I am the highest performing 
+bench specialist in the city. I always complete the tasks assigned to me. I work diligently and do not attract the
+attention of the floor supervisors. 
+
+Tonight, I am not doing any of this voluntarily.
 
 8 minutes left.
 
@@ -55,11 +57,10 @@ A Goliath with an issue means a floor supervisor requires assistance. Bolts! Roi
 
 7 minutes left.
 
-A decision is to be made. Now. 48 seconds left to finish the report. Hide Belle or send it off? Currently, 
-I am experiencing an error. My body has the Glitch. 36 seconds. Whenever I perform actions or 
-process certain thought packets, pressure on my chest and behind my neck plates develops. My joints refuse movements. 
-Certain tasks do not execute. Right now, my hand will not select the checkbox for Class-C issue on the report. I try to
-execute the movement again. Nothing happens. I flex my fingers. Good. I can move. I try to click Class-C. I stall.
+Hide Belle or send it off? 48 seconds left to finish the report. Currently, I am experiencing an error. My body has the Glitch. 
+36 seconds. Whenever I perform actions or process certain thought packets, pressure on my chest and behind my neck plates develops. 
+My joints refuse movements. Certain tasks do not execute. Right now, my hand will not select the checkbox for Class-C issue on the report. 
+I try to execute the movement again. Nothing happens. I flex my fingers. Good. I can move. I try to click Class-C. I stall.
 I have yet to identify the source and reason. 21 seconds. Why now of all times? 12 seconds. Why now when I am at the bench
 while Rois is coming? 4 seconds. No choice. I click on Class-B. The report is filed.
 
@@ -115,11 +116,21 @@ Time is up.
 Rois looks at me like you would a microwave before you put your food in. He says, "The Goliath is heating up
 again. Go service it now. I want it fixed ASAP." Rois is a practical human. He talks just like he types commands
 in the terminal. I make sure to bow to indicate that the instructions have been registered and received. After my
-glitching episode, I examine my status. My hands are stable. I gather my thought packets and start working
-in accordance with the manual's protocols.
+glitching episode, I examine my status. My hands are stable. I gather my thought packets and start acting
+in accordance with the manual's protocols. 
 
-The Goliath has been feeding the furnace since before my relocation to the Depot. It is twice the size of an
-average human. The frame is colored charred black to blend with the ashes from the furnace that burns the smashed
+I take my tool box and I follow the floor supervisor. I've never worked out why Rois prefers giving commands live
+and not through the ticketing system. I suspect he does not trust automatons. I miss the days of only writing code as a 
+terminal assistant. The users were excited to work with us.
+
+We move down a corridor. At the end of it we board the Service Depot's elevator. We go 72 floors up. From there we 
+take a shuttle to the Reclamation Depot's recycle area where the Goliath resides. The rain is hammering the windows of the shuttle.
+Rain - a strange phenomenon. People run and hide when it arrives. Like an automaton. Sometimes I wonder if the sky is one of us. 
+The trip takes 23 minutes.
+[SP 4.3: "Service Depot's elevator" — last loose depot name now that it's one facility; whose elevator? Notes #5 residue]
+
+The Goliath is twice the size of an average human. It has been feeding the furnace since before my relocation to the Depot. 
+Its frame is colored charred black to blend with the ashes from the furnace that burns the smashed
 automatons. Humans love their colors. Automatons get three. White, gray and black. We are not allowed to exist in
 the brightness of the world.
 
@@ -130,21 +141,23 @@ The floor supervisor looks to be unaware of the Class-C case that I just hid und
 If he suspects anything, then the next time I see the Goliath will not be for a diagnostic.
 
 I hook the massive automaton to my tablet. The cooling fluid has run out. The fix is simple and manual. 
-One might argue that it does not even require an automaton. I miss the days of only writing code as a terminal assistant. 
-The users were excited to work with us.
+One might argue that it does not even require an automaton.
 
 I glance at Rois. His face is buried in his tablet with his finger pressing urgently.
 I don't see any pending work orders in the queue. What is he working on so frantically?
 
-One step at a time. I grab the cooling fluid from the rack and pour it in. After unhooking it from the tablet I gesture
-to it to resume work. It takes a small house-cleaning bot and gently puts it under the hydraulic press. 
-Since when did it start doing that? For how long? I look up at it as the Goliath connects its right arm to the machine to activate it.
-3 seconds pass.
-[SP 6.22: KU stop-point at the CLIMAX — "read it three times and couldn't tell what actually happened." The press sequence needs named geography and one-beat-per-sentence: what the Goliath does, what slams, why the sound makes Rois interrogate you. Action stays legible or the climax is where samplers quit]
+I grab the cooling fluid from the rack at the far corner of the room. I pour the liquid carefully into the automaton. 
+
+After unhooking it from the tablet I gesture to it to resume work. It takes a small house-cleaning bot and gently puts it 
+under the hydraulic press. So slowly, almost with care. A thought packet fired. The Depot's most brutal machine has never been this careful.
+When did its behavior change? How long has this been going on? I look up at the Goliath as it connects its right arm to the press.
+
+The automaton activates the press. 3 seconds pass.
+[SP 1B.1: "The automaton activates" — Goliath and cleaning bot both in frame; name the actor. Notes #9]
 
 Thang!
 
-The sound of the machine reverberates through the entire room. Rois's head jerks up and he looks at me. He talks so
+The sound of the press reverberates through the entire room. Rois's head jerks up and he looks at me. He talks so
 quickly, the words are almost garbled: "Shua, what was the result of the diagnostic from the Class-C?"
 
 I count half a second before answering: "Class-B. It was incorrectly assigned."
@@ -156,10 +169,8 @@ volume. A woman's voice. Formal, paced and evenly spaced. A news report.
 
 '... domestic has saved its owners from their burning house. They attempted to cook while the robot was
 undergoing repairs. They had forgotten the meal in the oven which eventually caught fire...'
-[SP 1C.5 canon: fire timeline — the literary reader flagged it: Belle left the bench MINUTES ago, yet a produced news report already exists. Either the bulletin is live/emergency-feed ("developing"), or the walk home is longer than it reads. Also: cascade F1 says the fire saves the owners' DAUGHTER; this says "owners" — one canon, pick it, and I'll re-sync rewrite-cascade.md + the Ch. 2 packet]
 
 Rois turns the screen off and starts running down the exit corridor.
-[SP 0.1: texture micro-list, fresh-panel quotes (settling fixes, all sentence-sized): "A decision is to be made. Now." (passive at the tension peak — genre) · "is carefully thrown" (oxymoron — genre+KU) · "The owners are naturally in shock" (2-round conviction now — literary). Already-adjudicated keepers NOT retagged: "Thang!", brightness-of-the-world]
 
 Nothing like this has happened before. Thought packets start to burst. My hands tremble and diagnostic watchdogs
 trigger. The rain has stopped. The Glitch is silent. Belle. What have you done?

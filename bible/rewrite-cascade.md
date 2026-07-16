@@ -110,7 +110,7 @@ Severity may still rise incidentally; visibility is the audited axis.
 - **The Goliath seed delivered on-page:** faces Shua "almost expectantly"; sets a cleaning bot into the press with "gentleness and care"; Shua's stake coined: "the next time I see the Goliath will not be for repairs."
 - **Rois voice (3.2):** command-line diction — "I want it fixed ASAP." / "You are dismissed." Looks at machines "like you would a microwave."
 - **The tablet = multi-job prop (5.8):** report, falsification, notification plant ("I file to review later") → payoff ("Another notification"), diagnostic rig. The chapter's object; give it an arc.
-- **RULINGS (2026-07-11, all closed):** Rois ✓ (bible synced) · Yax Enterprises ✓ (bible synced) · Goliath = "it" everywhere (Shua polices ALL machine pronouns; "she" slips reserved for Belle) · cable → AGENCY: **Shua deactivated the intranet himself** (premeditated isolation, competence per 2B.13; note — a cut intranet is itself discoverable evidence, feeds the Ch. 9 trap). Attachment beat delivered: "I miss the good old days…" (humanize rule 2 ✓; carries the licensed undressed feeling "sadly," 9.3).
+- **RULINGS (2026-07-11, all closed):** Rois ✓ (bible synced) · Yax Enterprises ✓ (bible synced) · Goliath = "it" everywhere (Shua polices ALL machine pronouns; "she" slips reserved for Belle) · cable → AGENCY: **Shua tripped the room offline himself — the packet-flood trick** (slow diagnostic-protocol flood until automated protection disconnected the room; 'An old, but useful trick.' = practiced tradecraft, supersedes the plain intranet-pull) (premeditated isolation, competence per 2B.13; note — a cut intranet is itself discoverable evidence, feeds the Ch. 9 trap). Attachment beat delivered: "I miss the good old days…" (humanize rule 2 ✓; carries the licensed undressed feeling "sadly," 9.3).
 
 ## Ch. 1 expansion canon — round 2 (2026-07-14, from Alex's self-annotation-pass rewrite)
 
@@ -140,7 +140,7 @@ Severity may still rise incidentally; visibility is the audited axis.
 | "The Glitch is silent." (curtain ¶ — wording updated in the r5 rebuild) | Ch. 2 open (glitch-quiet bridge — echo it) |
 | "Since when did it start doing that?" (Goliath's gentleness) | Ch. 3 (Cairn) |
 | **"Belle. What have you done?"** + the fire news heard through Rois's tablet (r5 rebuild) | Ch. 2 opens by seizing it (6.19); the did-she-stage-it loop is live |
-| Evidence bundle: cut intranet + falsified Class-B + wiped footage + unread notification trail | Ch. 9 (Adler's trap holds a document) |
+| Evidence bundle: packet-flood network trip (reads as accident, but traffic logs exist) + falsified Class-B + wiped footage + the ONE locked log file he couldn't reach + unread notification trail | Ch. 9 (Adler's trap holds a document) |
 | "We are not allowed to exist in the brightness of the world." (color axis) | Series — machines claiming color is a Book 3-grade image |
 | Belle's bow, ignored by Rois | Recording/witness grammar ancestor (Ch. 5+) |
 | Maxim debts: politeness-while-killing · naming-as-benevolence · "There are exactly two outcomes of the bench." | Boomerang later (5.4) — politeness at the Book 3 signing; the two-outcomes line inverts when HE is the case |

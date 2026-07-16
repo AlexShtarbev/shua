@@ -116,6 +116,58 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-16 (r15, first run of story-saint-book-editor): execution-verification round on the
+  rebuilt back half. **All 5 prior notes EXECUTED/VERIFIED** — #2 his-way (the "So slowly,
+  almost with care." variation + "A thought packet fired." flash), #5 ruled-by-edit (geography
+  collapsed to ONE arcology-scale Reclamation Depot with a recycle area; "Service Depot"
+  = last loose name, tagged as residue). His edits also retired two OLD frictions structurally:
+  the fire timeline ("The trip takes 23 minutes.") and the press-staging legibility (one beat
+  per sentence + the frantic-tablet plant arming Rois's interrogation). Layer-1 interest
+  self-score 23/24 (hook + dials healed) — built more interesting; panel to confirm at relock.
+  3 micro tags open (Service-Depot residue, "now finally", "The automaton activates"). Voice
+  bank: sweep plant ("more cases as of late"), "Tonight, I am not doing any of this
+  voluntarily." Cascade synced: flood-trick supersedes intranet in evidence bundle + locked
+  log file added. 1B.7 watch-list evidence: self-fixed "From there" frame.
+
+- 2026-07-16 (book-editor skill created — workflow consolidated): Alex asked to combine the 3 review
+  skills + storyteller into one. Ruled (via question): HYBRID ABSORB + FULL LIFECYCLE. Built
+  **`story-saint-book-editor`** (`~/src/story-saint/skills/`, symlinked to `~/.claude/skills/`, 461 lines)
+  = the prose/book track of story-saint, sibling to the animation pipeline. Spans DEVELOP (book-calibrated
+  storyteller tools: beat sheet, pre-mortem w/ a PROSE failure vocab, pre-production lock, series bible,
+  causality tags — delegates `../reference/methodology.md` etc.) → DRAFT (pair-writing, delegates
+  sanderson-prose §10) → EDIT (absorbs the prose-logic-review taxonomy + the full conductor: coverage map,
+  Phases 0–4 incl. the two-layer notes convention and the two-tier interest check, discipline layer,
+  failure modes). Delegates the register rulebook to sanderson-prose by §-number (unchanged; §-refs intact).
+  Non-destructive: prose-logic-review + prose-review-conductor kept + pointer-noted (still standalone-valid;
+  logic-review still satisfies sanderson §7 Pass-24); storyteller got a book-track pointer. **Invoke
+  story-saint-book-editor for future SHUA dev/review.** Memory synced.
+- 2026-07-16 (review-again on the expanded back half, conducted): NEW zone reviewed (shuttle journey,
+  reworked Goliath-gentleness, Rois live-command musing, rain-as-one-of-us). Phase 0 confirmed r14's 3
+  tags + brochure collision all CLEARED. 1 CANON RULING blocks lock and gates Ch. 2: **three depot names**
+  (Reclamation / Service / Recycle) + a new 72-floor/23-min shuttle journey = new geography; options a/b/c
+  offered, rec (b) two-sites-retire-third, coach re-syncs Ch. 2 packet + cascade to the ruling. 4 cheap
+  line tags (all new-zone settling regressions): hydraulic-machine variation (1B.1, carried), gentle/careful
+  keyword cluster in the plant ¶ (1B.1 — protect the brutal/careful antithesis, cut the labels), From-there
+  ×2 opener (1B.7 — WATCH-LIST hit again; opener frames keep migrating under drafting), Goliath-as-"he"
+  (canon — 3rd drift; fixed to a fragment to dodge the cleaning-bot "it" collision). Wins: "Sometimes I
+  wonder if the sky is one of us." (rain motif → hiding theme → book thesis w/o pointing, 4.1/9.2 —
+  voice-bank cand.), network-flood trick (cut-intranet plant upgraded stated→demonstrated, 2B.13, feeds
+  Ch. 9 seam — registry update pending Alex's keep). Mechanical ×11 applied. Deferred: "Rain -"
+  hyphen→em-dash (end-of-session sweep). Vitals: 1,900 w, median 7.0, lexicon clean. Watch-list: 1B.7
+  reopens (was residue-only) — opener migration confirmed across zones; keep as active slot for Ch. 2.
+- 2026-07-16 (conductor skill merge): coach merged the July-15 session's loop discipline into Alex's new
+  `~/.claude/skills/prose-review-conductor` — two-layer tag/notes delivery (Phase 2: ≤120-char anchors
+  verified by awk, rule-number-first for the `\bSP \d` TODO regex, companion `chapter-NN-notes.md` as the
+  loop's verdict ledger; single-layer tags ledgered as the failure the convention was born from), Phase-0
+  step 4 (verify executions before new findings; cleared-unchanged = one explicit ruling request, then
+  adjudicated forever), the dry-chapter instrument-escalation ladder ending in a deliverable CLEAN (line
+  sweeps ×2 → prose-logic-review → §7 ×25 scorecard → delta-only → STOP; manufactured findings named as a
+  failure mode), the STRATEGY mode (plant-registry horizon audit → menu w/ word costs + AI-obvious flags →
+  rule-then-tag → registry rows same pass → bank rejected stagings w/ target chapter), vitals false-alarm
+  list (says-vs-said, licensed stamps, document parens, rich-side ranges), coach-side ruling amnesia +
+  own-the-error protocol (capital-G / dyrollic cases), verbatim ledger-quote sync (1B.6), evasion-refusal
+  policy w/ receipts, and the commit offer at every loop close. Memory pointer updated. The r14 entry
+  below is the skill's first live run — the merge and the run validate each other.
 - 2026-07-16 (r14, conducted under prose-review-conductor — its first run): "review again after
   edits" subset (0→1→2, no panel per retirement standing). Vitals at ALL-TIME BEST: median
   **7.0 (corpus dead-center)**, fragments 29.2% in band, punch 25.6%, questions 1/172, lexicon

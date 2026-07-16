@@ -105,6 +105,13 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 - **Provenance ledger (§10.9):** `shua/` is a git repo (init 2026-07-10, root 54d1ff5,
   repo-local identity alex.shtarbev@gmail.com). Commit per writing/annotation session.
 - **Drafts are `.md`**, numbered `chapter-NN.md`, in `manuscript/book-1-rewrite/`.
+- **Reviews are CONDUCTED (2026-07-16):** all editorial reviews follow
+  `~/.claude/skills/prose-review-conductor/SKILL.md` — phase order (sync → mechanical →
+  register → logic → perception), adjudication ledger (ruled items never re-tagged),
+  signal grading (convergent = finding; cross-instance contradiction = noise), churn
+  detection → instrument retirement, and the per-pass paper trail. Codified from the
+  Ch. 1 loop after the 13-round churn; links into sanderson-prose + prose-logic-review +
+  `bible/interest-rubric.md` without duplicating their rules.
 
 ## Session retros (one line each)
 

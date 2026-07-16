@@ -5,10 +5,13 @@ Good. The room is offline.
 
 Rain is pouring outside at the top level of the city. I keep an audio channel open as background noise.
 
-The service and repair bench is where malfunctioning machines come to be diagnosed. 
+Another 
+The service and repair bench is where I work on malfunctioning machines come to be diagnosed. 
 I run the protocols from the service manual. I fill out a report and sign it.
 Tonight is a standard Class-C case.
-[SP 3.9: UNANIMOUS stop-point, fresh panel (3/3) — "The service and repair bench is where malfunctioning machines come to be diagnosed" is a brochure sentence explaining the room to the reader, sitting inside the hook zone. Post-loop edit regression. He'd never explain his own bench to himself; cut or convert to what he's DOING at it]
+[SP 3.9: UNANIMOUS stop-point, fresh panel (3/3) — "The service and repair bench is where malfunctioning machines come to be diagnosed"
+is a brochure sentence explaining the room to the reader, sitting inside the hook zone. Post-loop edit regression.
+He'd never explain his own bench to himself; cut or convert to what he's DOING at it]
 
 11 minutes left until the next scheduled appointment.
 

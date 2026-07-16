@@ -10,7 +10,7 @@ log IS the progress record.
 |------|---------------------|-------|--------|
 | 2.6 | Questions: 1/891 → 1/117 → settled ~1/230–290 across the ch-1 final revisions (band ~1/180). Oscillates with word count — treat as a RANGE, not a quota (9.11); check again on Ch. 2's draft. | 2026-07 | OPEN (range discipline) |
 | 1B.7 | Openers: "I have"×6/"I am"×6 at lock → **one frame left ('I have' ×4) at ch-1 final.** Residue: "I need to" ×3, twice directly post-stamp ("minutes left / I need to…" 5-gram ×2). Vary one; carry the post-stamp rule into Ch. 2. | 2026-07 | OPEN (residue only) |
-| 0 (frag) | Fragments 18.9% at lock → **25.9% at ch-1 final — IN BAND for the first time.** One fresh chapter in band → Mastered. | 2026-07 | NEARLY CLOSED |
+| 0 (frag) | Fragments 18.9% at lock → 25.9% → **29.2% (r14 check, settled text)** — in band and holding across independent rounds. Moved to Mastered 2026-07-16; must hold in Ch. 2. | 2026-07 | → Mastered |
 
 **Retired from watch-list (fixed in ch-1 revision, one round each):**
 - 0/1.1 narration median: 12.0 → **9.0, in band.**
@@ -22,6 +22,7 @@ log IS the progress record.
 |------|----------|------|
 | 1B.2/1.4 (metronome) | 41% → in-band (27.9%) with irregular spacing, held across r2–r5 of ch-1; organic zingers rationed by hand, clock stamps licensed | 2026-07-11 |
 | 1C.1/1C.5 (duplicate clocks) | Repeat offender through r2–r3; by r5 Alex self-caught the pattern (cover-tracks ¶ fixed, shutdown frames differentiated into stages) | 2026-07-11 |
+| 0 (fragments) | 18.9% at lock → 29.2% in band on settled ch-1 text, via Alex's own rewrites; median simultaneously hit 7.0 (corpus dead-center) | 2026-07-16 |
 
 ## Voice bank (Alex's idiolect — phrases/rhythms that broke a rule and WON)
 
@@ -114,6 +115,15 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   `bible/interest-rubric.md` without duplicating their rules.
 
 ## Session retros (one line each)
+
+- 2026-07-16 (r14, conducted under prose-review-conductor — its first run): "review again after
+  edits" subset (0→1→2, no panel per retirement standing). Vitals at ALL-TIME BEST: median
+  **7.0 (corpus dead-center)**, fragments 29.2% in band, punch 25.6%, questions 1/172, lexicon
+  clean. Fragments → Mastered. Findings: exactly ONE — the brochure-line fix was left mid-edit
+  (collision + stray "Another"); tag amended, direction endorsed. 3 tags remain open (press
+  staging, fire-timeline ruling, texture list). Noise NOT tagged: "(OPTIONAL)" paren = canon
+  form-field; 1 triad = tool inventory; one-¶ 39.6% = licensed stamps. Fire-timeline canon
+  ruling still gates the Ch. 2 packet re-sync.
 
 - 2026-07-15 (wave 11 — CLEAN, loop closed at instrument level): last two rulings executed — swept-rug
   traded for PLAIN statement ("hidden from the Reclamation Depot." — the third door, most register-native,

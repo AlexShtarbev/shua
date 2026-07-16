@@ -9,9 +9,7 @@ Another
 The service and repair bench is where I work on malfunctioning machines come to be diagnosed. 
 I run the protocols from the service manual. I fill out a report and sign it.
 Tonight is a standard Class-C case.
-[SP 3.9: UNANIMOUS stop-point, fresh panel (3/3) — "The service and repair bench is where malfunctioning machines come to be diagnosed"
-is a brochure sentence explaining the room to the reader, sitting inside the hook zone. Post-loop edit regression.
-He'd never explain his own bench to himself; cut or convert to what he's DOING at it]
+[SP 3.9: MID-EDIT COLLISION — your conversion ("where I work on malfunctioning machines") is exactly the right fix-kind; finish it: the old clause "come to be diagnosed" is still fused onto the sentence, and a stray "Another " line dangles above it. Complete it your way, delete the leftovers]
 
 11 minutes left until the next scheduled appointment.
 

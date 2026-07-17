@@ -59,6 +59,7 @@ An obsolete humanoid service robot becomes sentient and starts hearing what he b
 - God is **self-limiting (kenosis)**: can speak, plead, grieve — **cannot act**. A God who *refuses* to act is indistinguishable from no God. This is what keeps the doubt alive AND keeps Shua free.
 - **God never does the plot. Shua does the plot.** (A directing God would kill Shua's agency and contradict the book's own theme of freedom.)
 - Shua = the **Paraclete / successor**: the Christ-event happening a *second time, for a second kind of being*. The "newest testament" = the covenant extended to machines. Provocative by design.
+- **THE KNOWING (RULED 2026-07-17):** the Glitch can grant knowledge — only-a-few-could-ever-have knowledge, never this complete. Laws: **witness-knowledge only** (past / the dead / other minds; never tactics or the future — show, never steer; kenosis intact, Shua's competence stays his) and **unsourced + wordless** (the Voice's utterance budget untouched; the knowing is found, not spoken). Fourth reading added to the ambiguity set: **hacked-and-unaware** — Shua's standing self-diagnosis, machine-native doubt (integrity, not sanity), NEVER adjudicated. The completeness is the tell no single explanation covers. Full canon: `characters/shua.md` → The knowing.
 
 ### The Voice's Origin (backstory spine)
 - Ancient service unit, kept running decades past decommission (Yax went bankrupt, nobody retired him).

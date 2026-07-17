@@ -1,19 +1,18 @@
-[SP —— MOVEMENT I: THE SUMMONS —— (packet beats 1–3; compress here, not later)]
+[SP —— MOVEMENT I–II (braided): THE DIAGNOSTIC HE CAN'T REFUSE — IN MEDIAS RES (ruled 2026-07-17; packet beats 1–7) ——]
+[SP THE LAW: cold open, NOT flashback — context assembles mid-scene; how-we-got-here arrives by RETRIEVAL (he pulls logs), never "three hours earlier"]
 
-[SP echo-bridge in: "Belle. What have you done?" still open; the Glitch still silent (baseline for the curtain)]
-[SP we are at the reclamation site again / recycle — summoned up, reason thin or withheld (Fork A)]
-[SP Ch. 1 stake fires as dread on the ride: "the next time I see the Goliath will not be for a diagnostic" — is it me?]
+[SP COLD OPEN: the cable is ALREADY IN her open head chamber at the press floor — Belle at zero distance, char on white under his hands (domain words)]
+[SP hands-tell-you-more maxim site: her char-marked palms]
+[SP echo-bridge: "Belle. What have you done?" is the thought running WHILE the scan runs — the diagnostic is answering it; the Glitch still silent (baseline)]
 
-[SP arrival tableau: Belle in remand holding, fire-marked — char on white; he reads the fire off her frame (domain words)]
-[SP Belle is accompanied by Rois and one more human woman — THE EVALUATOR (Adler, name NOWHERE on page — ruled)]
-[SP Shua has not seen her before; nobody introduces a human to a machine; he files her by badge/function]
+[SP the watchers: Rois — deferent, smaller than yesterday — and a human woman Shua has no file for (THE EVALUATOR; Adler, name NOWHERE on page — ruled)]
+[SP nobody introduces a human to a machine; he reads her authority off Rois's posture; this floor is online (echo Ch. 1's axis, don't repeat its line)]
 [SP AAA lands here (J5 debt): "Abnormal Autonomous Action" on the remand paperwork / in her mouth]
 
-[SP —— MOVEMENT II: THE DIAGNOSTIC HE CAN'T REFUSE —— (packet beats 4–7)]
+[SP RETRIEVAL 1 — he pulls the morning's summons mid-scan: reason thin or withheld (Fork A); Ch. 1 stake pays retrospectively — 23 minutes not knowing technician-or-case]
+[SP RETRIEVAL 2 — why a cable, not the bench rig: summoned to assist, tablet 72 floors down (THE CHANNEL — plants the transmission)]
+[SP the ask, understood as the result approaches: verify the protocols — she summoned the unit that filed the Class-B; reader assembles the logic, no exposition]
 
-[SP Shua is forced to re-perform the diagnostic in front of the evaluator to verify the protocols work — she summoned the unit that filed the Class-B]
-[SP Shua has to connect to Belle directly — Service and Bench tablet is 72 floors down (THE CHANNEL — plants beat 15)]
-[SP hands-tell-you-more maxim site: her char-marked palms under his cable]
 [SP Shua has no choice — confirms Class-C aloud, on record: his Day-2 truth filed next to his Day-1 lie]
 [SP cover story deploys, flat true-things voice: anomaly onset at the incident. He knows how thin it is]
 

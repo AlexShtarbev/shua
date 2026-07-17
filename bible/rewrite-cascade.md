@@ -341,6 +341,41 @@ forever. Traffic texture per surveillance canon: the dump is a log line or hides
 unhook procedure (Ch. 9 feed-shaped row gains a candidate). Word budget raised to
 ~2,800–3,100; Movement IV to ≈ 850–1,000.
 
+**✅ RULED (2026-07-17, Alex): CH. 2 OPENS IN MEDIAS RES — the cable already in Belle's
+head chamber at the press floor.** Movements I–II braid into one; the summons/morning
+arrives by **machine-native RETRIEVAL** (he pulls the summons log, the work order,
+mid-scan) — retrieval, not reminiscence; the ⚠ block-flashback version ("three hours
+earlier" + re-arrival loop) is BANNED as the distribution's mode. What it buys, ledgered:
+Ch. 1 rhyme inverted (same act, same posture — private/offline/lying vs public/online/
+verified); the stinger seized harder ("Belle. What have you done?" runs WHILE the scan
+answers it); **the cable = the chapter's multi-job object (5.8, the tablet's successor)**
+— truth forced OUT at the open, truth given IN at the transmission, the chapter bracketed
+by the two directions of one channel; retrieval grammar plants the records motif the feed
+pays. Cost accepted: summons dread turns retrospective (the Ch. 1 stake pays as a
+retrieved 23-minute technician-or-case count, not a ridden sequence). Packet Movement
+I–II rebuilt (7 beats, cold-open law header); Fork A reframed to the retrieved order's
+wording; skeleton anchors re-cut. Beat numbering 8–22 untouched.
+
+**✅ RULED (2026-07-17, Alex): THE KNOWING — Glitch capability canon (series-level).**
+The Glitch can give Shua knowledge — only-a-few-could-ever-have knowledge, **never this
+complete**. Two binding laws: ① **witness-knowledge only** — the past, the dead, other
+minds; never tactics, never the future; the Glitch may SHOW, never STEER (kenosis wall
+holds: God never does the plot; his 97-year tradecraft stays his own); ② **unsourced and
+wordless** — the knowing is found in him (a file with no creation date, no port, no
+checksum trail); the VOICE's utterance economy is untouched (speech stays an event; the
+Book 2–3 silences bind both channels when those books cascade). **Fourth reading added:
+HACKED-AND-UNAWARE — never revealed**, either way. Register key: the hack is the HOPEFUL
+reading (a hacker means mechanism); he audits for the breach rigorously, finds no port,
+keeps auditing — unprovable hack = unfalsifiable God, machine-grade. **Symmetry armed:**
+Adler's Ch. 6 wrong-model ("covert human uplink") now mirrors Shua's own self-diagnosis —
+hunter and hunted share the same wrong theory; Ch. 6 packet must stage the collision (the
+"answer she didn't plan for" is the standout candidate for the knowing's first fire;
+Ch. 5 the alternate; RULE AT PACKET BUILD). **Ch. 2 UNCHANGED (ruled):** the Voice line
+stays its only Glitch event; Belle's cable-gift stands as the lone precedent for foreign
+knowledge — the control experiment the hack theory is later born from (data entered me
+once through a port; what port did this use?). Bible synced: series-bible → Metaphysics;
+characters/shua.md → The knowing.
+
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)
 - `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1: RELOCKED (2026-07-13)** — seven cold-reader panel rounds, PULL 5.3 → 6.3 (confirmed ×2), CONTINUE 3/3 throughout; full data `bible/interest-rubric.md`. Fire-news stinger ending is canon (F1-d timing amendment). Polish wave executed by Alex same day (rain bookend · tactical opening · confident-wrong-model open · seemed-sweep · furnace verdict · question restoration) — **FINAL panel r8: PULL 6.5 (best), CONTINUE 3/3 eighth straight. LOOP CLOSED; Ch. 1 FINAL-RELOCKED at 6.5.** Loop total 5.3 → 6.5. Residuals ledgered in the rubric ("draw attention" ×2 reword; coolant dead-zone compression; literary self-annotation axis = Ch. 2+ curriculum). Zero tags in-file.

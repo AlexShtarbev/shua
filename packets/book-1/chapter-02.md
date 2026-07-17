@@ -69,11 +69,13 @@
 - **Beat (McKee):** "Need" — the inciting event, now staged as crucible: **the system makes
   him the executioner.**
 - **Master clock:** Day 2. Fire news broke at Ch. 1's close; Belle was flagged within hours,
-  remanded overnight through his depot. The chapter opens with the summons up, not with the
-  morning — no fire-reveal beat exists (the reader already knows).
+  remanded overnight through his depot. **The chapter opens IN MEDIAS RES (ruled
+  2026-07-17): the cable already in Belle's head chamber at the press floor** — the
+  morning and the summons arrive by machine-native retrieval mid-scan, never as a block
+  flashback. No fire-reveal beat exists (the reader already knows).
 - **Budget:** ~2,800–3,100 words (raised 2026-07-17: the ruled feed-sequence lives in
   beats 15–16). The cut morning movement pays for the standoff and the execution. Don't
-  compress beats 14–18 (the hook-in through the press); compress the summons instead.
+  compress beats 14–18 (the hook-in through the press); compress the retrievals instead.
 - **Job of the chapter:** the bill for the hidden crime arrives — and it is worse than
   witnessing. Belle comes back through his floor a public case; the protocols are verified
   on her in front of the person whose job is verifying; the Goliath refuses; his lie buys
@@ -150,7 +152,11 @@
 - **The Glitch** — body canon: chest + neck-plate pressure, hands impaired while it
   presses; relief = hands free; steadiness resolved by agency (1C.7). **And now: the
   Voice, once, at the curtain.** On the page it stays "the Glitch" — unadjudicated,
-  dual-coded, unfiled.
+  dual-coded, unfiled. **GUARD (THE KNOWING canon, ruled 2026-07-17): the knowing does
+  NOT appear in this chapter.** Every datum Shua receives here is fully sourced — Belle's
+  feed arrives through a physical cable, on camera. That sourcing is the point: her gift
+  is the lone precedent the hack theory is later born from. Do not seed unsourced
+  knowledge anywhere in Ch. 2.
 
 ### Canon anchors — reproduce VERBATIM where marked
 - Mantra (locked): **"I am the highest performing automaton in the city. I never
@@ -212,34 +218,47 @@ is his licensed tic.
 
 ## 2. Beat map (the expansion — each beat ≈ 1–3 prose ¶s; ESTABLISHES/REQUIRES marked)
 
-### Movement I — The summons (≈ 350–450 w; compress here, not later)
-1. **Echo-bridge in.** Aftermath of the stinger: the question still open, the Glitch still
-   silent (say so — the Voice's later break needs this baseline). Day 2. *Requires:* no
-   fire re-explanation; the reader arrived knowing.
-2. **The summons up.** Called to the recycle area to assist — no stated reason, or a reason
-   too thin. **Ch. 1's own stake fires as dread: "the next time I see the Goliath will not
-   be for a diagnostic."** For the length of the ride he cannot rule out that HE is the
-   case. *Establishes:* the summons-dread engine; second recycle-area trip in two days
-   (your opening anchor: "we are at the reclamation site again"). The 23 minutes are
-   compressible — a stamp and a fear, not a travelogue.
-3. **Arrival: the tableau.** Belle in remand holding, fire-marked — char on white (he
-   reads the event off her frame in bench-specialist grammar, 2B.13; fire/electrical
-   domain words land HERE). Rois — and a human woman Shua has never seen, whom Rois
-   defers to. Nobody introduces her. *Establishes:* the evaluator, by function only;
-   Rois's new register. **AAA lands** on the remand paperwork / in her mouth (J5 debt).
+### Movement I–II (braided) — The diagnostic he can't refuse (IN MEDIAS RES — ruled
+### 2026-07-17; ≈ 850–1,050 w; the retrievals are the compression zone)
 
-### Movement II — The diagnostic he can't refuse (≈ 500–600 w)
-4. **The ask.** Re-run the classification diagnostic on the unit, here, now, observed —
-   "to verify the protocols." The logic is left for the reader to assemble (never
-   narrated as exposition): a unit filed Class-B yesterday committed flagrant public AAA
-   within hours; either the protocol failed or the unit deteriorated; she summoned the
-   unit that filed the report. *Establishes:* his own crime ordered the antagonist into
-   the room (therefore-chain; the trap arms itself).
-5. **No bench rig.** He was summoned to assist, not to diagnose — the Service and Repair
-   bench tablet is 72 floors down. Direct connection, port to port, his cable into her
-   open head chamber. Their second connection in two days. **Hands-tell-you-more maxim
-   site: her char-marked palms under his hands.** *Establishes:* THE CHANNEL (the
-   transmission at beat 15 rides this cable — planted by necessity, not convenience).
+> **THE LAW: cold open, not flashback (6.1).** The chapter opens with the cable ALREADY
+> IN. Context assembles during the scene — and the device is machine-native: he doesn't
+> remember how he got here, he **retrieves** it (pulls the summons log, the work order,
+> mid-scan). Never a block rewind, never "three hours earlier," never a re-arrival at the
+> already-seen moment (⚠ that version is the distribution's mode). Motif dividend: he
+> consults his own records in the chapter where HER records become the gift — the
+> retrieval grammar plants what the transmission pays.
+
+1. **Cold open — the cable is already in.** First image: his cable in her open head
+   chamber, the press floor, Belle at zero distance — char on white read off her frame
+   under his hands (bench-specialist grammar 2B.13; fire/electrical domain words land
+   HERE; **hands-tell-you-more maxim site: her char-marked palms**). Echo-bridge (6.19):
+   "Belle. What have you done?" is the thought running WHILE the scan runs — the
+   diagnostic is answering it. The Glitch still silent (say so — the Voice's later break
+   needs this baseline). *Requires:* no fire re-explanation; the reader arrived knowing.
+2. **The watchers.** Rois — deferent, smaller than yesterday — and a human woman Shua
+   has no file for. Nobody introduces her; he reads her authority off Rois's posture.
+   The room's wrongness registered in his grammar: this floor is online (echo Ch. 1's
+   stated axis, don't repeat its line). **AAA lands** on the remand paperwork / in her
+   mouth (J5 debt). *Establishes:* the evaluator, by function only; Rois's new register.
+3. **Retrieval #1 — the summons.** He pulls the morning's order mid-scan: called up to
+   assist, reason thin or withheld (Fork A stages the wording). **Ch. 1's stake pays,
+   retrospectively: "the next time I see the Goliath will not be for a diagnostic" —
+   for twenty-three minutes he did not know whether he was the technician or the case.**
+   One retrieved count, not a ridden sequence. *Establishes:* summons-dread (reported,
+   compressed); second recycle-area trip in two days.
+4. **Retrieval #2 — the missing rig.** Why a cable and not the bench tablet: summoned
+   to assist, not to diagnose — the Service and Repair rig is 72 floors down. Direct
+   connection, port to port. Their second connection in two days. *Establishes:* THE
+   CHANNEL (the transmission at beat 15 rides this cable — planted by necessity, not
+   convenience).
+5. **The ask, understood as the result approaches.** What put the cable in his hands:
+   re-run the classification diagnostic, here, observed — "to verify the protocols."
+   The logic is left for the reader to assemble (never narrated as exposition): a unit
+   filed Class-B yesterday committed flagrant public AAA within hours; either the
+   protocol failed or the unit deteriorated; she summoned the unit that filed the
+   report. *Establishes:* his own crime ordered the antagonist into the room
+   (therefore-chain; the trap arms itself).
 6. **The result he cannot dodge.** The protocols are hers and they work: Class-C. He
    says it aloud, on record, in front of her — his Day-2 truth filed next to his Day-1
    lie. The cover story deploys (anomaly onset at the incident) in the flat voice he
@@ -367,13 +386,14 @@ is his licensed tic.
 
 ## 3. Staging forks (same outcome — canon locked, means variable; ⚠ = AI-obvious, 9.6)
 
-**Fork A — how the summons reads (beat 2).**
-- ⚠ A1: a plain assist order, dread arriving only at the tableau. (Flat; wastes the Ch. 1
+**Fork A — how the RETRIEVED summons reads (beat 3, pulled mid-scan).**
+- ⚠ A1: a plain assist order, retrieved and dismissed in a line. (Flat; wastes the Ch. 1
   stake.)
-- A2: **reason withheld** — an order with no work-type field, or one field too senior;
-  he runs the is-it-me math for 23 minutes and arrives braced for his own remand.
+- A2: **reason withheld** — the pulled order has no work-type field, or one field too
+  senior; the retrieved 23-minute technician-or-case count rides on the blank.
 - A3: reason stated and WRONG ("assist with a thermal case") — the world reusing his own
-  lie back at him before he knows it; the irony lands retroactively at beat 12.
+  lie back at him; retrieved mid-scan, the irony detonates twice (here, and again at
+  beat 12 when he says "thermal" himself).
 
 **Fork B — the splinter she carries out (beat 19).**
 - ⚠ B1: she voices the doubt ("Something doesn't add up") — names it aloud. (Kills Ch. 4's

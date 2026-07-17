@@ -160,6 +160,28 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   on every instrument that still has authority. Panel retired (16 rounds); next "go again"
   without new prose = delta-§7 escalation or CLEAN-and-stop. STANDING NEXT: commit + push
   (many rounds uncommitted!) → human cold reader → Ch. 2 drafting.
+- 2026-07-17 (THE KNOWING — series-level Glitch canon, ruled): Alex proposed the Glitch as
+  knowledge-giver (only-a-few-could-have, never this complete) + Shua's hacked-and-unaware
+  speculation, never revealed. Assessed YES under two laws (both adopted): witness-knowledge
+  only — show-never-steer (kenosis wall + 2B.13 competence protected) and unsourced/wordless
+  (Voice utterance economy intact). Named in assessment: hack = machine-native doubt (integrity,
+  not sanity) and the HOPEFUL reading (audits that keep finding no port = unfalsifiable-God,
+  machine-grade); symmetry with Adler's Ch. 6 "covert uplink" wrong-model already latent in
+  canon — hunter and hunted share the wrong theory; Belle's cable = the control experiment
+  the paranoia is born from. Ch. 2 ruled UNCHANGED + guard line added to packet (no unsourced
+  data in Ch. 2). First-fire site deferred to packet build (Ch. 6 answer-she-didn't-plan-for
+  = standout candidate; Ch. 5 alternate). Synced: series-bible Metaphysics, characters/shua.md
+  (new "The knowing" section, hack added to reading-set), cascade ruled block. Not committed.
+- 2026-07-17 (Ch. 2 in-medias-res open, DEVELOP mode — ruled): Alex proposed opening mid-scene,
+  Belle already hooked in, "devise how we got there." Assessed YES with one law: cold open per
+  6.1, NOT block flashback (⚠ "three hours earlier" banned) — context assembles mid-scene via
+  MACHINE-NATIVE RETRIEVAL (he pulls the summons log; retrieval-not-reminiscence is Alex's world
+  handing us the device, and it plants the records motif the transmission pays). Buys: Ch. 1
+  rhyme inverted (private/offline/lying → public/online/verified), stinger seized harder, the
+  cable promoted to the chapter's multi-job object (truth out at the open, truth in at the gift).
+  Cost accepted: summons dread goes retrospective. Packet Movements I–II braided (7 beats + law
+  header), Fork A reframed, skeleton front re-cut, cascade ledgered. Beats 8–22 stable. Not
+  committed — three sessions of architecture now pending.
 - 2026-07-17 (Ch. 2 Belle's-story fork, DEVELOP mode — ruled): Alex proposed a Belle-POV
   section at the Ch. 2 open (household arrival, awakening, the sink — THE CHILD WAS THIRSTY).
   Pre-mortem run on 3 stagings; RULED: inside the transmission (beats 15–16) — POV lock intact,

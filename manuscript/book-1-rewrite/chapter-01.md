@@ -51,7 +51,7 @@ Same bow, same head nod, always half a second. 130 years of being too boring for
 audit. Otherwise, I would have been in Belle's place a long time ago.
 
 I check my queue. The notification I received earlier is flashing: GOLIATH-CLASS UNIT G-071 — THERMAL WARNING.
-A Goliath with an issue means a floor supervisor requires assistance. Bolts! Rois is on his way.
+A Goliath with an issue means a floor supervisor requires assistance. Rois is on his way.
 
 7 minutes left.
 
@@ -161,7 +161,7 @@ It takes a small house-cleaning bot and gently puts it under the hydraulic press
 The Depot's most brutal machine has never been this careful. When did its behavior change? How long has this been going on?
 I look up at the Goliath as it connects its right arm to the press.
 
-I hear Rois clicking loudly on his tablet. I do not risk a look. Has my subterfuge has been discovered already?
+I hear Rois clicking loudly on his tablet. I do not risk a look. Has my subterfuge been discovered already?
 
 The Goliath activates the press. 3 seconds pass. Silence.
 

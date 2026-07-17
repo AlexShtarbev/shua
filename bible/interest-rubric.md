@@ -164,7 +164,94 @@ small cuts, THEN re-run.**
 
 ---
 
-## Ch. 1 post-retirement check (re-run 13, at user request, after external editorial wave)
+## Ch. 1 re-run 15 (2026-07-17, first measurement of the Goliath-stakes build)
+
+**Layer 2 — perception: PULL 6.3/10 (genre 6 · literary 6 · KU 7) · CONTINUE 3/3 (16th
+straight; 48/48 lifetime).** Average flat vs re-run 14 — but the COMPOSITION is the finding:
+
+- **KU 6 → 7 — the lever landed for its target reader.** The unsanitized tablet is in ALL
+  THREE loop ledgers ("live Chekhov gun" — genre; "live evidence, unresolved" — literary) and
+  is KU's continue reason. The un-turned-scene finding from r14 is gone; his friction moved to
+  redundancy pacing. The r20 build did exactly what it was built to do.
+- **Genre 7 → 6 — settling regressions, all in r19/r20 fresh prose (9.11 textbook):** "I fire
+  task" (read as dropped article — the #20 third-way ruling now has a MEASURED stop-point
+  against it; reopened with data, anchor planted), "behind my shoulder" (idiom — fixed
+  directly per the r9 precedent), the coughing-fit clause (tagged 1.1), offline-restated
+  (convergent with KU, 2/3 — tagged 1B.10). His frame: "line-level imprecision in a voice
+  whose entire promise is precision" — all quoted targets are new-zone lines.
+- **Literary 6 — the floor, chronic axis, zero new targets.** Her stop-point was the
+  politeness maxim — unanimous hook for SEVEN prior rounds; one instance wincing at a
+  24-read hook = protected noise. Every friction quote is adjudicated (the ruled Glitch
+  verdict placement, the coin-flip denial beat, the recognition line — now 5× hook / 7× ding
+  lifetime). Her HOOK: the counted lie — first time a persona quoted it as #1.
+
+**#22 prediction FALSIFIED — zero readers stumbled on the sanitize seam.** Coach tag
+withdrawn on the data (the r3-countdown precedent); Alex executed option (b) live anyway
+("the tablet's local cache") — seam closed twice over.
+
+**Standing structural residual — the transit (KU stop-point, 2-round conviction, same quote,
+different instances = signal):** 1/3 persona only; the passage carries the rain thesis + the
+23-minute canon spacer. Options for Alex's ruling: arm the ride (the coolant math or cache
+dread could travel aboard), compress it, or rule it the chapter's one breather. Not tagged —
+decision-class.
+
+**Delta diagnosis:** built-high + pull flat-in-band = the settled zones sit at this
+instrument's ceiling and the new zones need one settling pass. Sixteen rounds, 48
+persona-reads, CONTINUE never below 3/3. After the three anchors clear: the next datum that
+means anything is the HUMAN cold reader.
+
+---
+
+## Ch. 1 RELOCK PANEL — re-run 14 (2026-07-16, post 8-push execution + sweep)
+
+**Layer 2 — perception: PULL 6.3/10 (genre 7 · literary 6 · KU 6) · CONTINUE 3/3 (15th
+straight; 45/45 lifetime).** Within the noise band of the 6.7 ceiling — the 8-push did not
+break the instrument's ceiling, and the projection's caveat fired exactly as written: the
+literary instance's chronic axis was NOT quiet today (she re-dinged the recognition line —
+lifetime now 5× hook / 6× ding, protected — and "Tonight, I am not doing any of this
+voluntarily.", a voice-bank line, single instance = candidate-class noise). Text was also
+same-day fresh-cut (9.11 discount applies).
+
+**LEVER VERIFICATION (the round's real job — all three PASS):**
+- **Lever 2:** both cut announce-lines drew ZERO mentions. The persona still filed
+  "self-annotation" as #1 friction but could only quote protected/adjudicated lines —
+  strongest evidence yet that the axis is the persona's taste, not fixable lines.
+- **Lever 1:** the coolant fix QUOTED APPROVINGLY by its target reader — KU on "It does not
+  need me here at all.": "I felt exactly the same." Same-day voice-bank confirmation.
+- **Sweep/geography:** zero confusion on elevator/shuttle/one-site names in any read.
+
+**Unanimous hook, 3/3: the politeness maxim — SEVENTH consecutive round.** The locked log
+file quoted as a carried loop by ALL THREE ("gun on the wall" / "loaded gun") — the Ch. 9
+plant is fully armed. Loop ledgers richest ever: 6–7 live loops per reader; the Rois-frantic
+→ news → sprint chain carried by all three.
+
+**New findings (first measurement of the EXPANSION ZONE — round-1-quality data, not
+re-litigation):**
+1. **KU stop-point = the transit** ("We move down a corridor… 72 floors up… shuttle"):
+   "the countdown had just paid off and suddenly I'm riding logistics… no new question on
+   the table." His own path-to-8: "Cut or compress the transit and give the Goliath section
+   its own clock or threat, and this is a 7-8." NOTE: the transit carries load-bearing canon
+   (23-min fire-timeline spacer + the rain-thesis line) — fix direction is ARM, not cut.
+   Strategy-menu item, word budget exists (~700 licensed).
+2. **Genre #1 friction = "-CLASS" terminology collision** (new finding class, single
+   instance): "Class-C" as case severity vs unit type is the deliberate reveal engine, but
+   "GOLIATH-CLASS UNIT G-071" borrows the same suffix for a hardware-frame axis and blunts
+   it. Cheap defuse available (rename the queue string, e.g. drop "-CLASS" from the Goliath
+   designation). DECIDE-class; Class-A/B/C system itself untouched.
+3. **Genre stop-point = the 48s onset** in the ticking ¶ ("reread three times… what clock
+   was I on") — single instance, at the same-day cut seam. Settling class: re-measure after
+   settle before touching; the ¶ is the chapter's best and the cut was ruled.
+   Mis-cited by the same read (not findings): "I ran the math" is grammatical
+   present-narration past action; "carefully rests" is the ledgered voice choice.
+
+**Delta diagnosis (Layer-1 23/24 vs PULL 6.3):** built-interesting confirmed; perception
+capped by (a) the literary persona's chronic axis (noise, chronic, do not chase) and
+(b) the unarmed transit (real, new-zone, actionable once). NOT the polished-but-inert
+quadrant — CONTINUE 45/45 and the loop ledgers say the engine pulls.
+
+**Standing:** ceiling 6.3–6.7 band reconfirmed on settled zones. ONE more structural round
+is legitimate (transit arming + collision defuse = new-zone work, not churn); after that,
+the next datum is a HUMAN cold reader regardless of score.
 
 **Layer 2 — perception: PULL 6.7/10 (genre 7 · literary 6 · KU 7) · CONTINUE 3/3 (14th straight; 42/42 lifetime).**
 Independently reproduces the retired loop's ceiling (6.7 x4 now) — instrument consistency

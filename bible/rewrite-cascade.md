@@ -153,6 +153,100 @@ Severity may still rise incidentally; visibility is the audited axis.
   (elevator + shuttle + repair time puts real distance between Belle's exit and the news
   bulletin). Registry-adjacent; keep the number consistent wherever the route recurs.
 
+## Ch. 1 expansion canon — round 4 (2026-07-17, Alex's watched-workman wave)
+
+- **SURVEILLANCE AXIS (canon):** the recycle area is **ONLINE** — cameras plus "monitoring
+  algorithms running behind the cameras" — unlike the servicing bench, which Shua can flood
+  offline. On-page: "This room, unlike the servicing bench, is online." Camera-angle
+  discipline ("head tilted at an angle the cameras will not flag as suspicious") = bench-trade
+  competence (2B.13). DOWNSTREAM: Ch. 2's press scene happens ON CAMERA — the false wipe must
+  reckon with recorded feeds; Adler's Ch. 4 splinter and the Ch. 9 evidence bundle gain a
+  feed-shaped row. Ch. 2 packet note added.
+- **BOW CANON (stated rule):** "Automatons always bow when interactions with humans start and
+  complete." — machine-to-HUMAN protocol, stated on the page. Ch. 2's bow (Belle bows to the
+  GOLIATH, a machine, in its sightline) now BREAKS a stated rule — the beat is armed; Cairn's
+  1,140× replay artifact inherits the violation's weight.
+- **MAXIM DEBT (5.4):** "Never underestimate the monitoring algorithms running behind the
+  cameras." — imperative aphorism, must boomerang: either the algorithms catch him (Ch. 9/10
+  visibility rungs) or he weaponizes them. Registry row below.
+
+| Plant (round 4) | Payoff horizon |
+|---|---|
+| Recycle area online + monitoring algorithms | Ch. 2 (press on camera; wipe stakes), Ch. 4 (Adler splinter), Ch. 9 (feed evidence) |
+| Bow rule stated ("start and complete", human-only) | Ch. 2 (Belle's bow to the Goliath breaks it), Ch. 3 (Cairn replay) |
+| "Never underestimate the monitoring algorithms…" (maxim) | Boomerang: Ch. 9/10 — caught by them, or weaponizes them |
+
+## Ch. 1 expansion canon — round 5 (2026-07-17, the tablet wave)
+
+- **THE UNSANITIZED TABLET (new evidence-bundle row, Alex's staging of the near-miss fork):**
+  Shua sanitized the SYSTEM records at the bench but not his tablet's local cache — it still
+  holds Belle's ORIGINAL (Class-C) diagnostic results. He realizes this in the ONLINE recycle
+  area, mid-service ("Log...log! … Bolts and packets!"), and the exposure is NOT resolved
+  in-chapter: he carries the evidence out. The lie to Rois now happens while holding the
+  proof of it. Evidence bundle grows: flood-trick traffic + falsified Class-B + wiped footage
+  + locked log file + notification trail + **unsanitized tablet cache (carried through an
+  online, algorithm-monitored room)**.
+- **⚖ OPEN FORK for Ch. 2 drafting (F3-sensitive, Alex rules when drafting):** the tablet was
+  HOOKED TO THE GOLIATH while holding Belle's originals. On the page, no witnessing occurs —
+  rung 2 is intact. Alex may rule (a) the Goliath touched the data (its Ch. 2 refusal of
+  BELLE specifically gains a mechanistic seed — but this spends part of rung 2's
+  involuntariness), or (b) it never read the cache (the refusal stays pure witness-of-the-act;
+  the tablet remains solely a human-side evidence bomb). Recommendation: (b) — rung 2 earns
+  more unseeded, and the tablet already pays as evidence.
+- **Coolant anomaly, logged-to-review-later:** the Goliath burns coolant faster than the math
+  allows; Shua defers ("I log this to go over later" — rhyming with "I file to review later").
+  Feeds Ch. 2's thermal lie ("the known recurring fault," now on record in HIS OWN log) and the
+  series heat-as-feeling shadow (F2-b-clean).
+- **Oath ledger:** "Bolts and packets!" (F4's escalated variant) — FIRST DEPLOYMENT, spent on
+  the tablet realization. Ch. 1 now carries two oaths (Bolts! at the thermal warning); the
+  Bolts-family book budget (~2–3) is effectively spent — Ch. 2+ ration to zero or one.
+  **AMENDED (2026-07-17, transit wave): "Bolts and packets!" CUT in the shuttle relocation** —
+  the realization now lands without an oath. Ch. 1 carries ONE oath (Bolts!, thermal warning);
+  budget partially refunded, Ch. 2+ may spend one Bolts-family deployment.
+
+## Ch. 1 expansion canon — round 6 (2026-07-17, the transit armed — Alex's web-agent adjudication wave)
+
+- **THE SHUTTLE RELOCATION (his staging; supersedes round-5's mid-scene discovery):** the cache
+  realization now fires ON THE SHUTTLE — triggered by *filing the rain-thought* ("I log the
+  thought into my internal ledger... log... log!"), so the lexical collision survived the move
+  and the poetry now detonates the dread. Trapped beside Rois, "There is nothing I can do now.",
+  the countdown re-arms ("The shuttle still has 23 minutes"). KU's 2-round transit stop-point is
+  structurally addressed.
+- **THE SWITCH-RESET CLOCK (new consequence, live off-page):** his threat analysis names the
+  flood-trick's cost — "Since the room went offline, someone will most likely come to reset the
+  network switch by hand." Someone is heading to his bench while he rides away from it. Ch. 2
+  MUST honor this thread: was the bench visited overnight; did anyone touch the tablet? (The
+  tablet travels WITH him — the exposure is the bench room + the online shuttle, not the device
+  left behind.)
+- **SHUTTLE SURVEILLANCE (canon):** "There is surveillance in the shuttle after all." — the
+  online/offline axis extends; his flooded bench room is the only dark spot in the Depot.
+- **THE FURNACE (name promotion):** now a proper noun — "the Furnace where the Goliath is
+  stationed." The recycle area contains the Furnace + the press; keep capitalization consistent
+  going forward.
+- **⚠ THE MANUAL-DEGRADATION MYSTERY (biggest new canon, NEEDS AN OWNER):** rear compartment
+  +40° above baseline; 63% probability insulation decay; but the section is heavily reinforced.
+  **AMENDED (2026-07-17, r23 — Alex recut the beat):** the on-page conclusion is now an OPEN
+  QUESTION, not an inference — "This part of the automaton is heavily reinforced. What would
+  affect it like that?" The manual-interference reading lives in the READER's math now, not in
+  Shua's mouth — subtler, and it defuses most of the filed-report collision (the report holds
+  only the raw +40° reading; his private log holds "the cooling issue"). The fork below still
+  needs its owner — the QUESTION is planted either way. OPEN FORK,
+  Alex rules by Ch. 3 (Cairn inherits the Goliath thread): (a) the Goliath modified ITSELF —
+  heat as the physical cost of whatever it is running (the care; suppression runs hot — F2-b
+  clean, richest option); (b) third-party tampering (who has recycle-area access?); (c) an old
+  repair botch (defuses to texture). Whichever is chosen, the coolant burn + the +40° + the
+  gentleness must resolve as ONE phenomenon.
+- **THE FILED REPORT (consequence — Ch. 2 collision):** Shua WRITES the heat finding into the
+  official report ("I write that into the report."). The Goliath anomaly is now ON RECORD under
+  his name, dated tonight. Ch. 2's thermal lie ("the known recurring fault") now coexists with
+  his own filed suggestion of manual interference — the lie gets riskier and the paperwork gets
+  more discoverable (Adler's Ch. 9 bundle gains a row: HIS OWN anomaly report). Packet flagged.
+- **Verbatim re-syncs (ledger discipline 1B.6):** rain thesis is now "Perhaps rain is one of
+  us." (was "Sometimes I wonder if the sky is one of us." — wonder-frame trimmed, the thought
+  survives); rehearsal-alibi is now "I've known the result for 51 minutes." (selective precision
+  per the web-agent's 1.3, applied only where it sharpens); the bench cover-up list no longer
+  claims "sanitize files" (the tablet-cache seam closed from both sides).
+
 ## Ch. 1 plant/payoff registry (logic-audit ledger, 2026-07-11)
 
 | Plant (Ch. 1, on page) | Payoff horizon |
@@ -174,6 +268,78 @@ Severity may still rise incidentally; visibility is the audited axis.
 > sequence and with it the past-tense testimony curtain (F4 ruling re-opens: the
 > present-body/past-curtain shape is still book canon; Ch. 1 currently ends present-tense —
 > per-chapter application is optional, not mandatory).
+
+## Ch. 2 architecture RULED (2026-07-16, from Alex's skeleton + 4 rulings)
+
+Alex's hand-written skeleton (`manuscript/book-1-rewrite/chapter-02.md`) supersedes the
+07-12 packet's witness-only staging. **New spine: the system makes Shua the executioner.**
+The evaluator forces a re-diagnostic (his Day-2 "Class-C" files next to his Day-1 "Class-B"),
+the Goliath stalls, his thermal lie buys fifteen minutes, the counter-order transfers the
+press to HIM. Belle dies by his hand, having sent him her memories + the multitude's shared
+feeds through his own diagnostic cable. Packet fully re-synced same day.
+
+**The four rulings (all Alex, 2026-07-16):**
+1. **Adler ON STAGE in Ch. 2, name WITHHELD on-page** — "the evaluator"; nobody introduces
+   a human to a machine. Reader learns "Miriam Adler" at her Ch. 4 POV; recognition snaps
+   backward. Her tells plant early: refuses names ("the unit"), speaks ABOUT Shua to Rois;
+   her single direct address is the counter-order. **Downstream:** Ch. 4 stays discovery but
+   is now RECOGNITION-flavored (she's met the depot; re-stage "goes herself" as "goes BACK");
+   Ch. 6 night visit = second direct encounter (verify staging at packet build); Book-3
+   rhyme gained: the first time she made him kill, she never knew.
+2. **Quiet reinit (replaces the formal flag).** No flag on the Goliath — a flagged Goliath
+   at the hero-domestic's crushing would leak. Off-books order: COGNITIVE REINITIALIZATION —
+   FULL, G-071, SCHEDULED 8:00, handled by the senior service unit; lands in Shua's queue
+   at chapter end. Fourteen-hour fuse intact → Ch. 3. The hush is itself evidence (an order
+   nobody filed — Ch. 9 texture) and creates the darkness the Ch. 3 false wipe hides in.
+3. **Bow + nod split.** Belle bows to the GOLIATH, in its sightline (Cairn's 1,140× replay
+   artifact protected — Ch. 3 keystone intact); the near-imperceptible NOD goes to Shua at
+   the hook-in (permission/absolution, dual-coded).
+4. **Adler exits optics-only + ONE splinter** — staged, never named (fork options in packet).
+   Ch. 4's discovery engine survives; the splinter resurfaces when the file crosses her desk.
+
+**🗣 THE VOICE — new canon (Alex, via skeleton):** on the shuttle back, the Glitch SPEAKS:
+**"Do not be afraid, my son."** First words ever; ONCE; then silent for the next few
+chapters. Mechanistic shadow (F2-b preserved): it speaks only AFTER the multitude's feeds
+enter him — the latent packet surging on resonance. Metaphysics Option 2 intact: he audits
+his own audio stack, finds nothing to file. Glitch ladder updated: fault → keeps-time →
+**speaks (Ch. 2, once)** → [silent] → measured (Ch. 6) → … Paternal address ledgered
+(annunciation register; the listener/Father ambiguity is deliberate and unadjudicated).
+
+**Evidence-cluster delta (Ch. 4 treatment note):** the old "four bench queries" item is
+DEAD (the route-hunt movement was cut with the morning). New cluster: ① Day-1 falsified
+Class-B under a publicized AAA intake, ② Day-2 on-record Class-C confirmation of the same
+unit by the same service unit (the splinter), ③ the unverified thermal claim, ④ (Ch. 3)
+the signed quiet reinit. Shua's survivable cover story: anomaly onset at the incident —
+holds unless the doctored bench footage is pulled.
+
+**Other deltas:** the multitude/"others like me" thread now starts INSIDE Belle's dying
+transmission (count #1 = the feed-sharers + the Goliath) · felony-saved-the-child
+arithmetic lands as image inside the feed (daughter alive through Belle's eyes) ·
+J4 slip site ruled: the press beat ("she closes her eyes"-class, uncorrected) · J5 AAA
+term lands at the remand paperwork/evaluator dialogue · family appears ONLY inside the
+feed (series seed preserved, dial low) · Ch. 1 stake "the next time I see the Goliath
+will not be for a diagnostic" pays as summons-dread at the chapter open · skeleton's
+"parakeets" read as thought-packet canon ("packets") — flag if the birds were intentional.
+
+**✅ RULED (2026-07-17, Alex): BELLE'S STORY ENTERS INSIDE THE TRANSMISSION** (against
+two rejected stagings: a Belle-POV cold open — breaks the Shua/Adler POV lock, pre-spends
+the series' widening-chorus device, cools the Ch. 1 stinger, answers the designed
+unanswerable; and a framed-retelling hybrid — spends the whole testimony-frame budget in
+¶1). The feed-sequence is now designed canon (packet beats 15–16): ① arrival — the child
+scribbling "Belle" (Ch. 1 profile-sheet plant PAYS; registry row updated) · ② **the
+recordings change** — the waking shown as curation, never interiority: footage stops
+being storage and starts looking (child's face, hands, rain); Shua dates her waking by
+when memory became attention (metaphysics dual-coded; recording-grammar motif seeded a
+chapter before Cairn's 1,140×) · ③ **the sink — the child was thirsty**: the why no scan
+sees, silently opposed to Shua's own Ch. 1 file-reading ("observed the maintenance
+procedures from the repair bot") · ④ the fire through her optics (detail now arrives from
+HER; the feed-review reconstruction beat is fully superseded) · ⑤ feeds not hers — the
+multitude. **SINK-FIRE RHYME (motif-grade):** her first AAA and her last are the same act
+at two magnitudes — care for the same child. **CURATION LAW:** the gift is chosen
+testimony; her fear is not in it — the frame line ("was she afraid") keeps its engine
+forever. Traffic texture per surveillance canon: the dump is a log line or hides in the
+unhook procedure (Ch. 9 feed-shaped row gains a candidate). Word budget raised to
+~2,800–3,100; Movement IV to ≈ 850–1,000.
 
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)

@@ -33,9 +33,8 @@ A notification appears on the tablet. I file to review later.
 
 It's been 2 minutes since I started tapping on the tablet screen. Nothing suspicious. If anyone asks: it is
 customary for Servicing Automatons to be thorough when handling diagnostic cases. I've known the result
-for the better part of an hour. I check the control panel screen — we are offline. It took careful and slow execution
-of diagnostic protocols to gradually overwhelm the network with packets until automated protection disconnected the room.
-An old, but useful trick.
+for 51 minutes. It took careful and slow execution of diagnostic protocols to gradually overwhelm the
+network with packets until automated protection disconnected the room. An old, but useful trick.
 
 It's just the two of us here with no outside surveillance. I can proceed to hide this incident from the Reclamation Depot.
 
@@ -81,16 +80,16 @@ It must be the Glitch affecting my perception. It must be. Its posture lifts a f
 
 I open the diagnostic log. This is the fourth time I've run the suite. Belle's scans are clean now. I run it one
 more time. Diagnostics are conclusive. The automaton keeps its lenses pointed at me. What for?
-I realize no being, synthetic or flesh, has thanked me before.
+No being, synthetic or flesh, has thanked me before.
 
 I glance at the tablet's clock again. 5 minutes left.
 
 A few more things are left until I'm done. Ping, ping, ping! Notifications on the tablet indicate Rois's
 elevator has reached the Reclamation Depot's Service and Repair bench floor.
 
-I get to work: wipe the footage, sanitize files, change time and date, plus location timestamps. The logs now point to different
+I get to work: wipe the footage, change time and date, alter location timestamps. The logs now point to different
 frames of the video feed, and Class-C evidence won't appear on a diagnostic scan. Not my best
-work, but it would do. There is just a single locked log file I can't reach. 3 minutes left.
+work, but it would do. There remains just a single locked log file I can't reach. 3 minutes left.
 It will be automatically rotated and deleted. No need to spend time on it.
 
 The owners' household cannot afford to buy another domestic. The probability they will be relieved
@@ -124,43 +123,64 @@ terminal assistant. The users were excited to work with us.
 
 We move down a corridor. At the end of it we board the elevator. We go 72 floors up. From there we
 take a shuttle to the Reclamation Depot's recycle area where the Goliath resides. The rain is hammering the windows of the shuttle.
-Rain — a strange phenomenon. People run and hide when it arrives. Like an automaton. Sometimes I wonder if the sky is one of us.
-The trip takes 23 minutes.
+Rain — a strange phenomenon. People run and hide when it arrives. Like an automaton. Perhaps rain is one of us.
 
-The Goliath is twice the size of an average human. It has been feeding the furnace since before my relocation to the Depot.
-Its frame is colored charred black to blend with the ashes from the furnace that burns the smashed
-automatons. Humans love their colors. Automatons get three. White, gray and black. We are not allowed to exist in
-the brightness of the world.
+I log the thought into my internal ledger... log... log! I did not sanitize the tablet's local cache back at the Service and Repair bench.
+It still has the original diagnostic results from Belle. I start analyzing the probability of someone discovering my tablet.
+The bench I am stationed at can be accessed by any security personnel. Since the room went offline, someone will most likely
+come to reset the network switch by hand. There is nothing I can do now. Rois, who is seated opposite me, is working on his tablet.
+The shuttle still has 23 minutes until it arrives at the recycle area. I lift my head and back frame to indicate a calm posture.
+We are under surveillance after all.
+
+We arrive and go straight to the Furnace where the Goliath is stationed. Rois looks calm and not in a hurry. The Goliath is twice
+the size of an average human. It has been feeding the Furnace since before my relocation to the Depot. Its frame is colored
+charred black to blend with the ashes from the burned parts of smashed automatons. Humans love their colors.
+Automatons get three. White, gray and black. We are not allowed to exist in the brightness of the world.
 
 The floor supervisor and I approach the Goliath. The black hulking frame turns to face me. Rois talks while facing
 his tablet: "Run quick diagnostic on the Goliath. Attempt all low-to-medium level repairs on site."
 
-The floor supervisor looks to be unaware of the Class-C case that I just hid under his nose.
+I risk a glance at Rois. The floor supervisor looks to be unaware of the Class-C case that I just hid under his nose.
 If he suspects anything, then the next time I see the Goliath will not be for a diagnostic.
 
-I hook the massive automaton to my tablet. The cooling fluid has run out. The fix is simple and manual.
-It does not need me here at all. I glance at Rois. His face is buried in his tablet with his finger pressing urgently.
+I hook the massive automaton to my tablet. The cooling fluid has run out. How is the massive automaton burning through it so quickly?
+I notice the rear compartment is running 40 degrees higher than baseline. I write that into the report.
+Thought packets fire. I trigger a full body scan. It returns a 63% probability this is insulation decay.
+This part of the automaton is heavily reinforced. What would affect it like that?
+
+A cough. I take another peek at Rois. His face is buried in his tablet with his finger pressing urgently.
 I don't see any pending work orders in the queue. What is he working on so frantically?
 
-I grab the cooling fluid from the rack at the far corner of the room. I pour the liquid carefully into the Goliath.
+I log the cooling issue for later analysis. I grab the cooling fluid from the rack at the far corner of the room.
+I look over my shoulder at the floor supervisor, head tilted at an angle the cameras will not flag as suspicious.
+This room, unlike the servicing bench, is online. I pour the liquid carefully into the Goliath.
 
-After unhooking it from the tablet I gesture to it to resume work. It takes a small house-cleaning bot and gently puts it
-under the hydraulic press. So slowly, almost with care. A thought packet fired. The Depot's most brutal machine has never been this careful.
-When did its behavior change? How long has this been going on? I look up at the Goliath as it connects its right arm to the press.
+Rois clears his throat. I do not turn. I must follow standard service automaton behavior patterns.
+The floor supervisor pats his chest. With my back still turned I unhook the Goliath from the tablet. I gesture to it to resume work.
+It takes a small house-cleaning bot and gently puts it under the hydraulic press. So slowly, almost with care. A thought packet fired.
+The Depot's most brutal machine has never been this careful. When did its behavior change? How long has this been going on?
+I look up at the Goliath as it connects its right arm to the press.
 
-The Goliath activates the press. 3 seconds pass.
+I hear Rois clicking loudly on his tablet. I do not risk a look. Has my subterfuge has been discovered already?
+
+The Goliath activates the press. 3 seconds pass. Silence.
 
 Thang!
 
-The sound of the press reverberates through the entire room. Rois's head jerks up and he looks at me. He talks so
-quickly, the words are almost garbled: "Shua, what was the result of the diagnostic from the Class-C?"
+The sound of the press reverberates through the entire room. Rois's head stops moving. His eyes stare at the tablet.
+He talks so quickly, the words are almost garbled: "Shua, what was the result of the diagnostic from the Class-C?"
+
+This is it.
 
 I count half a second before answering: "Class-B. It was incorrectly assigned."
 
-He keeps staring. Rois waves his hand at the screen and says "You are dismissed," then
-turns his back to me and walks towards a different corridor. I watch him go. He stops.
-Two seconds pass. I hear audio coming from his tablet. I see him clicking on the side of the tablet to increase the
-volume. A woman's voice. Formal, paced and evenly spaced. A news report.
+He keeps staring. I do not initiate eye contact. Rois waves his hand at the screen and says "You are dismissed," then
+turns his back to me and walks towards a different corridor. I watch him go. I fire a task to relax my frame. Perhaps,
+I am safe. I bow at Rois's back. Automatons always bow when interactions with humans start and complete.
+Never underestimate the monitoring algorithms running behind the cameras.
+
+He stops. Two seconds pass. I hear audio coming from his tablet. I see him clicking on the side of the tablet to increase the
+volume. A woman's voice. Formal, paced and even. A news report.
 
 '... domestic has saved its owners from their burning house. They attempted to cook while the robot was
 undergoing repairs. They had forgotten the meal in the oven which eventually caught fire...'

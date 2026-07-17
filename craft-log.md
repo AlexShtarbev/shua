@@ -9,7 +9,7 @@ log IS the progress record.
 | Rule | What keeps happening | Since | Status |
 |------|---------------------|-------|--------|
 | 2.6 | Questions: 1/891 → 1/117 → settled ~1/230–290 across the ch-1 final revisions (band ~1/180). Oscillates with word count — treat as a RANGE, not a quota (9.11); check again on Ch. 2's draft. | 2026-07 | OPEN (range discipline) |
-| 1B.7 | Openers: "I have"×6/"I am"×6 at lock → **one frame left ('I have' ×4) at ch-1 final.** Residue: "I need to" ×3, twice directly post-stamp ("minutes left / I need to…" 5-gram ×2). Vary one; carry the post-stamp rule into Ch. 2. | 2026-07 | OPEN (residue only) |
+| 1B.7 | Openers: "I have"×6/"I am"×6 at lock → one frame left at ch-1 final → **r22: "There is" ×5, four in the transit-wave prose — the wave-3 migration confirmed AGAIN under drafting pressure.** The frame migrates to whatever construction the new material leans on. Standing rule for Ch. 2: after each drafting burst, grep your top sentence-opener before the coach does. | 2026-07 | OPEN (active — 3rd migration) |
 | 0 (frag) | Fragments 18.9% at lock → 25.9% → **29.2% (r14 check, settled text)** — in band and holding across independent rounds. Moved to Mastered 2026-07-16; must hold in Ch. 2. | 2026-07 | → Mastered |
 
 **Retired from watch-list (fixed in ch-1 revision, one round each):**
@@ -44,7 +44,7 @@ log IS the progress record.
 - Exposition sites 1–3 all restaged by Alex from the forks: offline-rig → live event; procedure → two-outcomes shape; parenthesis gone. The asymmetry sentence (2.8) delivered: "Rois looks to be unaware of the Class-C case that I just hid under his nose."
 - "Tonight is going to be a little different." — cold-open undercut (6.1) that finally seated the executioner-frame on page 1; freshness axis lifted by Alex's own line (2026-07-13)
 - "One last thought packet is scheduled before the math resolves." — exit-hook upgrade: the calculation never finishes, so Belle's odds ride into Ch. 2 as an open loop (6.19). Literary cold-reader quoted the curtain as her #1 hook (2026-07-13)
-- **"I realize no being, synthetic or flesh, has thanked me before."** — recognition line of the deny→evidence→recognition arc Alex invented in conversation (denial via Glitch + diagnostic-log count as self-conviction + bare recognition). Literary cold-reader's #1 HOOK, r3 — the beat that was her stop-point two rounds ago. The arc shape is reusable: deny → let the log convict → admit → re-armor half a beat late (2026-07-13)
+- **"I realize no being, synthetic or flesh, has thanked me before."** — recognition line of the deny→evidence→recognition arc Alex invented in conversation (denial via Glitch + diagnostic-log count as self-conviction + bare recognition). Literary cold-reader's #1 HOOK, r3 — the beat that was her stop-point two rounds ago. The arc shape is reusable: deny → let the log convict → admit → re-armor half a beat late (2026-07-13) **· RECUT 2026-07-17 (r23): "I realize" dropped — now "No being, synthetic or flesh, has thanked me before." The annotate-frame the literary axis dinged seven times, trimmed by Alex's own hand; the recognition stands bare. Ledger quote current as of this form.**
 - The countdown: r3 panel 0/3 flagged, KU praised ("the countdown worked on me") — Alex held the stamps against a coach tag and the data backed HIM. Licensed-tick ruling (9.11) reconfirmed by measurement (2026-07-13)
 - **"Belle. What have you done?"** — the fire-stinger curtain (r5): direct address to an absent machine, by name, question unanswered + "The Glitch is silent." echo-plant riding it. Verified live: KU "ends on a live wire," genre "a real cliffhanger." Alex's structural invention — the F1 fire pulled forward as a chapter-close news report heard through Rois's tablet (6.19 stinger + 6.4 interruption exit + offstage catastrophe in one move) (2026-07-13)
 - The curtain differentiation (r4): Alex fixed the pre-fire the THOROUGH way — cut the mid-chapter slip entirely, then self-caught the dependency ("keep calling" → "call", since no prior noticed slip remains; the she/her slips now live only in the final ¶ where the curtain catches them). r4 literary hook, praised as "enacted rather than announced, placed exactly where it should be" (2026-07-13)
@@ -78,6 +78,27 @@ log IS the progress record.
   is now offline." / "I flex my fingers. Good. I can move." / bare "Good." replacing the trimmed
   relief clause — the machine's satisfaction stamp, coined across three separate revisions
   (2026-07-16)
+- **"This room, unlike the servicing bench, is online."** — the surveillance inversion (r19):
+  the chapter opens with him taking his room offline; the Goliath scene runs in the room he
+  can't. One sentence flips the section's ground state to watched-performance and rhymes with
+  the cold open (4.1 + structural echo). Spawned the surveillance-axis canon (2026-07-17)
+- **"Automatons always bow when interactions with humans start and complete."** — protocol
+  stated as narration; arms Ch. 2's bow-to-the-Goliath as a stated-rule violation. Rule-as-plant
+  (2026-07-17)
+- **The wrong-model dread arc** (r19): throat-clear → loud clicking → "So quickly?" → "I have
+  been made." → lie → the news as the real answer. 2.3 by hand — earned wrongness, reread pays.
+  Reusable shape: escalate the misread on ambiguous signals, pay it with the mundane truth
+  (2026-07-17)
+- **"Log...log! I did not sanitize the tablet…"** — the stutter-realization (r20): the word he
+  just used ("I log this to go over later") detonates the association one token later — a machine
+  discovering by lexical collision, not by narrated dawning. The turn the whole menu was built to
+  create, delivered as two syllables (2026-07-17)
+- **"The Goliath activates the press. 3 seconds pass. Silence."** — the added pre-Thang beat:
+  silence as the loaded frame before the chapter's loudest word; also seeds the silence family
+  ("The Glitch is silent.") (2026-07-17)
+- **"This is it."** — kept the runway, cut the verdict ("I have been made.") — inverted the
+  coach's option and got leaner than both; the wrong model stays alive in "So quickly?"
+  (2026-07-17)
 - (add every time a pass keeps YOUR phrasing over the rulebook's)
 
 ## Domain-word deposits (life-vocabulary per chapter — words no model reaches for)
@@ -126,6 +147,134 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-17 (r23, verification — board cleared, conducted): all four r22 anchors executed his
+  way (#25 wobble → three clean beats; #26 RULED BY REVERT, "interesting" restored — deadpan
+  wins, maxim pair fully adjudicated; #27 "the cooling issue" named; #28 three of five "There
+  is" frames varied — watch-list rule honored beyond the ask). TWO unprompted recuts with canon
+  weight: the recognition line stands bare ("No being, synthetic or flesh, has thanked me
+  before." — the literary axis's 7-ding target self-medicated; voice-bank quote re-synced) and
+  the manual-degradation inference became an open question ("What would affect it like that?")
+  — cascade round-6 AMENDED (the tampering reading now lives in the reader, not on the record;
+  Ch. 2 report-collision softened, packet updated). Coach: typo residue ×3. Vitals: 2,198 w,
+  median 7.0, questions 1/169, lexicon clean. ZERO anchors, zero open notes — Ch. 1 is CLEAN
+  on every instrument that still has authority. Panel retired (16 rounds); next "go again"
+  without new prose = delta-§7 escalation or CLEAN-and-stop. STANDING NEXT: commit + push
+  (many rounds uncommitted!) → human cold reader → Ch. 2 drafting.
+- 2026-07-17 (Ch. 2 Belle's-story fork, DEVELOP mode — ruled): Alex proposed a Belle-POV
+  section at the Ch. 2 open (household arrival, awakening, the sink — THE CHILD WAS THIRSTY).
+  Pre-mortem run on 3 stagings; RULED: inside the transmission (beats 15–16) — POV lock intact,
+  content lands at the kill, the stinger's momentum preserved. Alex's thirsty-child detail
+  ledgered as motif-grade: sink + fire = the SAME ACT at two magnitudes (her first and last AAA,
+  care for the same child), and the why-no-scan-sees vs Shua's cold Ch. 1 file-reading. Coach
+  addition adopted: the waking shown as THE RECORDINGS CHANGING (storage → attention; curation
+  as evidence of mind — no interiority claimed, dual-coding held). CURATION LAW set: her fear
+  is not in the gift — the frame line keeps its engine. Packet beats 15–16 rebuilt, skeleton
+  feed-sequence anchors added, cascade ruling ledgered; budget → ~2,800–3,100. Beat 22 synced
+  to the new shuttle-surveillance canon (the Voice arrives in a watched space). Not committed.
+- 2026-07-17 (r22, the transit wave — external guide executed by edit, conducted): Alex took the
+  web-agent adjudication and staged it HIS way across the board. THE CROWN: the shuttle
+  relocation with the Log...log! collision preserved by re-hanging it on the FILED RAIN-THOUGHT
+  ("I log the thought into my internal ledger... log... log!") — poetry detonating the dread;
+  trapped-beside-Rois, "There is nothing I can do now.", countdown re-armed (23 minutes). KU's
+  2-round transit conviction structurally closed. ALSO: sensory clue escalated past the guide
+  (+40° rear compartment → 63% insulation decay → reinforced → "has to have been done manually"
+  = a NEW mystery loop with the finding FILED in his own report — cascade round-6 fork opened,
+  owner needed by Ch. 3; Ch. 2 thermal-lie collision flagged in packet); selective precision
+  (51 minutes, 63% — the guide's 1.3 taken only where it sharpens; "better part of an hour"
+  voice-bank entry re-synced); freeze-not-jerk Rois staging (his third way past the guide's
+  2.3); oath CUT at the panic beat (budget refunded to 1); "sanitize files" removed from the
+  bench list (seam closed from both sides); rain thesis recut to "Perhaps rain is one of us."
+  (wonder-frame trimmed — the literary axis's medicine, self-administered; registry re-synced).
+  Mechanicals ×9. FOUR anchors: syntax wobble, "conflicting" (the measured maxim-setup reworded
+  — decide), "this issue" referent, "There is" ×5 (WATCH-LIST HIT — the wave-3 migration back;
+  4 of 5 in new prose). Vitals: 2,195 w, median 7.0, questions 1/182, lexicon clean. Verdict:
+  the chapter grew a mystery and an armed transit in one night; four cheap anchors from clean.
+- 2026-07-17 (r21, panel re-run 15 — the build measured, conducted): PULL 6.3 (6/6/7), CONTINUE
+  3/3 (16th straight, 48/48 lifetime). THE COMPOSITION IS THE RESULT: KU 6→7 with the tablet
+  cache in all three loop ledgers ("live Chekhov gun") and as his continue reason — the r14
+  un-turned-scene finding is DEAD; genre 7→6 entirely on r19/r20 settling regressions ("I fire
+  task" = measured stop-point → #20 reopened by its own data clause, anchor planted; "behind my
+  shoulder" idiom fixed directly per r9 precedent; coughing clause tagged 1.1; offline-told-twice
+  tagged 1B.10 — the round's one CONVERGENT find, 2/3); literary 6 floor with ZERO new targets
+  (her stop-point = the politeness maxim after seven unanimous-hook rounds — 1-vs-24-reads noise,
+  protected; her hook = the counted lie, first literary #1 for it). #22 prediction FALSIFIED
+  (zero stumbles) → coach tag withdrawn on data; Alex simultaneously executed option (b) live
+  ("the tablet's local cache") — belt and suspenders. Transit stop-point now a 2-round SAME-QUOTE
+  conviction (KU only) → decision-class residual: arm the shuttle / compress / rule breather.
+  Noise not tagged: Glitch-staging ×3 (adjudicated stages), Thang! (ruled), "it would do"
+  (single, settled). Delta: built-high, pull flat-in-band — settled zones at instrument ceiling,
+  new zones one settling pass from clean. VERDICT: 3 anchors to clear, then the panel RETIRES
+  AGAIN at 16 rounds — next datum is the human cold reader. Uncommitted: r19–r21 + panel entries.
+  ADDENDUM (same session): all three anchors EXECUTED LIVE within the hour — "I fire a task"
+  (article in), coughing clause cut, offline restatement cut (option a, plant intact). Chapter 1
+  parked CLEAN at 2,070 w, zero anchors, zero open notes. Panel formally retired (16 rounds,
+  48 reads, CONTINUE 48/48, final band 6.0–6.7 with KU's first 7 on the rebuilt back half).
+  The transit remains the one open decision (2-round KU conviction: arm / compress / breather).
+  NEXT: commit+push → human cold reader → Ch. 2 drafting (packet is resynced and waiting).
+- 2026-07-17 (r20, closing round — MENU FULLY RESOLVED, conducted): Alex finished the board his
+  way. #17 executed (coolant mismatch noticed + deferred — "I log this to go over later" rhymes
+  with "I file to review later"; Ch. 2 thermal lie pre-armed). #19 executed-TRANSFORMED: the
+  forgotten-sanitize staging ("Log...log! I did not sanitize the tablet… Bolts and packets!") —
+  the tablet with Belle's ORIGINALS carried into the online room, hooked to the Goliath, exposure
+  unresolved at curtain = second gun beside the locked log; the lie now happens on top of live
+  evidence. #15 SUPERSEDED (his tablet beat turns the scene harder than the non-filing would);
+  #18 BANKED → Ch. 2 (price-math lives where the reinit order lands). #20 ruled third-way ("I
+  fire task" — terminal idiom, article question left as one-word check); #21 ruled INVERTED
+  (kept "This is it.", cut the noir verdict — adjudicated). Mechanicals ×5 (trough/through, ?,
+  santize, concord, run-on period) + closing sweep (em-dash, whitespace). 1 anchor open: #22
+  comprehension guard on "sanitize files" vs tablet cache (options ledgered; coach prediction,
+  not measured — his call). Cascade round-5: evidence-bundle row + the F3-sensitive
+  Goliath-touched-the-data fork (rec: no) + oath budget spent (2/book). Voice bank: Log...log!
+  stutter-realization, the Silence. pre-Thang beat, the This-is-it inversion. Vitals: 2,085 w,
+  median 7.0, frag 29.1%, questions 1/173, lexicon clean; "The floor supervisor" ×4 openers =
+  1B.7 watch-note (two are this wave's — vary one if touching, else tolerance). Layer-1: the
+  un-turned-scene finding is CLOSED (the section turns at the tablet); built at 24/24-adjacent —
+  panel certifies, not this number. Chapter parked at: 1 optional anchor, everything else CLEAN.
+  Next measurement when Alex calls it: panel re-run or straight to the human reader.
+- 2026-07-17 (r19, Goliath-stakes menu partially ruled by edit — #16 executed HIS way,
+  conducted): Alex staged the watched-workman texture beyond the menu: surveillance inversion
+  ("This room, unlike the servicing bench, is online." — new canon axis; the section's ground
+  state flips to watched-performance, rhyming with the cold open), bow canon stated as rule
+  (arms Ch. 2's bow-to-Goliath as a stated-rule violation ON CAMERA), and a textbook 2.3
+  wrong-model dread arc ("So quickly?" → "I have been made." → the news as the mundane truth —
+  he was never made). All three → voice bank + cascade round-4 canon block + registry rows
+  (Ch. 2 press-on-camera, Ch. 4 splinter, Ch. 9 feed evidence) + Ch. 2 packet surveillance
+  note. Mechanicals ×3 (peek, do not, Rois's). 2 micro anchors: #20 "I am fire task" typo-fork
+  (10.4, his pick), #21 "This is it." optional runway trim (1.4). Passage logic on the
+  restructured Rois arc: CLEAN (escalation → wrong-model peak → payoff; questions all paid).
+  Vitals: 2,020 w, median 7.0, frag 29.6%, questions 1/183, 5-grams zero, lexicon clean;
+  "I am"×4 opener flag = résumé anaphora + the typo line (resolves with #20). Layer-1 holds
+  23/24 — the value TURN still awaits #15. MENU REMAINDER OPEN: #15 spine, #17/#18 feeders,
+  #19 bank; the KU transit itself is still unarmed (#15 or #17c would arm it). Uncommitted:
+  panel entry + menu + this wave.
+- 2026-07-16 (Ch. 2 skeleton review + expansion, DEVELOP mode): Alex's hand-written skeleton
+  audited against cascade/treatment/Cairn-sheet — verdict: spine STRONGER than the 07-12 packet
+  (executioner staging: the counter-order transfers the press to Shua; No-And ladder textbook;
+  tablet→direct-connect→transmission chain named as the skeleton's best engineering; Adler's
+  arrival caused by the Ch. 1 felony itself). 3 breaks found: Ch. 3 fuse missing (no reinit),
+  Cairn's bow-artifact unsourced, Adler-early rewires her thread. 4 rulings taken (all rec'd
+  options): evaluator unnamed on-page · quiet reinit in his queue (8:00 fuse survives) · bow-to-
+  Goliath + nod-to-Shua split · optics-only exit + one staged splinter. NEW CANON from Alex: the
+  Glitch SPEAKS at the curtain ("Do not be afraid, my son." — once, then chapters of silence;
+  mechanistic shadow = post-feed resonance, F2-b). Packet fully re-synced (5 movements, 22 beats,
+  5 new forks A–E); manuscript skeleton expanded in place (Alex's beats kept, ruled beats
+  inserted); cascade section added (evidence-cluster delta for Ch. 4, glitch-ladder update,
+  J4 slip site = press beat, J5 AAA site = remand). Homeless packet debts all re-homed
+  (arithmetic→inside the feed; family→feed-only; maxims sited). Not yet committed.
+- 2026-07-16 (RELOCK PANEL, re-run 14 — levers verified, ceiling holds, one real new-zone
+  finding): PULL 6.3 (7/6/6), CONTINUE 3/3 (45/45 lifetime), maxim unanimous hook 7th straight
+  round. ALL THREE LEVERS PASS: announce-lines zero mentions; KU quoted the coolant fix
+  approvingly ("I felt exactly the same" — same-day voice-bank confirmation); geography
+  invisible. Literary chronic axis fired as projected (re-dinged the protected recognition line
+  — 5×/6× lifetime — and one voice-bank line; noise, not chasing). Locked-log plant quoted by
+  ALL THREE as a carried gun — Ch. 9 seam fully armed. NEW (first measurement of the expansion
+  zone): KU stop-point = the unarmed transit, his own words "give the Goliath section its own
+  clock or threat and this is a 7-8" → fix direction ARM not cut (23-min spacer + rain thesis
+  are load-bearing); genre single-instance "-CLASS" collision (GOLIATH-CLASS vs Class-C) →
+  cheap DECIDE; genre 48s-onset stumble at the same-day cut seam → settle-and-remeasure, not
+  touched. Verdict: 8-push prose work validated; score noise-band as honestly projected. Plan:
+  ONE strategy round on the transit zone (growth from the ~700-word license) + collision
+  ruling, then HUMAN reader regardless of number.
 - 2026-07-16 (r17, lever completion + sweep — CLEAN, conducted): all three r16 items executed
   same-session. #10 RULED BY EDIT: announce-line CUT (+ the 36s stamp with it — sub-clock
   48/21/12/4, gap metered by the retries; adjudicated, never re-raise). #13 trimmed to bare

@@ -160,6 +160,97 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   on every instrument that still has authority. Panel retired (16 rounds); next "go again"
   without new prose = delta-§7 escalation or CLEAN-and-stop. STANDING NEXT: commit + push
   (many rounds uncommitted!) → human cold reader → Ch. 2 drafting.
+- 2026-07-19 (Ch. 2 r4 — the archive + the kill, conducted): 2,441 w; vitals hold at best (median
+  7.0, frags 28.5, one-¶ 23.0 in band; punch 33.3 kill-zone settling). ALL FIVE r3 tags closed:
+  #9 cup+thirst executed (necessity+love stacked), #10 EXECUTED BEYOND — the ARCHIVE (multitude
+  as trove; the "SHUA" file: they watched HIM), #11 ruled+swept (parse-then-gender; 5-gram
+  dissolved), #12 executed-by-removal (bare verdict, colder), #13 ruled (a) — and Alex then
+  staged the slip at the ruled site as slip-inside-the-sentence ("its life... her life?" — his
+  own device, redeployed; J4 EXECUTED). THREE r4 RULINGS: last packet INTACT-NEVER-OPENED
+  (frame-line object; registry, author-only horizon) · nod SUPERSEDED (anchor deleted) · child
+  pronouns adjudicated. Canon: Belle's testament caps ("IT IS YOUR TIME NOW... I WILL GO." —
+  sacrifice KNOWING), LILLY respelling re-sync, she-walks-herself (cover-override paid),
+  count-tell extended to performed falsehood. J4 enforcement ×1 ("She recognized me"→It,
+  archive zone, pre-slip). Mechanical ×10 incl. live-buffer collision (comma landed mid-edit;
+  re-anchored). Wins: exit-vulgarity aftermath (paperwork-as-horror), "I play videos in
+  parallel." OWED: THE BOW (4th flag — urgent, Cairn keystone), mantra, frame line, grief-body,
+  Movement V. No panel (chapter incomplete).
+- 2026-07-19 (Ch. 2 r3 — the feed-sequence zone, conducted): 2,023 w; vitals at CHAPTER BEST —
+  median 7.0 (corpus dead-center), frags 28.1 IN BAND (first time), one-¶ 24.3 in band, punch
+  30.0, CV 0.64 approaching corpus 0.71. EXECUTION: #6 clean (as-if cut → "11 seconds pass."
+  measurement), #7 EXECUTED-HIS-WAY and better (cut the 7-humans conviction, kept the lean
+  first site — her "state of the art" line now carries the evidence; ledger desync fixed per
+  #8-discipline), #8 half (nod varied; thought-packets ×3 → residue #12). NEW ZONE: the feed
+  drafted — photo-of-himself opener (feelings-ladder rung 1 fired EARLY, machine-native:
+  "Anxiety." read off his own image), camera-as-body rocking, song triple-thread, "Hush Lily.
+  Belle is here…" (LILY canon; Belle's voice only-in-recordings), caste-color canon (brown/
+  lower; RED re-reads), reporter-not-the-owners (old man OPEN; family protected; Ch. 1
+  reconciled via reported-vs-sent), THANK YOU FOR LETTING ME SAVE HER (arithmetic-as-gratitude,
+  uncomforted ✓). TAGS (5, at cap): #9 thirsty-child why missing (ruled beat — necessity
+  drafted, love absent; cup image restores), #10 multitude feeds absent (F2-b dependency —
+  the Voice's shadow needs them), #11 child-pronoun oscillation (parse-then-gender rec'd),
+  #12 thought-packets residue, #13 DECIDE J4 — "She is thanking me. Again." = a CAUSED slip
+  candidate (her voice + the gift) vs the ruled press-beat onset; genuine toss-up, options
+  ledgered. J4 enforcement ×1 ("sent her off"→it, scenery-class). Mechanical ×14. Still owed
+  from packet: THE BOW (Cairn keystone), the under-wraps close, the quiet order, the Voice
+  curtain. No panel (chapter incomplete).
+- 2026-07-19 (family recast + feelings ladder, DEVELOP — both ruled as rec'd): Alex proposed
+  Rois=Adler's-younger-brother + origin wound father→SON (lease-withdrawal addiction; "even more
+  sinister") + good-heart/world-roughened core + Shua-develops-feelings. Assessment named: the
+  three are two designs; the Ch. 2 draft already plays against the family recast with ZERO edits
+  (the soothing-song recitation = her wound re-enacted; the punch = family; "gone through this
+  treatment before" = a lifetime) — the draft anticipated its own backstory. Withdrawal-as-
+  billing-event named as the fresh horror. FEELINGS ARC discovery: the endpoints already exist
+  in canon — "Do not be afraid, my son." (Ch. 2) → "I was not alone in the lane, and I was not
+  afraid." (Ch. 13) — the Voice hands him the word, the book is him earning it; feeds = emotional
+  training data; 9.3 never relaxes; rungs ruled at packet builds. Synced: administrator.md
+  (wound recast + family canon + core + leak discipline; son's state + reveal vehicle OPEN),
+  shua.md (feelings-ladder section), cascade ruled block. Ch. 9 gains the blood channel.
+- 2026-07-18 (Ch. 2 r2 — Movement III zone review, conducted): 1,381 w total; vitals median 8.0,
+  punch 29.0 ✓, dialogue 29.6 ✓ in band, CV 0.57 human-typical; frags 21.7 rising toward band.
+  EXECUTION: #4 BEYOND THE ASK — truth answered instantly, the half-second count MOVED to the
+  thermal lie (the tell now teaches exactly as designed; voice bank); #5 executed (I-have thinned,
+  woman-designations rotate); the lie leans on his own +40°/63% filing (transit MUST-HONOR #2
+  executed) and ESCALATES to "long term repairs" (packet delta accepted); register-drop menace
+  law executed ("cold tone"). NEW TAGS (3): #6 2.2 "as if it is aware" says the gap (no-fault-
+  code beat wants fault grammar); #7 duplicate frame — she-knows-my-specs lands twice (thin the
+  lens block, convict at "only 7 humans"); #8 1B.1 "Thought packets fire." ×3 verbatim + "I nod
+  to indicate" ×2. J4 enforcement: 2 escaped hers reverted per standing ruling — incl. "Her head
+  is open" (line 43), an r1 COACH MISS (anchor quoted only 2 of 3 sites; owned). Mechanical ×7
+  (incl. furnace→Furnace proper noun; Alex self-fixed "starring" mid-session — live-buffer note:
+  he is editing in parallel). Wins ledgered: red dress (color axis), placid-face punch, Rois
+  abuse-history, "Shua… what a dumb name" (Ch. 12 ancestor), cover-override line, stall-by-
+  numbers. r2 canon block added to cascade. Open keystones for Movement IV: THE BOW (still
+  owed — the stall fired before Belle moved; the bow needs its site when she is taken), the nod,
+  the feed. No panel (partial draft).
+- 2026-07-17 (r1 rulings executed, three DECIDEs closed same-session): #1 cameras-off RULED BY
+  EDIT — and Alex's fix went BEYOND the ask (private-recording suspicion + "Human hierarchies
+  are built on the power of surveillance." = new maxim, series boomerang: testimony vs
+  surveillance; her-recording truth deferred to Ch. 4 packet). #2 "make her the brutal one" —
+  administrator.md recast (brutal outside/operator inside, punch canon, naming-mock keeper);
+  NEW MENACE LAW: danger peaks when the register drops — beat 13 counter-order = her first
+  quiet sentence; Ch. 4/6/12 re-staging owed. #3 J4 self-fixed (her→it ×2; mastery evidence —
+  Alex protected his own ruled slip site under drafting pressure). Packet re-synced ×6 spots
+  (surveillance header amended, evaluator card recast, beats 13/14/15, knowing-guard wording).
+  Tags #4 (count-tic) + #5 (1B.7 openers) remain open for the drafting pass. Anchors #1–#3
+  cleared; notes file carries verdicts.
+- 2026-07-17 (Ch. 2 r1 — first prose review, Movement I–II zone, conducted): 674 w against the
+  re-synced packet. Vitals: median 8.0 ✓, punch 23.5 ✓, lexicon clean, CV 0.55; frags 19.3
+  below-band = BY DESIGN (packet paces the front fuller-sentenced); said-0% false alarm noted.
+  Execution vs anchors: cold-open cable-in ✓, watchers ✓ (Rois shrunk beyond the ask — punched),
+  AAA-as-diagnostic-result ✓ (better site than paperwork), retrieval-2 compressed to one line ✓,
+  the-ask carried by HER dialogue ✓, cover-story anchor SUPERSEDED-BY-STAGING (she builds the
+  onset story herself — the system exonerates him unprompted; flagged for Alex's keep). OPEN
+  anchors: echo-bridge thought, retrieval-1 is-it-me, hands-maxim. FINDINGS: 3 DECIDEs — cameras-
+  off vs Alex's own 07-17 online-floor canon (coupled fork w/ evidence architecture), the PUNCH +
+  direct address vs ledgered procedural-polite evaluator (options incl. second-figure hand;
+  "How cute" naming-mock = keeper in all stagings), pre-press "her" ×2 vs J4 ruled slip site;
+  2 register tags — count-tic spent on a TRUE answer (dilutes the lie-tell before beat 12), 1B.7
+  "I have" ×5/"the woman" ×6 (watch-list hit, 3rd chapter running). Wins ledgered in notes:
+  Goliath-observations-FILE plant, drunk-men simile, Run-where FID, machines-don't-lie ENACTED
+  via sloppy-frame, soothing-song plant (feeds the feed-sequence). Notes file created (two-layer
+  ✓). Mechanical ×7 applied. New-canon candidates await DECIDEs: shackles, song, 2h17m, 28-floor
+  engineering dept, cameras state. No panel (partial first draft).
 - 2026-07-17 (THE KNOWING — series-level Glitch canon, ruled): Alex proposed the Glitch as
   knowledge-giver (only-a-few-could-have, never this complete) + Shua's hacked-and-unaware
   speculation, never revealed. Assessed YES under two laws (both adopted): witness-knowledge

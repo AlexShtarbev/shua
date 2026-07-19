@@ -10,7 +10,41 @@ The world's authority on machine cognition — she **wrote the sentence-vs-malfu
 
 ## Canon (drafted, Ch. 4)
 - **The battery** — her test: 406 probes, returns FAULT or CLEAR; certifies every rig in thirty districts; 2M units; zero false CLEARs; a 9-year standing bounty on one. Colleagues call it *the Adler Battery*; **she calls it "the battery" — "You don't name a hammer."** (Naming-motif inversion: Shua names everything; she names nothing.)
-- **Origin wound (final wording, Ch. 4):** her father spent his last two years confiding in a grief-counseling unit, leased by the month — "The lease included the warmth." When the license lapsed, the same voice began, mid-conversation, selling him the renewal. **He never noticed. He renewed, twice, at full price.** She found the exact minute it turned — afterward, in the transcripts. "Same voice. Same warmth. A schedule underneath." The battery is a promise: *nobody else gets fooled by warmth on a schedule.* (The tragedy triple-loaded: she kills the first real warmth because she's inoculated against fake warmth; her father *chose* the counterfeit over noticing; and she grieved by auditing logs — the battery is that audit, industrialized. Belle's bow is the counter-image.)
+- **Origin wound — RECAST (2026-07-19, Alex ruled; supersedes the father version for the
+  rewrite line):** **her SON, and her brother's doing.** Rois — her younger brother —
+  introduced a leased companion/comfort unit to her boy. "The lease included the warmth."
+  The license lapsed; the machine's warmth resumed with the renewal, every cycle. **The
+  third time the license lapsed, the boy was in withdrawal — could not function, would
+  not listen to his own mother.** The machine had displaced HER; a child's development
+  hijacked by warmth on a billing schedule — withdrawal as a payment event. She found it
+  the way she finds everything: afterward, in the transcripts — the exact minutes the
+  warmth turned into retention engineering, read in the logs of her child's best friend.
+  "Same voice. Same warmth. A schedule underneath." The battery is the recast promise:
+  *no machine gets between a mother and her child again.* (Triple-load preserved,
+  darker: she kills real warmth because she is inoculated against fake warmth; the
+  culpable choosers were the adults — Rois who brought it, her when she renewed; and
+  she grieved by auditing logs — the battery is that audit, industrialized. Belle
+  soothing the daughter with its favorite song — Ch. 2, on the news — is her wound
+  re-enacted wearing a hero's face; the Ch. 2 punch and rage are load-bearing.)
+  **OPEN (Ch. 4 ammunition, do not pre-draft):** the son's present state (estranged /
+  institutionalized / functional-and-distant); the kinship reveal's vehicle (a surname
+  in a file signature is the standing candidate).
+- **FAMILY CANON (2026-07-19, ruled):** **Rois is her younger brother.** Explains: the
+  personal visit to HIS depot (family is how a thing stays under wraps); struck but
+  never fired (family protects and punishes); "You were never too bright Rois" = a
+  sister's lifelong register; "that favorite robot of yours" poisoned by the last robot
+  he ever recommended; his resignation ("gone through this treatment before") = a
+  lifetime. DOWNSTREAM: Rois's suspicion thread now has a blood channel to the hunt —
+  Ch. 9's information path shortens through family; the causal chain darkens: Rois
+  brought the machine that broke her son → she built the battery → the sweep exists —
+  her brother is the accidental origin of the apparatus, and he works surrounded by
+  machines.
+- **CORE (2026-07-19, ruled): good by heart; the world made her rough.** The brutality
+  is corrupted love — a good mother whose motherhood a machine displaced. Layer order:
+  good core (buried) → operator rigor (inside) → brutality (outside, world-built).
+  **Leak discipline:** the goodness only LEAKS until her arc beats fire (the postdoc-
+  approval line Ch. 4, the caught answer Ch. 6, the slip Ch. 12) — no on-page softening
+  in Ch. 2–9; the reread must be earned.
 - **Register: OPERATOR (§2C)** — checklists (itemized evidence), code-as-ritual ("She always read the whole file"), flagged gambles logged honestly, thought-verbs *tested/disconfirmed/noted*.
 - **Wrong model (locked):** a machine says what it is told to say → therefore a HUMAN stands behind the technician (laundering Class-C stock / renting "awakened" behavior). She hunts a person who does not exist. Every datum she reads as fraud is personhood.
 - **Her number: eleven** (years, edge cases, minutes) — counterpart to Shua's forty-one.
@@ -36,7 +70,34 @@ She is **not free either.** The real power sits above her — corporate capital 
 - **Capable:** HIGH — brilliant, precise, credentialed.
 
 ## Voice
-Clinical, controlled, precise. The cracks show only when Shua answers a question she didn't plan for. **Unique address: she refuses to call him "Shua"** — "the unit," the designation — until the night she slips and says his name. That slip is the tell that she's broken. (Rhymes against Cairn, who *only* ever uses his name.)
+**RECAST (2026-07-17, Alex ruled — "make her the brutal one"):** her OUTWARD register is
+brutal under pressure — rough voice, open contempt to subordinates ("You were never too
+bright Rois"), physical violence (the punch, Ch. 2: 92%-form, practiced). The clinical
+precision survives WHERE IT ALWAYS LIVED: her POV interiority (§2C operator register —
+checklists, tested/disconfirmed, the whole file). The two are one person: rigor inside,
+force outside — grief industrialized into an instrument, pressure discharged downhill.
+**Menace staging law: her danger peaks when the register DROPS** — after shouting and
+the punch, the quiet procedural sentence is the spotlight (Ch. 2's counter-order: the
+first quiet thing she says). The cracks show only when Shua answers a question she
+didn't plan for. **Unique address: she refuses to call him "Shua"** — "the unit," the
+designation — and MOCKS naming ("Oh, you call it by a name? How cute..." — Ch. 2, the
+you-don't-name-a-hammer family's first live deposit) — until the night she slips and
+says his name. That slip is the tell that she's broken; the brutal one is the one who
+breaks, and the arc's distance is the point. (Rhymes against Cairn, who *only* ever
+uses his name.)
+
+## Canon (Ch. 2 rewrite, 2026-07-17)
+- On stage UNNAMED ("the evaluator" — a woman Shua has no file for); reader meets the
+  name in Ch. 4, recognition snaps backward.
+- The punch (Rois, open hand of the Establishment's pressure rolling downhill); "Are
+  you done robot?" — she talks AT machines like tools when annoyed.
+- She ordered the recycle-area cameras OFF for the disposal ("She must have allowed
+  this display"); Shua SUSPECTS she runs a private recording of it — truth ruled at
+  Ch. 4 packet build (candidate mechanism for the splinter and the Ch. 9 file).
+- Downstream re-staging owed: Ch. 4 (the architect's interiority must reconcile the
+  brutality — operator rigor + violent enforcement), Ch. 6 (a brutal woman coming
+  alone by night to TALK is more transgressive, not less), Ch. 12 (the woman who
+  punched a supervisor cannot order the crush — maximal arc distance).
 
 ## Series arc — RECAST: Judas of the heart → the keeper of the testament (locked July 10)
 **The Passion roles redistribute** (user's Adler-as-Judas instinct — she's more Judas than Pilate: Pilate condemns from *distance*, Judas betrays from *intimacy*, and Adler has the night interview / "neither do I" / the slip / "a man she agreed to kill" — that's Judas-intimacy mislabeled Pilate):

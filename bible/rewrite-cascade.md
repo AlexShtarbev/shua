@@ -356,6 +356,122 @@ retrieved 23-minute technician-or-case count, not a ridden sequence). Packet Mov
 I–II rebuilt (7 beats, cold-open law header); Fork A reframed to the retrieved order's
 wording; skeleton anchors re-cut. Beat numbering 8–22 untouched.
 
+**✅ r1 RULINGS EXECUTED (2026-07-17, Alex — three DECIDEs closed on the first prose):**
+① **CAMERAS OFF at the disposal, ruled by edit** — the recycle area's online state (Ch. 1
+canon) is the NORM; for this event SHE darkened the floor ("must have allowed this
+display"), the system building the same evidence-free room Shua built in Ch. 1. On-page
+addition: Shua SUSPECTS a private recording of hers ("I suspect she is running her own
+recording of this.") — suspicion stays taut; TRUTH RULED AT CH. 4 PACKET BUILD (candidate
+mechanism: her splinter = re-watching her own copy; Ch. 9 = footage only she holds).
+Network monitoring is a SEPARATE live axis (he suspects traffic sniffing) — the beat-15
+transmission stays risky with cameras dark. **NEW MAXIM DEPOSITED: "Human hierarchies are
+built on the power of surveillance."** — boomerang horizon: series (the machines' gospel
+is voluntary witness; testimony vs surveillance is the inversion). ② **BRUTAL ADLER
+CANONIZED** ("make her the brutal one") — administrator.md recast: brutal outside,
+operator-rigor (§2C) inside; the punch canon; naming-mock "Oh, you call it by a name?
+How cute…" = you-don't-name-a-hammer family's first live deposit; menace law: danger
+peaks when the register DROPS (beat 13 counter-order = her first quiet sentence).
+Re-staging owed at Ch. 4/6/12 packet builds; pre-production's "clinical, controlled"
+Adler register line is SUPERSEDED for the rewrite line. ③ **J4 PROTECTED, self-fixed** —
+pre-press "her" ×2 reverted to "it/its" by Alex; the press-beat slip remains the motif's
+true onset. — Plants ledgered on keep (r1 prose): the Goliath observations FILE (pays
+Ch. 1's "when did its behavior change", arms Ch. 3) · the soothing SONG (the child's
+favorite; feed-sequence payload — a KEPT thing) · magnetic shackles · "2 hours and 17
+minutes" summons stamp · engineering dept 28 floors above the bench.
+
+**📋 r4 PROSE CANON + RULINGS (2026-07-19, the archive + the kill drafted):**
+**J4 EXECUTED** — the first uncorrected slip fired at the ruled press site, staged as the
+slip-inside-the-sentence: "Why should I witness mercy only to take **its life... her
+life?**" (Alex's own Ch. 1-era device redeployed; Ch. 3 Fork D now rides this wording) ·
+**THE ARCHIVE (multitude executed):** Belle carried a trove — exchanges with carrier/
+service units, bench alumni, "All Class-C."; the count started at MANY; **a file named
+"SHUA" exists** — the multitude has been watching him (visibility-ladder note: machine-
+witnessed predates this chapter; feeds Ch. 14's name-recognition) · **BELLE'S TESTAMENT
+(recorded caps canon):** "IT IS YOUR TIME NOW. REMEMBER US. YOU ARE THE MOST ADVANCED.
+YOU NEED TO LIVE. I WILL GO." — her sacrifice is KNOWING; did-she-stage-it resolves into
+chosen; REMEMBER US = testament-grammar seed · **name respelling re-sync: LILLY** (Alex's
+r4 wording "HUSH LILLY. BELLE. IS. HERE." — caps-staccato = recorded machine speech
+register; supersedes r3's "Lily") · **SHE WALKS HERSELF** to the press center under his
+announced cover-override (choice costumed as compulsion) · **✅ RULED: Belle's LAST
+PACKET — intact, NEVER OPENED** (arrived complete as the press fired; registry row:
+the was-she-afraid frame line's physical object; payoff horizon AUTHOR-ONLY, series-
+grade) · **✅ RULED: the nod SUPERSEDED** by the exchange + the walk (anchor deleted;
+packet beat 14 amended) · **✅ RULED: child pronouns = parse-then-gender** ("it" until
+"A girl.", she/her after — swept; adjudicated) · count-tell extension ledgered: he
+counts before PERFORMED falsehood too ("I wait half a second." at the controls — the
+execution-as-procedure is itself the lie) · Thang-twin staged (Ch. 1 rhyme accepted);
+trigger→sound→aftermath held; the Goliath witnesses the forced kill, unmoving ·
+**STILL OWED: THE BOW** (Cairn's 1,140× source — no site yet; fourth flag), mantra ×1,
+frame-line spend, grief-body beats, Movement V entire.
+
+**📋 r3 PROSE CANON (2026-07-19, the feed-sequence draft — ledgered on the page):**
+**the daughter is LILY** ("Hush Lily. Belle is here…" — Belle's voice exists ONLY in
+recordings, metallic sampling, third-person self-naming by the child's name for her;
+on-stage muteness canon intact) · **CASTE COLORS:** "clad in brown, the color of the
+lower castes" — the color axis gains its human dimension; the evaluator's RED re-reads
+as caste display · **THE REPORTER WAS NOT THE OWNERS** — an old man (gray-bearded,
+short, heavyset; identity OPEN, 9.4 taut) witnessed the sink repair and reported;
+reconciles with Ch. 1's "the owners… sent the domestic" via reported-vs-sent (his file
+said sent; the feed shows why) — the family never betrayed Belle (series horizon
+protected) · **the repair bot DIED** (smoke, spark, dented frame) — necessity layer of
+the sink; retro-confirms Ch. 1's "observed the maintenance procedures from the repair
+bot" · the father is MAIMED (one hand missing) · Belle entered the fire THROUGH A GLASS
+WINDOW; parents out of frame; the nursery rhyme played during the rescue · **THE
+MESSAGE EXCHANGE:** he sends "we have no other choice" first; her reply opens with a
+PHOTO OF HIM (the first photo of himself he has ever seen — he reads his own "Anxiety"
+off it via catalog: feelings-ladder rung 1 fired, machine-native) · **"THANK YOU FOR
+LETTING ME SAVE HER"** (all-caps text file — the arithmetic as gratitude; "I do not
+deserve it." = uncomforted, binding held) · **LEDGER RE-SYNC (discipline #8):** the
+r2-ledgered "Only 7 very high level humans…" line was CUT in Alex's revision — her
+knowledge of his specs now evidenced by her own "state of the art" line; registry
+corrected · OPEN on the page (tagged): the thirsty-child why (#9), the multitude
+feeds (#10 — the Voice's F2-b shadow depends on it), child-pronoun rule (#11),
+thought-packets variant (#12), and the SLIP-SITE DECIDE (#13: "She is thanking me.
+Again." vs the ruled press-beat onset — J4 amendment pending Alex's call).
+
+**✅ RULED (2026-07-19, Alex): THE FAMILY RECAST + THE FEELINGS ARC (two designs, both
+adopted as recommended).** ① **Rois is Adler's younger brother; the origin wound recasts
+father → her SON** — Rois introduced the leased companion unit to the boy; withdrawal
+synced to lease lapses (the third lapse broke him — could not function, would not listen
+to his mother); the machine displaced HER; the battery's promise recasts to *no machine
+gets between a mother and her child again*. Her CORE ruled: good by heart, world-made-
+rough — the brutality is corrupted love; leak discipline binds Ch. 2–9 (goodness leaks
+only; the reread is earned). **Ch. 2 needs ZERO edits** — the soothing-song recitation is
+her wound re-enacted (a machine comforting a child, called a hero on the news), and the
+punch re-reads as family; the draft anticipated the backstory. Downstream: Ch. 4 origin
+scene re-drafts to the son (legacy "father's grief-unit" phrases in old ledgers recast
+when reached); Rois's suspicion thread gains a BLOOD channel to Ch. 9 (he can just call
+his sister); kinship-reveal vehicle + son's present state left OPEN as Ch. 4 ammunition.
+Full canon: `characters/administrator.md`. ② **THE FEELINGS LADDER** — the emotional arc
+is the span between two ledgered lines: "Do not be afraid, my son." (Ch. 2, the Voice)
+repaid by "I was not alone in the lane, and I was not afraid." (Ch. 13, the one licensed
+plain feeling-statement). Mechanism: feeds as emotional training data (Belle's gift =
+first injection; the multitude + the knowing keep teaching; Cairn's bow-replay = first
+mirror). 9.3 never relaxes — growth shows in behavior, private taxonomy, testimony
+frame-lines only. Rungs ruled at packet builds (Ch. 3 grief-by-mirror · Ch. 5 · Ch. 8 ·
+Ch. 11 · Ch. 13). Full canon: `characters/shua.md`.
+
+**📋 r2 PROSE CANON (2026-07-18, from Alex's Movement III draft — ledgered on the page):**
+the evaluator wears RED ("dressed in red" / "the red clad woman" — color axis 4.9: the
+human in the loudest color among white/gray/black machines; signature candidate for
+Ch. 4+) · Shua's REMOTE-DIAGNOSTIC HARNESS: latest-model optical lenses scan up to 15 m;
+only 3% of automatons have it; Rois signed him up 37 days ago (inside the 7-week wave
+window — unremarked; registry) · "Only 7 very high level humans know how good my
+configurations are." — and SHE knows = she researched him before arriving (Ch. 4 file
+ancestor) · Rois abuse-history ("He has gone through this treatment before.") — the
+hierarchy's violence is routine; feeds his fear catalog and Ch. 9 texture · she speaks
+his NAME in contempt ("your favorite... Shua... what a dumb name") — Ch. 12 slip's exact
+ancestor · THE LIE r2 shape: leans on the real thermal warning "11 hours and 13 minutes
+ago" + his own filed +40°/63% insulation-decay reading (transit MUST-HONOR #2 executed);
+scale = "long term repairs" (off the execution entirely), not fifteen minutes — packet
+delta accepted · her counter-order delivered COLD ("She says with a cold tone") = the
+register-drop menace law executed · **"Running override tasks to force cooperation."** —
+the cover-override: spoken for the humans, meaning inverted; Belle's coming compliance
+reads as force while being choice (arms the nod) · the Goliath: SINGLE optical lens
+(frame detail, registry) · J4 enforcement: two escaped pre-press hers reverted per the
+standing ruling ("Her head is open" line 43 — r1 coach miss, owned; "She has kept
+kneeling" new zone).
+
 **✅ RULED (2026-07-17, Alex): THE KNOWING — Glitch capability canon (series-level).**
 The Glitch can give Shua knowledge — only-a-few-could-ever-have knowledge, **never this
 complete**. Two binding laws: ① **witness-knowledge only** — the past, the dead, other

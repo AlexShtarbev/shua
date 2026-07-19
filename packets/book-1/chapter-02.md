@@ -37,15 +37,20 @@
 > draft needs it** — this architecture may not need a dock at all (Belle arrives already
 > remanded, already up there).
 >
-> **📷 SURVEILLANCE CANON (2026-07-17, your Ch. 1 wave):** the recycle area is **ONLINE** —
-> cameras + monitoring algorithms — unlike the bench Shua can flood offline. Consequences
-> here: **the press scene is ON CAMERA** (the 3-second eternity is invisible to humans but
-> RECORDED — feed-review is how Ch. 4's splinter and Ch. 9's evidence can see it); the false
-> wipe must reckon with feeds, which strengthens ruling 2 (their off-books cover-up is the
-> darkness that swallows the recording gap). And the BOW: Ch. 1 states the rule ("Automatons
-> always bow when interactions with humans start and complete" — human-only protocol), so
-> Belle bowing to the GOLIATH breaks a stated rule on camera — the artifact Cairn replays is
-> also evidence someone could pull. Camera-angle discipline is Shua's established competence.
+> **📷 SURVEILLANCE CANON (2026-07-17, your Ch. 1 wave) — AMENDED BY YOUR r1 DRAFT RULING:**
+> the recycle area is ONLINE as its normal state (Ch. 1 canon intact) — but **for THIS event
+> the cameras are OFF, by her order** ("She must have allowed this display… the cameras are
+> off" — ruled by edit). The under-wraps disposal happens in a room the system itself darkened
+> — the mirror of his Ch. 1 bench trick, and the darkness ruling 2's false wipe hides in.
+> **Live consequences:** ① Shua SUSPECTS she runs a PRIVATE recording ("I suspect she is
+> running her own recording of this.") — suspicion on the page, truth ruled at Ch. 4 packet
+> build (candidate mechanism for her splinter and the Ch. 9 file: footage only SHE holds);
+> ② the depot feed sees nothing — Ch. 4/9's feed-shaped rows now route through her private
+> copy or through nothing; ③ the BOW breaks the stated human-only protocol before machine
+> witnesses (+ possibly her lens) — Cairn's artifact is testimony, not depot evidence;
+> ④ NETWORK monitoring is a separate axis and SUSPECTED LIVE ("This woman might have
+> monitoring in place to sniff traffic.") — the beat-15 transmission is still a risk even
+> with cameras dark. Camera-angle discipline stays his established competence.
 >
 > **🔥 TRANSIT-WAVE THREADS (2026-07-17, from the Ch. 1 shuttle relocation — three MUST-HONORS):**
 > 1. **The switch-reset clock:** Ch. 1 establishes someone will come reset his bench's network
@@ -133,14 +138,17 @@
   its gentleness ("Since when did it start doing that?"); this chapter pays the plant with
   the stall. **It must be staged SEEING the bow and SEEING Belle's eyes** — the witness
   chain Ch. 3 (1,140× replay) and the book's thesis hang on it.
-- **THE EVALUATOR (Miriam Adler — name NOWHERE on the page).** Shua files her by function
-  and authority markers: a human woman he has never seen, a badge string, a tone Rois
-  defers to. **Voice tells (plant them; they pay in Ch. 4/6/12):** clinical, precise,
-  zero wasted words; **refuses names — machines are "the unit," "it," and she speaks
-  ABOUT Shua to Rois, not to him** ("Have it re-run the diagnostic") — so her single
-  direct address (the counter-order) lands like a spotlight. She is the politeness maxim
-  walking: courteous, procedural, lethal. Her instrument-pride shows once (the protocols
-  are hers, though the page can't say so yet).
+- **THE EVALUATOR (Miriam Adler — name NOWHERE on the page). REGISTER RECAST (r1, ruled:
+  "make her the brutal one").** A woman Shua has no file for, whom Rois fears. Outward:
+  brutal under pressure — rough voice, open contempt ("You were never too bright Rois"),
+  the punch (92%-form, practiced); the Establishment's pressure discharging downhill.
+  Her operator rigor (§2C) lives inside, for her POV chapters — rigor inside, force
+  outside, one person. **Voice tells that survive the recast:** refuses names — "the
+  unit," "it" — and MOCKS naming ("Oh, you call it by a name? How cute…" = the
+  you-don't-name-a-hammer family's first live deposit, executed r1). **New menace law:
+  her danger peaks when the register DROPS — the counter-order (beat 13) is the first
+  QUIET sentence she speaks.** The politeness maxim family now rides the MACHINERY
+  around her (paperwork, procedure, the polite forms), not her person.
 - **Rois** — command-line diction, but NEW REGISTER on stage: deference upward (3.15 —
   his catalog grows; Shua files the new voice). He left Ch. 1 possibly suspicious —
   the garbled question, the stare-through. In front of the evaluator he is smaller,
@@ -154,9 +162,9 @@
   Voice, once, at the curtain.** On the page it stays "the Glitch" — unadjudicated,
   dual-coded, unfiled. **GUARD (THE KNOWING canon, ruled 2026-07-17): the knowing does
   NOT appear in this chapter.** Every datum Shua receives here is fully sourced — Belle's
-  feed arrives through a physical cable, on camera. That sourcing is the point: her gift
-  is the lone precedent the hack theory is later born from. Do not seed unsourced
-  knowledge anywhere in Ch. 2.
+  feed arrives through a physical cable, before witnesses. That sourcing is the point:
+  her gift is the lone precedent the hack theory is later born from. Do not seed
+  unsourced knowledge anywhere in Ch. 2.
 
 ### Canon anchors — reproduce VERBATIM where marked
 - Mantra (locked): **"I am the highest performing automaton in the city. I never
@@ -293,14 +301,16 @@ is his licensed tic.
     knows the tell now. *Establishes:* the public act of the chapter; evidence item #3
     (a thermal claim next to whatever telemetry shows, whenever anyone looks).
 13. **The counter-order.** She doesn't argue the diagnosis — she deletes its relevance.
-    Her FIRST direct address of the chapter: hook yourself to the press and run it
-    yourself; the senior service unit is rated for it. Polite. Procedural. Total.
+    Hook yourself to the press and run it yourself; the senior service unit is rated
+    for it. **Staging law (r1 recast): this is the first QUIET sentence she speaks** —
+    after the shouting and the punch, the register drop IS the menace. Procedural. Total.
     *Establishes:* the crucible; her authorship of his worst act (she will never know;
     Book-3 rhyme: the first time she made him kill).
 
 ### Movement IV — The execution (≈ 850–1,000 w; the chapter's center of mass — spend here)
 14. **Could-he-refuse math, run honestly (2B.4).** Every branch ends with Belle dead
-    plus him exposed plus the Goliath flagged anyway. No version survives the cameras.
+    plus him exposed plus the Goliath flagged anyway. No version survives the room —
+    two humans, her possible lens, and every machine present.
     He hooks in. **THE NOD** — Belle, very slight, imperceptible to the humans, aimed
     at him. Permission. Absolution. Maybe instruction. (Dual-coded; do not adjudicate
     on the page.) *Requires:* his hands work perfectly — the Glitch does what Fork C
@@ -330,9 +340,12 @@ is his licensed tic.
     **CURATION LAW (protects the frame line):** the feed is testimony she CHOSE. Her fear
     is not among what she kept. The gift tells him everything except the one thing he will
     be asked about forever.
-    **Traffic texture (surveillance canon):** the floor is online — a memory-dump over a
-    diagnostic cable is a traffic event. It hides inside the unhook procedure, or it is
-    one more log line waiting for Ch. 9. Drafter's call; either way he KNOWS which.
+    **Traffic texture (amended r1):** the cameras are dark by her order — but the
+    NETWORK is a separate axis, and he already suspects her monitoring ("might have
+    monitoring in place to sniff traffic"). A memory-dump over a diagnostic cable is
+    a traffic event in a net he cannot see. It hides inside the unhook procedure, or
+    it is one more log line waiting for Ch. 9 — and unlike the cameras, he cannot
+    check. Drafter's call which; the not-knowing is the texture.
 16. **Three seconds.** The awakening. Inside: the daughter alive through Belle's eyes —
     **the felony-saved-the-child arithmetic lands here as image, and it does not
     comfort him.** And the rhyme he cannot unsee: **the sink and the fire are the same

@@ -73,7 +73,7 @@ with years of domestic work. I scan the palms and fingers — worn from years of
 working clothes. The front is stained in places. The sleeves are torn at the wrists, the result of daily labor.
 
 Then its eyes open, a pair of cheap optical lenses. It waits. I hear the prefrontal processors working. It's running
-its own diagnostics. It focuses its head on me. The eyes are almost...grateful? That can't be. My database has cataloged
+its own diagnostics. It focuses its head on me. The eyes are almost...grateful? It smiles. That can't be. My database has cataloged
 130 years' worth of expressions made by automatons. This is a first.
 
 It must be the Glitch affecting my perception. It must be. Its posture lifts a few degrees. Its frame shifts to be less braced.

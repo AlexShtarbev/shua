@@ -118,6 +118,11 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Workflow conventions (standing)
 
+- **Typo fixing (2026-07-21, Alex — "fix typos automatically"):** the coach fixes
+  unambiguous mechanical typos DIRECTLY in the draft (§10.4), no listing — including during a
+  fresh-edit wave (buffer-clobber caution waived per Alex's standing ask; re-read on any
+  stale-edit error). Only items with two-plus plausible repairs (grammar rebuilds, word-
+  choice, protected-beat regressions) get flagged for Alex — never auto-picked.
 - **Line length (2026-07-14, Alex):** ALL lines in manuscript/packet/bible files hard-wrapped at
   **≤120 characters** — including `[SP …]` editorial tags (previously written as single long lines,
   forcing manual reformatting). Break at word boundaries; prose reflow only, never word changes.
@@ -160,6 +165,22 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   on every instrument that still has authority. Panel retired (16 rounds); next "go again"
   without new prose = delta-§7 escalation or CLEAN-and-stop. STANDING NEXT: commit + push
   (many rounds uncommitted!) → human cold reader → Ch. 2 drafting.
+- 2026-07-21 (Ch. 2 r18-r19 — RE-PANEL + TERMINAL PANEL, instrument retired, conducted):
+  Trajectory 6.0 → 6.33 (6/6/7) → 6.33 (6/6/7); CONTINUE 3/3 each, 9/9 lifetime. CEILING on 3
+  points → **INSTRUMENT RETIRED for Ch. 2** (churn discipline: plateau in noise + frictions
+  repeating). THE MONTAGE REBUILD WORKED: the baseline 3/3 "montage stalls the dead clock"
+  finding is RESOLVED (KU 6→7; the Belle-hijack reversal "No. It is Belle" now a top hook,
+  genre+KU). Alex's r18-r19 edits all verified: Fork-A interleave (clock threaded + escalating),
+  un-merged testament (THANK YOU standalone, caps sermon broken up), Adler ACTION escalation
+  (walks over / circles + sensor power-drain clock), metronome varied (161→"82% complete").
+  Ceiling set by 3 STABLE frictions, none fixable by surgery: (1) KU 3-panel convergent —
+  interruption DENSITY still too high (vary ≠ thin; cut 2-3 = the one cheap lever, lifts KU
+  not the ceiling); (2) genre — messianic caps = GENRE MISMATCH (Murderbot wants deadpan; the
+  book is Passion-structured, caps are DNA); (3) literary — Adler-flat (intended Ch.4 withhold)
+  + thesis/label tic (chronic axis = Ch.1's 6.7-capping self-annotation, r12-ruled, permanent).
+  Hooks locked all 3 panels: "MY SON" exit + hijack reversal + photo beat. Fixed settling typos
+  direct (r18: "a black screen"; r17-wave earlier). Convention added: auto-fix typos (§10.4).
+  NEXT: optional interruption-thin → LOCK (no 4th panel) → HUMAN cold reader / Ch. 3.
 - 2026-07-21 (Ch. 2 r17 — FIRST PANEL, lock baseline, conducted): **PULL 6.0 (genre 6 ·
   literary 6 · KU 6) · CONTINUE 3/3** — Ch. 2's first-ever Layer-2 read, tightest 3-reader
   convergence the instrument has produced. Rubric baseline entry written. THE FINDING

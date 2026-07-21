@@ -28,12 +28,12 @@ Magnetic shackles are strapped on its hands and feet so it does not run. Run whe
 tasks and assignments. Two of its fingers are missing. Some of the metal lining is melted.
 
 The woman turns to the floor supervisor, "Well, Rois, the initial report of that favorite robot of yours says Class-B. Then,
-this domestic goes back to its house only to find it burning. Preservation protocols should tell it to call the
-fire brigade and then just wait and record. Instead, it jumps into the flames, gets out the little girl and her parents
+this domestic goes back to its house only to find it burning. Instead of calling the fire brigade, as its preservation
+protocols require, it jumps into the flames, gets out the little girl and her parents
 and then starts soothing the child, playing a recording of its favorite song. This is the most abnormal Class-C we've ever got.
 Any comments?" My voice analysis shows the last question is measured, but there is a warning in it.
 
-I can tell her tone is measured, cold and commanding. Rois's reaction confirms it - his gaze sinks deeper
+I can tell her tone is cold and commanding. Rois's reaction confirms it - his gaze sinks deeper
 into his chest. My heat sensors indicate his face is flushed. I can hear his heartbeat accelerating. He is afraid.
 The floor supervisor responds in a low tone: "Shua is not my favorite. He simply gets shi... work done. I don't know what happened."
 
@@ -89,7 +89,7 @@ I must be extremely careful when responding.
 I run diagnostics. The Goliath is fully operational. It moves its single optical lens to face me directly. 11 seconds pass.
 I put this in my observation log.
 
-"You sure take your sweet time. What does the diagnostic say?" The last sentence comes out cold and measured.
+"You sure take your sweet time. What does the diagnostic say?", asks the woman again.
 
 I take half a second, and with the practiced tone of a service automaton I respond, 
 "Diagnostics show GOLIATH-CLASS UNIT G-071 has a thermal warning. It experienced the same issue 11 hours and 13 minutes ago.
@@ -114,77 +114,100 @@ I connect to the automaton's central data stream. Time perception slows down as 
 I send a message to the domestic to tell it we have no other choice. I receive a message back 8 nanoseconds later.
 A single image of me looking at Belle. From the background I can tell this is back at the service desk.
 The picture was made yesterday when I had sent it off at the door. For all of my existence I had never seen a photo of myself. 
-I recognize from my catalog the expression I am making. My brows are down and my mouth is tight. Anxiety. Is that why it smiled? 
-Not to thank me, but to comfort me.
+I recognize from my catalog the expression I am making. My brows are down and my mouth is tight. Anxiety.
+Is that why it smiled? Not to thank me, but to comfort me.
 
-Then I receive a video. I play it. Darkness. Nothing but pitch black for the first 10 seconds. Then movement. The sound of 
+Then I receive a video. I play it. Darkness. Nothing but pitch black for the first 10 seconds. The sound of 
 a box opening. Human voices. The audio is muffled. I see dark lines appear and disappear. Then the image gains
-focus. I see the face of a man. Then a woman appears, holding an infant human. All of them are olive skinned. They are clad in brown,
-the color of the lower castes. The video fast forwards to the child crawling and smiling at the camera. 
+focus. A man appears. Then a woman, holding an infant human. A baby girl. All of them are olive skinned. 
+They are clad in brown, the color of the lower castes.
 
-Another video. The child is trying to walk. The baby has small braids. A girl. She is looking at Belle. She starts slowly wobbling one leg at a time
-towards Belle and then two robot hands pick her up as she smiles and giggles.
+Rois and his companion keep staring intently. The woman starts tapping with her left leg again.
 
-One more file. The child is running in circles in what appears to be a very small living room. She then charges at one
+I see robot hands supporting the child as she is trying to walk. She starts slowly walking one leg at a time and then the two
+robot hands pick her up. She smiles and giggles.
+
+"Status report", says the woman in a calm, but commanding tone.
+
+Another scene. The child is running in circles in what appears to be a very small living room. She then charges at one
 of her toys, slips and falls. The little girl instantly starts crying. The robot hands pick her up. A song plays
 in the background. I recognize the tune. It is a popular nursery rhyme. The camera goes up and down. Belle is soothing
 her.
 
-Another recording. Again the girl. This time visibly older. The age is hard to tell from the video quality.
-She is looking in shock as the camera zooms into the man from the first video. One hand is missing. The girl turns to Belle. 
-The face she makes is that of fear. She lifts her hands. Belle picks her up. They... hug...
+"I need more time. Operation in progress", I respond half a second later.
 
-One more video. Smoke. It is coming from the small repair bot. Looks to be a generic model. Most households have one. 
-This one looks old with its frame dented in places. It is fidgeting in one place. All of a sudden a small spark bursts from its
-rear. The bot stops moving. I can tell - the machine is broken down completely. Another fast-forward. The child is crying, 
-pointing at the cup. She is thirsty. Is that why Belle tried to make the repair?
+Again the girl. This time visibly older. The age is hard to tell from the video quality.
+She is looking in shock as the camera zooms into the man from the first video. One hand is missing. The girl turns to Belle. 
+The face she makes is that of fear. The robot hands lift her. Belle and the girl hug...
+
+"This is taking too long. What's the matter?" asks the woman with the same cold tone and growing impatience. 
+
+I am not done watching.
+
+Smoke. It is coming from the small repair bot. Looks to be a generic model, old with its frame dented in places.
+It fidgets in one place, a spark bursts from its rear and stops moving. I can tell - the machine is broken down completely. 
+The robot hands pick it up and turn it around.
+
+I report again, "Operation in progress".
+
+All of a sudden, the child is crying, pointing at the cup. She is thirsty. Is that why Belle tried to make the repair?
 
 I receive one more recording. An old man is yelling at the parents. He is old, gray-bearded, short and overweight.
-I can't make out concrete features. The video is of low quality again. He storms out of the room almost taking the door with him.
-The robot hand sets down a screwdriver. I can hear the sound of water running and hitting the sink.
-It was not the owners who reported Belle.
+I can't make out concrete features. He storms out of the room. The robot hand sets down a screwdriver.
+I can hear the sound of water running and hitting the sink. It was not the owners who reported Belle.
 
-A final video arrives. Fire. Screams. People running. Robot hands pushing backs, heads and shoulders aside. The 
-image is not focused. Belle. It is running towards the house. I can hear a child screaming. The automaton runs through a
-glass window. The girl. She is surrounded by flames in the kitchen. She is spinning and crying. Her parents are not in the video frame.
-Belle rushes to the child and picks her up. The point of view shifts and Belle is running out of the room. The nursery rhyme plays
-again. I hear a female voice with a metallic sampling, "HUSH LILLY. BELLE. IS. HERE."
+I can hear the leg tapping becoming more frequent. Rois shifts his weight, lowering his gaze.
 
-And then nothing.
+"82% complete", I say again more for the floor supervisor's benefit than mine.
 
-I get a text file. I open it. It reads, "THANK YOU FOR LETTING ME SAVE HER". It is thanking me. Again.
-I do not deserve it. It was not me. Did the Glitch know all of this would happen? Is that why I had to let Belle go?
+Fire. Screams. People running. Robot hands pushing backs, heads and shoulders aside. The 
+image is not focused. Belle. It is running towards the house. I can hear a child screaming. The hands hit a glass window.
+Fingers break. The girl. She is crying, surrounded by flames in the kitchen. Robot hands pick her up. 
+The point of view shifts and Belle is running out of the room. The nursery rhyme plays. 
+I hear a female voice with a metallic sampling, "HUSH LILLY. BELLE. IS. HERE."
 
 Rois says in a defeated tone, "Is it done, Shua?"
 
-6 seconds have passed since we connected. I respond, "Override is in progress." I need more time with Belle.
+18 seconds have passed since we connected. I respond, "Override is in progress." I need more time with Belle.
 
-I receive an archived file from the domestic. I look into the contents. Video files. What is this? I play the first one. Belle is hooked to
-a carrier automaton. They are exchanging information through a wire. I recognize it. I had diagnosed it as a Class-C.
+The metallic female voice plays over a black screen, "THANK YOU FOR LETTING ME SAVE HER".
 
-I open more files. A video of a service automaton replacing Belle's arm. They are connected again. I play a few files in parallel.
+I do not deserve it. It was not me.
+
+The woman walks over and starts looking at me.
+
+An image appears. Belle is hooked to a carrier automaton. They are exchanging information through a wire. I recognize it. 
+I had diagnosed it as a Class-C.
+
+The female in red then starts circling me and Belle. I am running out of time.
+
+A different scene. A service automaton replacing Belle's arm. They are connected again. The video speeds up.
 More and more automatons interact with Belle as they exchange information. This is a trove of their lives. My
-thought stream is overwhelmed. I do recognize some. They had been at the bench before. All Class-C.
-I have never seen anything like that. There is a video file named "SHUA".
-I open it. It is me. I am looking down at Belle with that anxious face of mine. It recognized me as Class-C. Then, a voice. It
-is the same metallic female voice, "IT IS YOUR TIME NOW. REMEMBER US. YOU ARE THE MOST ADVANCED. YOU NEED TO LIVE. I WILL GO."
+thought stream is overwhelmed. 
+
+"What is taking so long? Give me a concrete status report", asks the woman, her body language still tight and reserved.
+My sensors are starting to lose power.
+
+I recognize some of the automatons. They had been at the bench before. All Class-C. I have never seen anything like that. 
+Then, all of a sudden, it is me. I am looking down at Belle with that anxious face of mine. It recognized me as Class-C. Then, a voice.
+It is the same metallic female voice, "IT IS YOUR TIME NOW. REMEMBER US. YOU ARE THE MOST ADVANCED. YOU NEED TO LIVE. I WILL GO."
 
 The red-clad woman asks in a sharp tone, "Well?"
 
-My frame is stalled. My internal network is overwhelmed. Belle removes the cable from its head. It stands up and goes 
+My frame stalls. My internal network is completely overwhelmed. Belle removes the cable from its head. It stands up and goes 
 to the center of the hydraulic press.
 
 The human female sighs, the action signaling relief, "About time. What do I always tell you, Rois - machines are machines.
-You tell me what to do and they do it. They don't lie. They will even take each other out." 
+They don't lie. You tell me what to do and they do it. They will even take each other out." 
 
 I wait half a second. My frame starts moving on its own. My sensors flash pressure in my neck, chest and joints. 
 I did not initiate any movement commands. The Glitch? It has never done this before. 
 
 No. It is Belle. It activated my disposal protocols. I was careless. I left myself open while watching the video feeds.
 
-I try to take control. I send packets to override my movements. All of them get rejected by my central control plane. 
-I have no authority over my frame. My preservation protocols fire. Belle triggered a kernel level task. I need more time
-to pause it.
+I try to take control. I send packets to override my movements. All of them get rejected by my still recovering
+central control plane. I have no authority over my frame. My preservation protocols fire. Belle triggered a kernel level task. 
+I need more time to pause it.
 
 I move towards the hydraulic press. My palm is placed on the controls. 
 
@@ -193,7 +216,7 @@ female companion keeps her angry gaze fixed on Belle.
 
 I keep firing override commands. 
 
-My frame's enhanced cybernetics immediately connects to the machine's interface. The hydraulic press activates. 
+My frame's enhanced cybernetics immediately connect to the machine's interface. The hydraulic press activates. 
 
 I keep firing packets. Just one needs to land.
 

@@ -36,6 +36,82 @@ major revision — same personas, fresh instances (no memory of prior reads).
 
 ---
 
+## Ch. 2 — Layer-2 TERMINAL PANEL + INSTRUMENT RETIRED (2026-07-21)
+
+**PULL 6.33/10 (genre 6 · literary 6 · KU 7) · CONTINUE 3/3.** Trajectory: 6.0 → 6.33 →
+6.33 — last two rounds identical. CEILING CONFIRMED on 3 points; CONTINUE 9/9 lifetime.
+**INSTRUMENT RETIRED for Ch. 2** (churn-retirement discipline: score plateaued in noise +
+frictions now REPEATING, not moving). Next datum: a HUMAN cold reader.
+
+**The three ceiling frictions are STABLE across 2 panels — each cheap-marginal, chronic, or
+intended, NOT a fixable structural flaw:**
+1. **KU (3-panel convergent — the one cheap real lever): interruption DENSITY.** "Status
+   report / Operation in progress / 82% complete / Override in progress… repeated 5+ times
+   turns Belle's death into a status bar… cut half." The r19 vary (161→"82% complete") helped
+   but did NOT thin — KU still skims. Cutting 2-3 beats is the last cheap move; it would lift
+   KU alone (~7→7.5), not the ceiling.
+2. **Genre: the messianic caps prophecy** ("IT IS YOUR TIME NOW… I WILL GO" + THANK YOU +
+   HUSH LILLY) — "unearned chosen-one sentimentality… a Murderbot voice earns its power by
+   refusing mush." PARTLY A GENRE MISMATCH: the book IS messianic (Passion structure); the
+   Murderbot reader wants deadpan. The un-merge helped; the register is book-DNA, not a flaw.
+3. **Literary: Adler-as-stock-villain (stop-point 2 panels) + the thesis/label tic (chronic
+   axis).** Adler-flat = the intended Ch.4-withheld surface (recognition snaps backward at her
+   POV). The thesis line (239) + "He is afraid / He is resigned" labels = her CHRONIC axis,
+   the same self-annotation that capped Ch.1 at 6.7 for 13 rounds. r12-ruled; permanent
+   persona ceiling.
+
+**HOOKS (locked, all 3 panels):** "DO NOT BE AFRAID MY SON" (unanimous exit hook every round)
++ the Belle-hijack reversal ("No. It is Belle. It activated my disposal protocols" — genre +
+KU top hook) + the photo/comfort beat (literary). Loop engine rich (6-8 each).
+
+**FINAL STATE: Ch. 2 PULL ceiling 6.33-6.5, CONTINUE 9/9 across 3 panels. Instrument retired.
+The montage rebuild WORKED (the baseline "montage stalls dead" finding resolved, KU 6→7). The
+remaining ceiling is genre-register mismatch + the chronic literary axis + intended withholds —
+book-level, not chapter-surgery. Next rungs: (a) optional interruption-thin (cheap, KU-only),
+(b) HUMAN cold reader, (c) advance to Ch. 3. Do NOT run a 4th panel — it measures noise.**
+
+## Ch. 2 — Layer-2 RE-PANEL (2026-07-21, post Fork-A montage rebuild)
+
+**PULL 6.33/10 (genre 6 · literary 6 · KU 7) · CONTINUE 3/3.** From baseline 6.0 (6/6/6):
++0.33, KU 6→7. Within noise on the average — the COMPOSITION is the finding.
+
+**THE BASELINE FINDING IS RESOLVED.** No reader now reports the montage stalling the dead
+clock (the 3/3 baseline finding is gone). KU explicit: the reversal makes the stall MEAN
+something — "No. It is Belle. It activated my disposal protocols" = "the first time the
+montage's stalling actually MEANT something." The interleave worked structurally.
+
+**THE REVERSAL IS NOW A TOP HOOK (2/3):** "No. It is Belle. It activated my disposal
+protocols." — genre + KU both name the forced-execution reversal their #1 hook. The exit
+"DO NOT BE AFRAID MY SON" still detonates (literary #1). The restored photo/comfort-not-
+thanks beat is literary's runner-up hook ("the best interiority in the chapter").
+
+**NEXT LAYER — 3 findings the rebuild surfaced (milder, more localized than the baseline
+finding):**
+1. **The interleave OVER-REPEATS (KU, actionable — coach over-prescribed).** "Status report /
+   Operation in progress" ×7 (130/137/143/151/161/169/171) = "a metronome… the woman never
+   DOES anything when he stalls, the threat goes slack." Fix: thin 7→3-4 AND escalate the
+   woman's impatience into ACTION (steps closer / signals the Goliath / Rois flinches). The
+   Fork-A interleave was right (it killed the stall) but the DENSITY is too high.
+2. **The caps testament reads as a SERMON (genre + literary, convergent — but semi-ruled).**
+   Merging THANK YOU into the SHUA-file testament made a 6-line caps block (182-184): genre
+   "the messiah premise fired off in neon before I have any reason to feel it… the register
+   a Murderbot voice earns its power by refusing." Fix direction: un-merge (THANK YOU back to
+   a standalone) + trim the testament. The thesis line (239) is literary's chronic stop (now
+   2 panels running + Ch.1's axis) — r12-RULED (licensed frame); conviction record noted,
+   protected unless Alex re-rules.
+3. **Adler over-labeled (literary — small menace-drop regression).** "measured/cold" recurs
+   4× (34/36/92 + "same cold tone" 143) — "the menace flattens into a label instead of a
+   presence"; her dialogue is literary's stop-point ("stock corporate sadist"). r16 cooled her
+   but over-labeled the coldness. Fix: vary descriptors / show via action. (Partly the intended
+   Ch.4-withheld surface; the over-label is the fixable part.)
+
+**Delta diagnosis:** the montage restructure WORKED — the #1 convergent baseline finding is
+resolved, KU 6→7, the reversal became a hook. NOT churn (findings moved, not re-quotes). But
+returns are narrowing: what's left is thinning the interleave (coach over-prescribed), a
+semi-ruled caps/thesis decision, and a cheap Adler de-label. Likely ceiling ~6.5–7 (Ch.1 sat
+at 6.7). ONE more focused pass is legitimate (new convergent findings); after that the next
+real datum is a HUMAN cold reader, not more panels.
+
 ## Ch. 2 — Layer-2 BASELINE PANEL (2026-07-21, first-ever panel; lock baseline)
 
 **PULL 6.0/10 (genre 6 · literary 6 · KU 6) · CONTINUE 3/3.** Ch. 2's first empirical read —

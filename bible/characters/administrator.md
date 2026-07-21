@@ -92,8 +92,12 @@ uses his name.)
 - The punch (Rois, open hand of the Establishment's pressure rolling downhill); "Are
   you done robot?" — she talks AT machines like tools when annoyed.
 - She ordered the recycle-area cameras OFF for the disposal ("She must have allowed
-  this display"); Shua SUSPECTS she runs a private recording of it — truth ruled at
-  Ch. 4 packet build (candidate mechanism for the splinter and the Ch. 9 file).
+  this display"), leaving the PUBLIC feed a deliberate gap; Shua SUSPECTS she runs a
+  private recording of it (Ch. 2 line 49). **RULED (2026-07-20): the private tape is
+  CANON** — it is the Ch. 9 document and the splinter (her re-watching it), and the
+  footage she preserves in Book 3 (the keeper-of-the-testament burial; her locked arc).
+  The public camera-gap is the TELL that points at the tape. Only the leak's motive/
+  timing stays open (Ch. 4 packet; rec: deliberate — a hack would steal her one free act).
 - Downstream re-staging owed: Ch. 4 (the architect's interiority must reconcile the
   brutality — operator rigor + violent enforcement), Ch. 6 (a brutal woman coming
   alone by night to TALK is more transgressive, not less), Ch. 12 (the woman who

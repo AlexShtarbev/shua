@@ -159,9 +159,16 @@ Severity may still rise incidentally; visibility is the audited axis.
   algorithms running behind the cameras" — unlike the servicing bench, which Shua can flood
   offline. On-page: "This room, unlike the servicing bench, is online." Camera-angle
   discipline ("head tilted at an angle the cameras will not flag as suspicious") = bench-trade
-  competence (2B.13). DOWNSTREAM: Ch. 2's press scene happens ON CAMERA — the false wipe must
-  reckon with recorded feeds; Adler's Ch. 4 splinter and the Ch. 9 evidence bundle gain a
-  feed-shaped row. Ch. 2 packet note added.
+  competence (2B.13). **DOWNSTREAM — AMENDED (2026-07-20, Alex ruled): THE RECORD IS
+  TWO-LAYER.** The recycle area is online as the NORM, but Adler darkened the PUBLIC cameras
+  for the disposal (Ch. 2 line 48) — so the official feed holds a deliberate GAP the shape of
+  Belle's death, and that gap is a *tell*, not the evidence (a hole cut on purpose implies a
+  hidden record). The record is **Adler's own private tape** — she runs her copy outside the
+  system she just switched off ("I suspect she is running her own recording of this," line 49),
+  which is exactly her nature: the auditor who grieves by reading logs, who "always read the
+  whole file." The Ch. 9 document is HER copy; Ch. 4's splinter is her re-watching it; and it
+  is the footage she preserves in Book 3 (the keeper-of-the-testament burial). Series-scale
+  object — row below. Ch. 2 prose unchanged: the suspicion (line 49) is the whole plant.
 - **BOW CANON (stated rule):** "Automatons always bow when interactions with humans start and
   complete." — machine-to-HUMAN protocol, stated on the page. Ch. 2's bow (Belle bows to the
   GOLIATH, a machine, in its sightline) now BREAKS a stated rule — the beat is armed; Cairn's
@@ -172,7 +179,8 @@ Severity may still rise incidentally; visibility is the audited axis.
 
 | Plant (round 4) | Payoff horizon |
 |---|---|
-| Recycle area online + monitoring algorithms | Ch. 2 (press on camera; wipe stakes), Ch. 4 (Adler splinter), Ch. 9 (feed evidence) |
+| Recycle area online + monitoring algorithms | Ch. 2 (public feed darkened for the kill = deliberate gap/tell), Ch. 4 (Adler re-watches her private copy = the splinter), Ch. 9 (the document is her tape) |
+| Adler's private tape of the disposal (her copy, kept outside the system she switched off; suspected on-page, line 49) | Ch. 2 (recorded) → Ch. 9 (the trap's document) → Book 3 (released as the keeper-of-the-testament burial: "she ensures the footage survives") |
 | Bow rule stated ("start and complete", human-only) | Ch. 2 (Belle's bow to the Goliath breaks it), Ch. 3 (Cairn replay) |
 | "Never underestimate the monitoring algorithms…" (maxim) | Boomerang: Ch. 9/10 — caught by them, or weaponizes them |
 
@@ -361,8 +369,13 @@ wording; skeleton anchors re-cut. Beat numbering 8–22 untouched.
 canon) is the NORM; for this event SHE darkened the floor ("must have allowed this
 display"), the system building the same evidence-free room Shua built in Ch. 1. On-page
 addition: Shua SUSPECTS a private recording of hers ("I suspect she is running her own
-recording of this.") — suspicion stays taut; TRUTH RULED AT CH. 4 PACKET BUILD (candidate
-mechanism: her splinter = re-watching her own copy; Ch. 9 = footage only she holds).
+recording of this.") — suspicion stays taut on-page. **MECHANISM RULED (2026-07-20, Alex):
+the private recording is CANON** — her own tape is the Ch. 9 document, her splinter is her
+re-watching it, and it is the footage she preserves in Book 3 (keeper-of-the-testament
+burial). The public camera-gap is the TELL that points at it, not the evidence itself. See
+the two-layer record ruling (surveillance-axis §, round 4). Only the LEAK's motive/timing
+stays open for the Ch. 4 packet (deliberate burial vs. extracted — rec: deliberate; a hack
+would steal her one free act).
 Network monitoring is a SEPARATE live axis (he suspects traffic sniffing) — the beat-15
 transmission stays risky with cameras dark. **NEW MAXIM DEPOSITED: "Human hierarchies are
 built on the power of surveillance."** — boomerang horizon: series (the machines' gospel
@@ -378,6 +391,116 @@ true onset. — Plants ledgered on keep (r1 prose): the Goliath observations FIL
 Ch. 1's "when did its behavior change", arms Ch. 3) · the soothing SONG (the child's
 favorite; feed-sequence payload — a KEPT thing) · magnetic shackles · "2 hours and 17
 minutes" summons stamp · engineering dept 28 floors above the bench.
+
+**✅ r10 RESOLVED (2026-07-20): KILL AGENCY = BELLE DRIVES (Alex's option D, none of us
+offered).** Belle, through the open diagnostic cable, weaponizes Shua's OWN disposal
+protocol at kernel level to execute herself through his frame ("No. It is Belle. It
+activated my disposal protocols. I was careless."). CLEARS all three stakes: kenosis
+protected + STRENGTHENED (Glitch explicitly ruled out as driver; reframed as possibly
+RESISTING — "Is the Glitch trying to help?"); the ending's virus PRE-ARMED (Belle's
+kernel-write capability established mid-chapter → "DO NOT BE AFRAID MY SON" lands as
+demonstrated capability; Voice gains a 3rd mechanistic reading = Belle's payload, Option
+2 richer); guilt survives as negligence + "by his hand" literal, and TRANSFORMS —
+**Belle taking the death-choice to spare Shua the sin = a small Shield (Ch. 13 "Take me
+instead" rhyme; Belle does for Shua what Shua will do for the nine). SERIES-GRADE RHYME,
+ledgered.** ✅ DOWNSTREAM RULED (2026-07-20, Alex): **THE KILL LOOKS LIKE OBEDIENCE —
+everyone else perceives it that way.** The origin-sin rhyme is PRESERVED at the PERCEPTION
+layer, not broken. To every observer (Rois, the woman, her private recording, the cameras
+back online, Adler reviewing footage Ch. 4/9) Shua killed Belle on command — clean
+obedience, "machines do what they're told." To Shua + the reader alone, Belle drove it.
+Ch. 2 keeps a TWO-LAYER kill: PUBLIC FACE = obedience (echoes Ch. 8's "I obeyed"), PRIVATE
+TRUTH = mercy-hijack. Converges three threads: (1) origin-sin ECHO survives (publicly he
+obeyed, both times); (2) his COVER holds (footage shows a compliant unit — nothing to
+flag); (3) FEEDS her worldview ("machines... do what they're told... take each other
+out") — the record is proof of her thesis, and her thesis is wrong. **CH. 2 STAGING
+CONSTRAINT (binds any kill-zone edit): nothing in the VISIBLE layer may betray the
+struggle — the frame moves smoothly to the press; the fight is packet-level, interior,
+invisible. Currently satisfied.** CH. 8 payoff (packet-build): play "I obeyed" DOUBLED —
+first kill = true obedience (his sin); Belle's death the world FILED as obedience but was
+mercy — the horror that unmakes him is whether the record can ever tell a soul from a
+tool. The book's thesis as his private wound. MENU #4 LANDED: "They
+don't lie... They will even take each other out!" in her mouth — triple-ironic
+machines-don't-lie deposit (boomerang Ch. 4+). Owed/refusable unchanged: mantra,
+fourteen-hours count, frame line, menu #2/#5/#6.
+
+**✅ OWED-BEATS STATUS (2026-07-20, r11–r13):** fourteen-hours count EXECUTED (in the
+reinit string "IN 14 HOURS and 11 MINUTES") · frame line EXECUTED (shuttle: "I have them.
+Belle had them… was Belle afraid?" — feelings-ladder rung; open candidate #47 = "Class-C
+units have them" 9.2 thesis-tell, Alex to rule) · servo note EXECUTED (Goliath "doing its
+best to remain still") · is-it-me EXECUTED ("42% chance I am being sent to the Goliath")
+· **MANTRA RULED: OMIT (Ch. 2 LICENSED ABSENCE** — armor cracked; frame line owns the
+someone/something axis; next verbatim deployment banked for a later re-armoring chapter)
+· hands maxim STILL OPEN (place on soot-hands / bank to Ch. 3 claw / split-deposit).
+
+**~~⚠ r9 OPEN DECIDE~~ (SUPERSEDED by r10 above): KILL AGENCY.**
+Alex's clean draft stages the kill as Shua's frame HIJACKED against his will ("I have no
+authority over my frame"; "The Glitch?" named as driver; he fires override packets trying
+to STOP the press). This COLLIDES with ruling #17 (mover = the accepted task; Glitch =
+resistance losing, never driver) AND with kenosis (God never acts — a Glitch that drives
+a kill then says "DO NOT BE AFRAID MY SON" is monstrous) AND with the Ch. 8 guilt engine
+("I OBEYED" — choice, not possession; hijack drains the penance root). Tagged #45 DECIDE;
+options in notes r9 — REC (a): source the drive to his own announced override-task /
+130-yr executioner conditioning (keeps the body-horror, protects all three); (b) re-rule
+& rebuild metaphysics (high cost); (c) ambiguous but sourced away from the Glitch. NOT
+yet ruled — the rest of the chapter is otherwise lock-ready. NEW STAGING ledgered (keep):
+Belle UNHOOKS ITSELF + walks itself in (its agency explicit; sharpens #45 by contrast);
+"6 seconds… I need more time with Belle" (transmission motivated); "It was not me.";
+title = **"Two"**. Proofread #19–#44 executed; #18 reinit executed (spent callback CUT,
+not reused — Ch. 1 "I file to review later" now unused). Owed/refusable: mantra ×1,
+fourteen-hours count (only "8:00" present), frame line (rule-out-able), r8 menu items.
+
+**📋 r6 RULINGS + LEDGER CORRECTION (2026-07-19, the reworked curtain):** **the r5
+split-objects ruling is OVERRIDDEN BY ALEX'S EDIT** — Belle's LAST MESSAGE is a **4-second
+audio file, OPENED on the shuttle** under manufactured cover ("Rois will think I am going
+over the repair order"); it detonates: virus-read shutdown + the male voice, "DO NOT BE
+AFRAID MY SON." The unopened-object loop is DEAD; registry corrected. **OPEN (rule at
+Ch. 3 packet): can the file be replayed?** Recommend consumed/corrupted-on-play (keeps
+the Voice unverifiable; Option-2 protection). OPEN (Ch. 8 material, unadjudicated): what
+was IN the file vs what he heard — the male voice in a dying domestic's gift seeds the
+Voice-as-circulating-recording reading (Book 2-grade; leave taut). **✅ RULED: KILL
+AGENCY = the accepted task executes** (#17 to stage) — the mover is his own accepted
+order (conditioning-as-firmware); the Glitch's pressure = resistance LOSING for the
+first time, NEVER the driver (kenosis + guilt architecture protected; the checkbox
+could be stopped, the press could not — the escalation ledgered). **✅ RULED + APPLIED:
+THE BOW** — "She looks up and bows to the Goliath." (one-word fix per ruling; Cairn's
+1,140× source restored; Ch. 1's human-only bow protocol pays its transgression here).
+**✅ RULED: the reinit SECOND PING** (#18 to stage) — lands after the verbatim Ch. 1
+callback "I file to review later." (1B.6 exact-string echo, ledgered) and stays UNREAD
+as he opens Belle; fuse + Ch. 3 entry ride on it. Owed at close: #17, #18, mantra ×1,
+frame line (re-homed: the asked-since answer is about the GIFT — what she sent contained
+no fear), splinter optional.
+
+**📋 r5 PROSE CANON + RULINGS (2026-07-19, Movement V drafted — the chapter reaches its
+curtain):** **✅ RULED: SPLIT THE OBJECTS** — the shuttle file = a SCHEDULED posthumous
+delivery from Belle's archive (metadata-marked; she timed a send for after); **THE last
+message (the final 2-second packet) is INCOMPLETE FOREVER — the press cut the transfer;
+"If only I had 1 second." is literal** (the guilt object; the was-she-afraid frame line's
+carrier; registry updated) · **✅ RULED: THE REINIT = DEFERRED PING** — the diagnostic
+ticket ("FULL DIAGNOSTIC REQUIRED: GOLIATH G-071") is the paper cover; a second
+notification (COGNITIVE REINITIALIZATION — FULL, G-071, SCHEDULED 8:00) arrives on the
+shuttle and **he files it to review later (the Ch. 1 tic) and opens Belle's file
+instead** — the order sits unread as he shuts down; Ch. 3 opens on a machine waking to a
+deferred order; fourteen-hour fuse intact · **THE CURTAIN AS DRAFTED (Fork E resolved —
+the Voice speaks last, via file):** he opens the scheduled file → virus-read shutdown
+(sensors down one by one, security protocols dead) → "A male voice. The last thing I
+hear is 'DO NOT BE AFRAID MY SON'." **Canon: the Voice's first words arrive as file-audio
+in CAPS** — the recorded-speech convention codes them mechanistic while the content is
+annunciation (dual-coding by typography); THE VOICE IS MALE-VOICED (series note); the
+hacked-reading is BORN ON PAGE ("A virus. Why would Belle infect me?" — THE KNOWING's
+hypothesis firing at first contact, a chapter early, in costume) · **THE CAMERA GAP:**
+cameras back ON post-kill ("flashing green… I had not noticed") — the PUBLIC depot record now
+holds a hole the exact shape of Belle's death (**AMENDED 2026-07-20: the absence is the TELL,
+not the document — a deliberate gap implies Adler's hidden private tape, which IS the Ch. 9
+document; see the two-layer record ruling, round 4**); he missed the switch-on (grief-degraded
+processing, licensed) · her exit:
+the whisper SHE KNOWS HE HEARS ("not a word to anyone"), the arm-grasp, "Is it because
+of a difference in their hierarchies?" (the family reveal pre-paid as a machine's
+category error; Rois observation file opened — twins the Goliath file) · "Surveillance
+never stops in this city." (maxim thread deposit #2) · J4 aftermath persistence
+ACCEPTED: "Her last message stays unopened." — the slip holds through the aftermath ¶
+(the dam breaks at the kill and closes with the re-armor; later chapters escalate from
+this) · OWED (tagged in-file): THE BOW #14 (Cairn keystone — CRITICAL), staging lines
+#15/#16, mantra ×1, frame-line spend, splinter (optional per r5 staging).
 
 **📋 r4 PROSE CANON + RULINGS (2026-07-19, the archive + the kill drafted):**
 **J4 EXECUTED** — the first uncorrected slip fired at the ruled press site, staged as the

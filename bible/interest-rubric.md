@@ -36,6 +36,104 @@ major revision — same personas, fresh instances (no memory of prior reads).
 
 ---
 
+## Ch. 2 — Layer-2 BASELINE PANEL (2026-07-21, first-ever panel; lock baseline)
+
+**PULL 6.0/10 (genre 6 · literary 6 · KU 6) · CONTINUE 3/3.** Ch. 2's first empirical read —
+the tightest convergence the instrument has produced (unanimous on every axis).
+
+**THE finding — CONVERGENT 3/3, same zone: the feed/memory montage (lines ~120–167).** Ground
+truth confirms the ledgered soft axis (causality-1, the enumerative feed connectives):
+- **KU stop-point:** "Then I receive a video. I play it. Darkness…" — skimmed ~120–167 to "IT
+  IS YOUR TIME NOW." "A list… the emotion doesn't build, it accumulates… it stalls the live
+  scene dead" (Belle about to be crushed, Rois asking "Is it done").
+- **Genre stop-point:** the montage — "clip reel," "emotion arrives as inventory rather than
+  pressure… kills the ticking-clock tension." Rec: "cut to a third, keep the fire rescue +
+  'THANK YOU FOR LETTING ME SAVE HER,' let Shua stay dry."
+- **Literary:** "the montage genuinely moved me, and then the prose insists on captioning it."
+Fix (all three converge): COMPRESS the "Another video" frames (7→3–4) + INTERLEAVE the live
+press-clock UNDER the feed (never stop the scene) + VARY connectives from enumerative to
+state-tracking. KEEP the payloads. This is the exact §causality-1 fix the rubric named at r7
+("let the connectives track his state; 'I play videos in parallel.' = the model") — now
+empirically mandated, not self-diagnosed.
+
+**HOOKS that landed (protect):**
+- Exit "DO NOT BE AFRAID MY SON" — unanimous #1 hook (genre + KU); literary "the bigger
+  cliffhanger." Exit-hook-2 self-score confirmed by ground truth.
+- The photo-of-himself beat ("Not to thank me, but to comfort me") — **LITERARY reader's #1
+  hook** ("the truer moment… the move I read this kind of book for"). The dials-9/relatability
+  fix is CONFIRMED load-bearing by the exact persona who bounced on Ch. 1's relatability.
+- Genre runner-up: the forced-execution mechanic ("I keep firing packets. Just one needs to
+  land."). Loop engine rich: 5–7 live loops each.
+
+**Secondary (LITERARY only, single-instance, semi-ruled — candidate, NOT a finding):** her
+stop was the frame line (239, "Automatons have thought processes… I have them. Belle had
+them.") — read as thesis flattening the earned photo beat. Chronic literary axis (Ch. 1's
+self-annotation cap, the 6→8 gap); the frame line is r12-RULED (licensed testimony frame,
+§9.3 exc) + load-bearing, and genre/KU did NOT flag it. Do not slash; her pattern-point
+(caption-after-earned-beat) folds into the montage de-caption. Watch, don't gut.
+
+**Two verifications (both PASS):** (1) the r16 menace-drop rework drew ZERO friction — Adler
+read as controlled-cold in all three; the external reader's "cartoon menace" #1 wobble is
+RESOLVED. (2) ZERO copy-noise friction in any read — the surface sweep held; Ch. 2 does NOT
+carry Ch. 1's baseline handicap (Ch. 1 paneled 5.3 capped by copy noise).
+
+**Delta diagnosis (Layer-1 23/24 vs PULL 6.0, CONTINUE 3/3):** built-high, structure sells AND
+continues, capped by ONE convergent structural lever (the montage stalling the clock) — same
+quadrant as Ch. 1 (self-scored 20–23, paneled 5.3→6.7), NOT the polished-but-inert quadrant
+(3/3 continue = the engine pulls). Path to 7–8: the montage restructure (one focused rebuild —
+compress + interleave the clock + vary connectives), THEN re-panel. Do NOT re-panel on line
+tweaks — the montage is the one structural round that earns a re-measure.
+
+## Ch. 2 — Layer-1 update (2026-07-19 evening, SELF-SCORE, chapter ~whole at 2,913 w)
+
+**23/24** (from 22): **exit hook 1 → 2** — the curtain drafted (cover-lie → the 4-second
+file → shutdown cascade → "DO NOT BE AFRAID MY SON", ending mid-blackout; Fork E: the
+Voice speaks last). Causality holds at 1 (feed connectives — the one standing revision
+cue). Drift-guard: self-score; the r7 proofread list (notes file) is the same surface
+class that capped Ch. 1's panel at 5.3 — **sequence: Alex's proofread pass + owed beats
+(#17 #18, mantra, frame line) → strip anchors → PANEL as lock baseline.** Both
+instruments (vitals in-band, Layer-1 23/24) now read lock-candidate; the panel certifies
+or corrects.
+
+## Ch. 2 — Layer-1 baseline (2026-07-19, SELF-SCORE, partial draft: Movements I–IV, ~2,450 w; Movement V undrafted)
+
+**Layer 1 — craft: 22/24.** (Self-score; drift-guard applied — "built more interesting;
+panel to confirm." NO panel run: chapter incomplete + anchor blocks in-file = the
+eager-grader trap.)
+
+Hook latency 2 (Furnace crackle + watchers-over-Belle inside ~50 words, arriving off the
+Ch. 1 stinger) · loops 2 (7+ live: the unnamed woman, her private recording, WHO reported
+(the old man), the SHUA file / how long watched, the UNOPENED LAST PACKET, the Goliath's
+fate, the Glitch's about-to-break silence) · value turns 2 (technician→executioner ·
+hero→pulverized · supervisor→beaten · hidden-crime→thanked-for-it · alone→already-watched)
+· **causality 1** (outer spine pure therefore/but; the feed's connective tissue is
+enumerative — "Another video. One more file. Another recording." — and-then grammar
+inside an escalating sequence; fix identified: let the connectives track his state, the
+"I play videos in parallel." acceleration is the model) · yes-but 2 (truth indicts his
+own filing; the lie transfers the kill to him; compliance delivers her life into him
+first) · promise 2 (Ch. 1's bill paid in full; reinit + the Voice repromised) · stakes 2
+(his knife-edge + Rois threatened aloud + "YOU NEED TO LIVE") · dilemma 2 (refuse = die
+with her and the Goliath flags anyway; comply = kill the one he saved — performed as
+procedure) · **dials 2 — Ch. 1's weak axis FIXED** (Relatable now carried by the photo
+beat, "Anxiety.", "I do not deserve it." — the literary reader's axis, structurally
+addressed) · **exit hook 1** (page ends "gives me instructions to follow him" — no hook
+BECAUSE Movement V is undrafted; the designed curtain (quiet order → fourteen hours →
+"Do not be afraid, my son.") is a 2 waiting to be written) · dual reading 2 (the
+cover-override: choice costumed as compulsion; lag-vs-eternity; the slip; quotables:
+THANK YOU FOR LETTING ME SAVE HER, the surveillance maxim) · freshness 2 (vs Ch. 1's 1:
+the differentiators land fast and stack — the punch, the billing-wound antagonist, the
+unopened packet, the SHUA file, she-walks-herself).
+
+**Movement vs Ch. 1 baseline: 20 → 22**, and both soft axes have named fixes (feed
+connectives = revision cue; exit hook = Movement V, already designed). **Delta-to-vitals:
+vitals in band + Layer-1 high = lock-candidate trajectory** — with the Ch. 1 calibration
+warning attached: Ch. 1 also scored 20 and PANELED at 5.3 because surface noise capped
+it. Ch. 2's surface is first-draft rough in the same ways (settling prose, idiom slips);
+predict the same quadrant (structure sells, surface drags) if paneled today. Sequence:
+finish Movement V → Alex's self-pass → THEN panel as the lock baseline.
+
+---
+
 ## Ch. 1 baseline (2026-07-12, at lock)
 
 **Layer 1 — craft: 20/24.**

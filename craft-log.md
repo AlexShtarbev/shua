@@ -160,6 +160,232 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   on every instrument that still has authority. Panel retired (16 rounds); next "go again"
   without new prose = delta-§7 escalation or CLEAN-and-stop. STANDING NEXT: commit + push
   (many rounds uncommitted!) → human cold reader → Ch. 2 drafting.
+- 2026-07-21 (Ch. 2 r17 — FIRST PANEL, lock baseline, conducted): **PULL 6.0 (genre 6 ·
+  literary 6 · KU 6) · CONTINUE 3/3** — Ch. 2's first-ever Layer-2 read, tightest 3-reader
+  convergence the instrument has produced. Rubric baseline entry written. THE FINDING
+  (convergent 3/3, same zone): the feed/memory montage (~120-167) — ground truth CONFIRMS the
+  ledgered causality-1 soft axis. KU + genre stop-points both the montage ("a list… the
+  emotion accumulates instead of building," "clip reel… kills the ticking-clock tension"); it
+  stalls the live scene (Belle mid-crush, Rois's "Is it done"). All three said KEEP the
+  payloads (photo beat, fire rescue, "THANK YOU FOR LETTING ME SAVE HER"). RULED (Alex):
+  **Fork A — interleave the clock** (thread the live scene between 3-4 clips + drop "Another
+  video" frame-tags + vary connectives to track accelerating overwhelm; the r7-modeled "I play
+  videos in parallel" fix, now empirically mandated). Fork A packet written to notes r17 (beats
+  + clock-cues, no prose — §10.3). HOOKS LANDED (protect): exit "DO NOT BE AFRAID MY SON"
+  unanimous #1 (genre+KU); the photo beat ("Not to thank me, but to comfort me") = LITERARY's
+  #1 hook — the dials-9/relatability fix CONFIRMED by the exact persona who bounced on Ch. 1.
+  Loop engine rich (5-7 each). SECONDARY (literary only, single-instance, semi-ruled): frame
+  line 239 as thesis — chronic axis (Ch. 1's 6→8 self-annotation gap), r12-ruled + load-
+  bearing, genre/KU silent → watch, don't gut; folds into the montage de-caption. TWO
+  VERIFICATIONS PASS: (1) r16 menace-drop rework drew ZERO friction — Adler reads controlled-
+  cold, the "cartoon menace" wobble RESOLVED; (2) ZERO copy-noise in any read — the sweep
+  held, Ch. 2 carries no Ch.1-style surface handicap. DELTA: built-high + 6.0/3-of-3 =
+  structure sells AND continues, one structural lever caps it (same quadrant Ch. 1 climbed
+  5.3→6.7); NOT inert. Path to 7-8: the Fork A rebuild → re-panel (do NOT re-panel on line
+  tweaks). STANDING NEXT: Alex rebuilds the montage (Fork A packet, notes r17) → re-panel as
+  the new baseline. Committed this session (r5→r17 catch-up + canon + ledgers).
+- 2026-07-20 (Ch. 2 r16 — menace-drop delta + surface sweep, conducted): Phase-0 caught a
+  fresh edit wave (3,191→3,207 w). Alex executed the external-criticism levers HIS way and by
+  his OWN menace-drop law: counter-order flattened ("Take the domestic and dispose of it. Not
+  a trace left." — cut "Completely!/Understood?"), the "Look at me"/placid-stare/3-sec-
+  silence/isolated-Thwack staging, bureaucratic "yearly report" threat replacing "absolute
+  shite!", "calm and distant. Almost as if she speaks to an automaton." Decorative 78%
+  cut (line 10); the is-it-me 42% also pulled (line 5 → qualitative — flagged: softened a
+  ruled load-bearing beat, register decision left OPEN). Vitals: long-punch 32.8 HIGH→29.7 in
+  band (the rework rebalanced it). 9 settling typos fixed direct (incl. the "42%checked"
+  broken token) + vocative-comma sweep ×7 + line-160 quote punct — surface now clean.
+  "seamlessly" RULED by Alex: swapped to "immediately connects" (line 196; one subject-verb
+  wobble noted, "cybernetics… connects"→"connect", refusable). Still open: hands maxim,
+  is-it-me register.
+- 2026-07-20 (Ch. 2 r15 — conducted "go again": passage-logic escalation + a canon
+  ruling): DOORSTEP HELD. Escalated the instrument per go-again discipline — ran the Phase-3
+  claim-map audit (never run on Ch. 2's assembled form; the owed-beat insertions were the
+  risk) and it comes back CLEAN: dependency order sound, no orphan/duplicate frames (the feed
+  enumeration is the ledgered causality-1 refrain, §5-ruled; the Goliath's three stillness
+  beats ESCALATE a thread, not repeat one), referents machine-idiom, every interior question
+  deferred-to-loop or logged-to-file. Verified r13/r14 self-fixes held (underslept, "take
+  each other out"). Texture drift settled since r2: "Thought packets fire" ×3→×2 (signature,
+  parallel dread beats), "I nod to indicate/show" verb-varied ×2 (command-ack signature) —
+  NOT tagged. Interest self-score 23/24 HOLDS (owed beats reinforced dials/loops; no ceiling
+  move; causality the lone 1, ledgered + part-licensed) — built lock-candidate, panel to
+  confirm. Vitals re-confirmed r14 (median 7.0; one-¶ 28.3 / long-punch 32.8 / dialogue 15.3
+  all licensed). One low-conviction decide the passage pass surfaced, read as a WIN: "half a
+  second" (line 175, the frame-hijack) sits near the trained lie-tell (line 90) — the obedient
+  cadence turned against his own body; flagged for awareness, keep. NO anchors planted (window
+  clean for the panel). CANON — the cross-chapter ledger audit caught a real contradiction:
+  cascade said the Ch. 2 press was "ON CAMERA" (162/175) while r5 said "the absence IS the
+  document" (479). **RULED (Alex): THE RECORD IS TWO-LAYER** — the public feed is a deliberate
+  GAP (the TELL); Adler's private tape is the DOCUMENT (her nature: the auditor who grieves by
+  reading logs). Marries her locked Book-3 keeper-of-the-testament burial; one tape, three
+  lives (Ch. 2 recorded → Ch. 9 held → Bk 3 released). Ch. 2 prose UNCHANGED (line 49 is the
+  plant). Reconciled: cascade ×4 spots + administrator.md (candidate→ruled) + a series-scale
+  object row; leak motive/timing OPEN for the Ch. 4 packet (rec: deliberate — a hack would
+  steal her one free act). Verdict: still DOORSTEP — rule hands maxim + "seamlessly" →
+  typography end-sweep → panel as lock baseline. STANDING NEXT: commit (r5→r15 uncommitted
+  since 381003f).
+- 2026-07-20 (Ch. 2 r14 — post-edit verify, doorstep, conducted): both r13 word-choice flags
+  self-fixed — "overslept"→"underslept" (line 9, meaning restored) and the "comes out as a [X]"
+  tic (was 2×) not just de-duped but UPGRADED: line-173 became "They will even take each other
+  out!" (the chapter's cruelest dramatic irony — she asserts machines dispose of each other on
+  command in the same breath Belle CHOSE it) → voice bank. Vitals 3,191 w hold: median 7.0,
+  drift human-typical (CV 0.62), triads/parens/semis 0; one-¶ 28.3 & long-punch 32.8 HIGH but
+  licensed by the diagnostic-log operator voice; dialogue 15.3 LOW = expected interior-dominant
+  §2B. 5-grams (3) all exempt: "tears forming" (1B.6 callback, "again"), "I log this in my X
+  file" (voice-signature bookend), "robot hands pick her up" ×2 (feed-sequence gesture-refrain
+  → §5 CHOICE, feeds the hands motif). ONE line candidate offered (no anchor): "seamlessly"
+  (line 191) §9/§0.1 adverb — but live irony counter (the machine cooperating perfectly with
+  its own atrocity); Alex rules keep-as-irony/swap. Owed: hands maxim (OWED-6, best-sited yet on
+  line 27's burnt fingers; place/bank/split). Zero anchors planted — window kept clean for panel.
+  Verdict: doorstep; rule hands + seamlessly → typography sweep → strip → panel. STANDING NEXT:
+  commit (r5→r14 uncommitted since 381003f).
+- 2026-07-20 (Ch. 2 r13 — mantra-context question + 2 more owed beats, conducted): Alex flagged
+  "not sure about the mantra context" — CORRECT instinct. Diagnosed: the mantra ("perfect tool,
+  never malfunction" = the FLAW) and the just-drafted frame line ("I have feelings" = the FLAW
+  cracking) sit on the SAME axis (the NEED: someone-not-something) pulling OPPOSITE ways — Ch. 2
+  is where the crack starts, so the armor-mantra fights the chapter's own move. REC: OMIT
+  (licensed absence — precedent: old-line "Ch. 3 licensed absence"; the absence marks the armor
+  failing) + BANK the next verbatim deployment for a later chapter where re-armoring is the
+  point (device lives on scarcity; 2-in-2-chapters reads mechanical). Option (b) deploy-as-
+  failing-armor left open for the flinch-back-to-denial read (his Ch. 1 gratitude-arc shape).
+  Alex rules. **RULED same session: OMIT — Ch. 2 licensed absence; next deployment banked.**
+  Also executed this pass: OWED-5 is-it-me ✅ ("42% chance I am being sent to the
+  Goliath" — stake paid, statement-form, no questions-budget cost), OWED-4 servo note ✅ (Goliath
+  "doing its best to remain still" — kinship keystone, refusal given a body). Fixed typos direct
+  (Goliath, remain, inside it, the metal lining). Flagged word-choice: "heavily overslept"
+  inverts meaning (under-slept intended). Owed now: mantra (ruling), hands maxim; #47 frame-line
+  candidate still open. 4 of 6 owed beats now drafted.
+- 2026-07-20 (Ch. 2 r12 — 2 owed beats drafted, conducted): 3,145 w; vitals hold (median 7.0,
+  one-¶ 26.6 settling, questions 1/241). OWED-3 FRAME LINE ✅ ("One thing I am certain about
+  now… I wonder, was Belle afraid?") — testimony-frame beat + feelings-ladder rung (first plain
+  "I have them. Belle had them."); ONE candidate #47: "Class-C units have them" tips toward 9.2
+  thesis-tell — trim-to-personal / earn-on-archive / keep; strong counter (he just witnessed
+  the archive → evidence not doctrine); Alex rules. OWED-2 FOURTEEN-HOURS ✅ at number level
+  ("REINIT FULL G-071 IN 14 HOURS and 11 MINUTES" — Ch. 3 bridge-in safe; number in the system
+  string, not the interior paradox-wit, which was optional). Free strengthener noted: link the
+  frame line to the lost packet (26 lines apart, unconnected — the re-homed engine available).
+  Still owed (4/6, refusable): mantra, servo note, is-it-me, hands maxim. Format note: reinit
+  string mixed-case "and". No panel (owed beats + #47 open).
+- 2026-07-20 (Ch. 2 r11 — Ch. 8 ruling + owed-beat coaching expansion, per Alex): DOWNSTREAM
+  DECIDE RULED — **the kill LOOKS like obedience; everyone else perceives it that way** (origin-
+  sin rhyme preserved at the PERCEPTION layer, not broken: public face = obedience/echoes "I
+  obeyed" + holds his cover + feeds her machines-are-tools thesis which is wrong; private truth
+  = Belle drove it). Ch. 2 STAGING CONSTRAINT ledgered: nothing in the visible layer may betray
+  the struggle (currently satisfied — override-firing is interior). Ch. 8 payoff: play "I
+  obeyed" DOUBLED (true obedience then / world-filed-as-obedience-but-mercy now → the horror
+  that the record can't tell a soul from a tool = the book's thesis as his wound). Cascade
+  updated (flag → RULED). Then EXPANDED all six owed beats into full coaching entries (notes
+  r11): mantra (2B.3, site + 3 stagings + Ch.-3-bank counter), fourteen-hours count (2B.7/1C.3
+  paradox-wit, waking-not-math division of labor w/ Ch. 3), frame line (§8, re-homed to the
+  lost packet — its best-ever object — + rule-out path), servo note (2B/§4 kinship keystone,
+  §9.2 thesis-debate as the AI-tell), is-it-me clause (Ch. 1 stake payoff, questions-budget
+  note), hands maxim (§5.4 place-or-bank, split-deposit option). Each: device+§cite · Ch. 1
+  corpus anchor · staging shapes (never drafted prose, §10.3) · counter-point · AI-obvious
+  flag. All refusable; none gate the lock.
+- 2026-07-20 (Ch. 2 r10 — #45 RESOLVED, conducted): Alex ruled the kill-agency DECIDE with a
+  FOURTH option none of us offered — **BELLE drives the kill** (weaponizes his own disposal
+  protocol at kernel level through the open cable; "No. It is Belle. I was careless. I left
+  myself open"). Clears ALL three stakes: kenosis protected + strengthened (Glitch ruled out
+  as driver, reframed as maybe-resisting "Is the Glitch trying to help?"); ending-virus
+  pre-armed (Belle's kernel-write established → the Voice's 3rd mechanistic reading = her
+  payload); guilt survives (negligence + "by his hand" literal) and TRANSFORMS into a
+  series-grade rhyme (Belle takes the death-choice to spare Shua = a small Shield, Ch. 13
+  "Take me instead"). Downstream flag ledgered (NOT blocker): Ch. 8 origin-sin rhyme shifts
+  echo→contrast (obeyed-then / used-now); rule at Ch. 8 packet. MENU #4 machines-don't-lie
+  LANDED in her mouth, triple-ironic ("They don't lie... They will even take each other
+  out!"). #46 resolved. 3 unambiguous typos fixed direct ("tell me", "Rois and the woman",
+  double-space). Owed/refusable: mantra, fourteen-hours, frame line, menu #2/#5/#6. Window
+  empty. Chapter is LOCK-READY pending owed-beat rulings → self-pass → strip → PANEL.
+- 2026-07-20 (Ch. 2 r9 — clean-draft review, conducted): title "Two"; 3,000 w; vitals clean
+  (median 7.0, frags 27.2, one-¶ 24.8, drift human-typical); TODO window EMPTY (Alex cleared
+  #17–#44). Proofread #19–#44 ✅ nearly complete (~20 A/B verified); #18 reinit ✅ (spent
+  callback CUT not reused — Ch. 1 "I file to review later" now unused); bow ✅ applied; menu
+  #3 partially via Rois ("6 seconds… I need more time with Belle" — dead-air motivated). ONE
+  ARCHITECTURE FINDING (#45 DECIDE, GATES LOCK): the kill is drafted as Shua's frame HIJACKED
+  against his will ("no authority over my frame"; "The Glitch?" as driver; he fights to stop
+  it) — collides with ruling #17 + kenosis (God-drives-a-kill then says "my son") + the Ch. 8
+  guilt engine (possession drains the "I OBEYED" penance root). Rec (a): source the drive to
+  his own announced override-task/conditioning — keeps body-horror, protects all three; (b)
+  re-rule+rebuild; (c) ambiguous-away-from-Glitch. Also #46 (word-choice, tense). Fixed 3
+  unambiguous settling typos directly ("charges at one", "All of them", stray comma). NEW
+  staging keep: Belle unhooks ITSELF + walks in (its agency explicit — sharpens #45). Owed:
+  mantra, fourteen-hours count, frame-line (rule-out-able). Cascade r9 block added. NEXT: rule
+  #45 → then panel-ready. No panel (architecture DECIDE open).
+- 2026-07-20 (Ch. 2 r8 — STRENGTHENERS menu + skill codification, per Alex): structural
+  critique delivered as refusable menu (pre-mortem verdict first: NO structural kills), 7 items
+  graded by conviction — HIGH: echo-bridge line (ruled design, undrafted), servo-note kinship
+  keystone (vanished in drafting); MED-HIGH: the woman parked-or-watching during his delay
+  (fusion candidate: pays the SPLINTER too), machines-don't-lie deposit at the lie's
+  acceptance; MED: is-it-me clause, hands-maxim place-or-BANK; LOW: bow reception micro-tell
+  (counter-ruled by nothing-clever). Free caution: #18 must not reuse the spent verbatim
+  callback. PROTECT list at beat level (two-wave gifts, testament-before-kill, Belle-in-the-
+  order, the hard cut, the ending stack). Menu ledgered in notes r8, ruling OPEN. SKILL: the
+  Strengtheners-ask mode codified into story-saint-book-editor (quarry-the-packet-first,
+  conviction grading, fusion rule, mandatory protect list, "none" closes the menu).
+- 2026-07-20 (PROOFREAD baked into the skill, per Alex): story-saint-book-editor gains
+  **Phase 2.5 — PROOFREAD** (author-requested surface pass), codified from the Ch. 2 r7 run:
+  A structure / B wording (quote → snag → kind-of-fix, never the rewritten sentence) / C
+  typography (coach-owned, session-END sweep only — buffer rule) / D PROTECTED (no anchors BY
+  DESIGN — "a tag is an invitation to change something"; licensed splices, verbatim callbacks,
+  caps register, ruled slips, adjudicated keepers). Full-list mode: on the author's ask, every
+  A/B item plants as a numbered inline anchor continuing the chapter's tag census — the 3–5
+  cap explicitly does NOT apply (it governs register findings; a proofread is a work-queue).
+  Phases-run-when row added ("the standard pre-panel move"); new failure mode ledgered: THE
+  SANDED DEVICE (a proofread fixing a licensed rule-break — group D prevents it). Edited via
+  the symlink into ~/src/story-saint (that repo holds Alex's own uncommitted animation-side
+  edits — skill commit left to Alex or on ask).
+- 2026-07-19 (r7 addendum — proofread planted inline per Alex's ask): all 26 A/B findings
+  converted to numbered anchors #19–#44 at their exact ¶s (regex-safe, ≤120, each pointing to
+  its notes r7-Ax/Bx entry) — the TODO-window workflow now carries the whole proofread; C
+  (typography) stays a coach end-sweep; D (protected ×10) stays notes-only BY DESIGN (protected
+  lines get no marks — a tag invites a fix). Two buffer-reverted mechanicals re-applied
+  (activate, as-a-task). In-file census: #17–#44 continuous, no gaps. Empty TODO window +
+  #17/#18 staged + mantra/frame-line = panel-ready.
+- 2026-07-19 (Ch. 2 r7 — interest re-score + PROOFREAD list): Layer-1 23/24 (exit hook 1→2, the
+  curtain exists; causality 1 = feed connectives, the one standing cue); rubric updated; both
+  instruments read lock-candidate, panel gated behind fixes (the Ch. 1 lesson: surface noise
+  capped 20/24 at PULL 5.3). PROOFREAD delivered in notes (r7 section), four groups: A structure
+  ×11 (danglers, fragment, tense idiom, parallelism), B wording ×15, C typography end-sweep,
+  D PROTECTED ×10 (the splice, the slip, the verbatim callback, caps register, fragments —
+  listed so no proofreader sands the devices). Alex self-swept two more "There is" openers +
+  "Analysis shows" before the pass (1B.7 by hand ×4 now this chapter). 2,913 w, vitals stable.
+  Coach applied NOTHING from A/B (Alex fixes by hand — his ask); C deferred to session end.
+  NEXT: Alex works A/B + owed beats (#17 #18, mantra, frame line, splinter-or-close) →
+  self-pass → strip anchors → PANEL as lock baseline.
+- 2026-07-19 (Ch. 2 r6 — the reworked curtain, conducted): Alex reworked the ending AGAIN and
+  BETTER: the last message = 4-second audio file OPENED under manufactured cover (r5's
+  split-objects ruling OVERRIDDEN BY EDIT — ledger corrected honestly; replay-protection
+  question deferred to Ch. 3 packet, rec: consumed-on-play). "I file to review later." =
+  VERBATIM Ch. 1 callback at the perfect structural rhyme (1B.6 by instinct). Grief filed as
+  a queue task ("revisit the first moment I get") — pays 30 lines later. THREE RULINGS (all
+  rec'd): kill agency = THE ACCEPTED TASK executes (#17 tag planted — Glitch-as-driver reading
+  ruled OUT, kenosis + guilt protected; canon gained: the checkbox could be stopped, the press
+  could not); THE BOW applied one-word per ruling (nods→bows — 5th-flag saga CLOSED; Cairn's
+  artifact sourced; Ch. 1 protocol transgression paid); reinit = 2nd ping (#18 tag planted).
+  Alex self-swept "There is" openers (1B.7 by hand, unprompted). Mechanical ×4. Owed: #17,
+  #18, mantra, frame line (re-homed: the answer is about the GIFT), splinter-or-close. Then
+  self-pass → strip → PANEL as lock baseline. The chapter is one short session from whole.
+- 2026-07-19 (Ch. 2 r5 — Movement V + THE CURTAIN, conducted): 2,822 w (IN BUDGET); vitals hold
+  (median 7.0, frags 28.5, one-¶ 24.0). Alex drafted the aftermath, her exit, the shuttle, and
+  an ending that FUSED two ruled objects — the unopened packet + the Voice — into virus-read
+  shutdown + "DO NOT BE AFRAID MY SON" as file-audio in caps. TWO RULINGS (both rec'd): SPLIT
+  THE OBJECTS (shuttle file = scheduled posthumous delivery; the 2-second last packet =
+  INCOMPLETE FOREVER — "If only I had 1 second." literal = the guilt object) · REINIT =
+  DEFERRED PING (2nd notification on the shuttle, filed-to-review-later Ch. 1 tic, unread at
+  shutdown; fuse intact). Canon: camera GAP (record resumes post-kill — the hole IS the Ch. 9
+  document), hacked-reading born on page ("Why would Belle infect me?"), Voice male-voiced,
+  caps-typography dual-coding, J4 aftermath persistence accepted ("Her last message"), Rois
+  observation file + hierarchy question (family pre-paid). Alex also self-executed r4 notes
+  items ("It writes"→"It reads"). Tags open: #14 BOW (5th flag, canon-critical), #15/#16
+  ruled staging lines. Then owed: mantra, frame line, splinter-or-close → self-pass → strip
+  anchors → PANEL as lock baseline. Mechanical ×8.
+- 2026-07-19 (Ch. 2 interest check, Layer-1 self-score — committed first: 25063f7 prose +
+  381003f canon): 22/24 vs Ch. 1's 20 at lock; rubric entry added (first Ch. 2 row). Weak axes
+  both have named fixes: causality 1 (feed connectives enumerative — cue: let them track his
+  state; "I play videos in parallel." = the model), exit hook 1 (Movement V undrafted; the
+  designed curtain is a 2). Dials 2 — Ch. 1's Relatable weakness structurally FIXED (photo
+  beat/"Anxiety."/"I do not deserve it."). Calibration warning ledgered: Ch. 1 scored 20 and
+  paneled 5.3 on surface noise; predict same quadrant today → sequence: Movement V → Alex
+  self-pass → panel as lock baseline. Panel NOT run (incomplete chapter = eager-grader trap).
 - 2026-07-19 (Ch. 2 r4 — the archive + the kill, conducted): 2,441 w; vitals hold at best (median
   7.0, frags 28.5, one-¶ 23.0 in band; punch 33.3 kill-zone settling). ALL FIVE r3 tags closed:
   #9 cup+thirst executed (necessity+love stacked), #10 EXECUTED BEYOND — the ARCHIVE (multitude

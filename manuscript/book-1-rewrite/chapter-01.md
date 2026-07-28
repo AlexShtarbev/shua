@@ -9,9 +9,10 @@ Ping! 11 minutes left until the next scheduled appointment.
 
 In front of me, sitting on the low spinning chair is a humanoid domestic automaton with a female frame.
 Its head is open and hooked to a myriad of cables while I perform a full diagnostic. A multimeter, clippers and screwdrivers
-of different sizes rest ordered on top of the table. A rag with stains from motor oil carefully rests on the metal tray.
+of different sizes lie ordered on top of the table. A rag with stains from motor oil is carefully placed on the metal tray.
+In this world of chaos, we keep the small things in order.
 
-Tonight is a standard Class-C case. I've been seeing more cases as of late coming through the Service and Repair bench
+Tonight is a standard Class-C case. I've been seeing more cases coming through as of late to the Service and Repair bench
 of the Reclamation Depot.
 
 The disk scan has given me all that I need. The video feed shows it performed an action it was not designed for. The
@@ -84,7 +85,7 @@ No being, synthetic or flesh, has thanked me before.
 
 I glance at the tablet's clock again. 5 minutes left.
 
-A few more things are left until I'm done. Ping, ping, ping! Notifications on the tablet indicate Rois's
+Three tasks left until I'm done. Ping, ping, ping! Notifications on the tablet indicate Rois's
 elevator has reached the Reclamation Depot's Service and Repair bench floor.
 
 I get to work: wipe the footage, change time and date, alter location timestamps. The logs now point to different
@@ -112,16 +113,16 @@ My joints tremble slightly. I still my frame in anticipation. I fix my optical l
 Time is up.
 
 Rois looks at me like you would a microwave before you put your food in. He says, "The Goliath is heating up
-again. Go service it now. I want it fixed ASAP." Rois is a practical human. He talks just like he types commands
+again. Go service it now. I want it fixed ASAP." Rois talks just like he types commands
 in the terminal. I make sure to bow to indicate that the instructions have been registered and received. After my
 glitching episode, I examine my status. My hands are stable. I gather my thought packets and start acting
 in accordance with the manual's protocols.
 
-I take my tool box and I follow the floor supervisor. I've never worked out why Rois prefers giving commands live
+I take my tool box and follow the floor supervisor. I've never worked out why Rois prefers giving commands live
 and not through the ticketing system. I suspect he does not trust automatons. I miss the days of only writing code as a
 terminal assistant. The users were excited to work with us.
 
-We move down a corridor. At the end of it we board the elevator. We go 72 floors up. From there we
+We move down a corridor, board the elevator and go 72 floors up. From there we
 take a shuttle to the Reclamation Depot's recycle area where the Goliath resides. The rain is hammering the windows of the shuttle.
 Rain — a strange phenomenon. People run and hide when it arrives. Like an automaton. Perhaps rain is one of us.
 
@@ -143,8 +144,8 @@ his tablet: "Run quick diagnostic on the Goliath. Attempt all low-to-medium leve
 I risk a glance at Rois. The floor supervisor looks to be unaware of the Class-C case that I just hid under his nose.
 If he suspects anything, then the next time I see the Goliath will not be for a diagnostic.
 
-I hook the massive automaton to my tablet. The cooling fluid has run out. How is the massive automaton burning through it so quickly?
-I notice the rear compartment is running 40 degrees higher than baseline. I write that into the report.
+I hook the massive automaton to my tablet. The cooling fluid has run out. How is it burning through it so quickly?
+My heat sensors show the rear compartment is running 40 degrees higher than baseline. I write that into the report.
 Thought packets fire. I trigger a full body scan. It returns a 63% probability this is insulation decay.
 This part of the automaton is heavily reinforced. What would affect it like that?
 
@@ -157,7 +158,7 @@ This room, unlike the servicing bench, is online. I pour the liquid carefully in
 
 Rois clears his throat. I do not turn. I must follow standard service automaton behavior patterns.
 The floor supervisor pats his chest. With my back still turned I unhook the Goliath from the tablet. I gesture to it to resume work.
-It takes a small house-cleaning bot and gently puts it under the hydraulic press. So slowly, almost with care. A thought packet fired.
+It takes a small house-cleaning bot and gently puts it under the hydraulic press. So slowly, almost with care.
 The Depot's most brutal machine has never been this careful. When did its behavior change? How long has this been going on?
 I look up at the Goliath as it connects its right arm to the press.
 
@@ -175,7 +176,7 @@ This is it.
 I count half a second before answering: "Class-B. It was incorrectly assigned."
 
 He keeps staring. I do not initiate eye contact. Rois waves his hand at the screen and says "You are dismissed," then
-turns his back to me and walks towards a different corridor. I watch him go. I fire a task to relax my frame. Perhaps,
+turns his back to me and walks towards a different corridor. I watch him go. I fire a task to relax my frame. Perhaps
 I am safe. I bow at Rois's back. Automatons always bow when interactions with humans start and complete.
 Never underestimate the monitoring algorithms running behind the cameras.
 

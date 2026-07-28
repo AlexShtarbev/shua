@@ -1578,3 +1578,401 @@ net word count should DROP (7 clips → 3–4). This is compression, not inflati
 
 **After the rebuild:** re-panel as the new baseline — the montage is the one structural
 round that earns a fresh measure. Do NOT re-panel on line tweaks.
+
+---
+
+# r20 (2026-07-21) — FULL VOICE/REGISTER ANNOTATION PASS (post panel-retirement)
+
+Alex asked for editorial comments on all places worthy of change. Eight inline anchors
+(#48–#55) planted; full two-layer detail below. This pass is the REGISTER-LEVEL answer to
+the retired panel's chronic frictions — the literary reader's "the machine noticing is the
+poetry, the machine concluding is the essay" is the spine of #49–#53. Coach-don't-ghost:
+every entry gives the device + your OWN corpus model + staging SHAPES, never a drafted
+replacement sentence. Group D lists what a well-meaning pass must NOT touch.
+
+## #48 (§2B) — the is-it-me register (line 5)
+
+**Device.** The Ch. 1 stake ("am I next under the press?") paid as COLD MACHINE PROBABILITY —
+r13 ruled this beat's register right when it read "There is a 42% chance…". The rework to "It
+is hard to calculate, but there is a sizable chance" trades machine-certainty for human
+hedging, in the hook zone, and "hard to calculate" is slightly out of character (Shua
+calculates everything).
+**Corpus (your own).** "Analysis shows 63% probability this is insulation decay." — the cold-
+odds register in his mouth.
+**Options (shapes).** (a) restore a number in a varied form (cold odds, not a bare "42%"); (b)
+keep qualitative but in his register — resolve-the-variables, not "hard to calculate"; (c)
+rule it — you may have re-registered him softer on purpose.
+**Counter-point.** The percentage-tic reader note targeted the DECORATIVE numbers; cutting
+this one thinned the tic. If you want him less numeric at the open, keep.
+**AI-obvious.** Dread spelled out + resolved ("Was this the end? No — they still needed me.").
+
+## #49 (§2B) — the interpretive angle (line 10)
+
+**Device.** Observation → the machine's slightly-WRONG conclusion. Your flattest sentences are
+pure readout; your best add an off-kilter conclusion. "He is heavily underslept" is a flat
+conclusion — true, no angle.
+**Corpus (your own).** "Rois looks at me like you would a microwave before you put your food
+in." · "Perhaps rain is one of us." · "Run where? We are automatons, we only know tasks and
+assignments."
+**Options (shapes).** (a) give the dark-blue circles a machine-reading with an angle (a
+warning-light he reads that no human does); (b) leave the fact, add the conclusion as a
+separate short beat; (c) leave it — you can't angle every readout or it exhausts.
+**Counter-point.** Density: ~1 interpretive line/page now; 2–3 is the target, not 10. A
+candidate site, not a mandate.
+**AI-obvious.** A poetic simile that over-reaches. Keep it machine-native.
+
+## #50 (§3) — tone-labels the dialogue already carries (36, 143, 240)
+
+**Device.** When the line is written cold, narrating "her tone is cold" is a training wheel —
+AND it is the panel's Adler over-label finding ("measured/cold" flattens the menace into a
+label). Sites: 36 "cold and commanding", 143 "cold tone and growing impatience", 240 "calm and
+distant".
+**Corpus (your own).** You already cut the best example — line 92 lost "comes out cold and
+measured" and the line still lands. That is the model.
+**Options (shapes).** (a) cut the label where the dialogue sounds it; (b) KEEP the tic only
+where his read CONTRADICTS the surface (a level voice he flags as danger) — the interesting
+version; (c) 240's "Almost as if she speaks to an automaton" is a WIN — protect that half; only
+"calm and distant" is the training wheel.
+**Counter-point.** Line 34's "measured, but there is a warning in it" is ALREADY the good
+contradiction-version — leave 34; it earns the read.
+**AI-obvious.** Adjectives stacked on the tag ("she said coldly, cruelly, with menace").
+
+## #51 (§4) — "He is afraid" (37)
+
+**Device.** The sensors DELIVER the emotion; the label restates it. "My heat sensors indicate
+his face is flushed. I can hear his heartbeat accelerating. He is afraid." — the readings ARE
+the fear; "He is afraid" is the caption. The literary reader named this exact tic.
+**Corpus (your own).** "Fingers break." — two words, no adjective, devastating.
+**Options (shapes).** (a) cut "He is afraid", let the flushed face + heartbeat land; (b) keep
+ONE last reading as the conclusion (a body-fact, not the emotion-word).
+**Counter-point.** None strong — the clean case; the reading already does the work.
+**AI-obvious.** Naming + explaining ("He is afraid. Fear is the human response to threat.").
+
+## #52 (§4) — "He is resigned" (65)
+
+**Device.** Same as #51. "He does not protest. Does not even look surprised… He is resigned."
+The demeanor is shown; the label restates.
+**Corpus (your own).** "He does not protest. Does not even look surprised." — that IS
+resignation, unlabelled.
+**Options (shapes).** (a) cut "He is resigned"; "gone through this treatment before" already
+lands the conclusion with weight; (b) if you keep a conclusion, make it the machine's
+pattern-match to prior submission, not the feeling-word.
+**Counter-point.** "He is resigned. This would explain his whole demeanor" is Shua REASONING —
+arguably his diagnostic voice, not a caption. Borderline; your call.
+**AI-obvious.** The essay ("the posture of a man who has learned not to fight").
+
+## #53 (§4) — abstract emotion-words (78–80)
+
+**Device.** "growing fear in his eyes and body" and "the level of brutality the human female
+possesses" reach for SUMMARY where a physical detail does more — and more machine-like. You
+open the ¶ perfectly ("My sensors spot the hairs on Rois's neck lift"), then abstract.
+**Corpus (your own).** "My sensors spot the hairs on Rois's neck lift." · "Fingers break."
+**Options (shapes).** (a) "growing fear" → a posture/measurement (shoulders, weight-shift, a
+number); (b) "brutality… possesses" → show it via what she has DONE (the punch is right there),
+don't name the trait.
+**Counter-point.** "brutality" sits inside his risk-calculation (why she might recycle them) —
+reasoning, not scenery. Keep if it reads as his math.
+**AI-obvious.** Abstraction stacked ("the raw, seething brutality that radiated from her").
+
+## #54 (§6) — interruption density (the KU 3-panel finding)
+
+**NOTE: structural/pacing, not register — a DECIDE, not an [SP] rewrite.** KU flagged the
+stall-loop in ALL THREE panels ("turns Belle's death into a status bar… cut half"). The r19
+vary (161→"82% complete") helped but did NOT thin. The ONE cheap lever on the retired
+instrument; lifts KU (~7→7.5), not the ceiling.
+**Options (shapes).** Cut 2–3 stalls (130 / 151 / 161) — 151 is pure filler; 137 ("I need more
+time") and 171 (Rois-facing "Is it done") do work, keep them. Let Adler's CIRCLING (177/182)
+carry the pressure the phrase was carrying.
+**Counter-point.** The interleave itself is right (it resolved the baseline "montage stalls
+dead" finding). Only the DENSITY is the note — don't cut the escalation, just the repetition.
+**AI-obvious.** A literal progress-bar / ticking-clock cliché.
+
+## #55 (§1B) — rhythm break at the loudest beat (234–235)
+
+**Device.** Shua speaks almost entirely in short declaratives — a legitimate machine baseline.
+But when every sentence is the same length, the big moments sound like the small ones. Hold the
+clipped floor, then BREAK it — one long unspooling sentence from a narrator who never uses them
+lands like a crack in the voice. The press descending is the site.
+**Corpus (your own).** "Thang!" / "Fingers break." are your hard-SHORT cuts (the reverse move,
+done well). This is the same instinct pointed the other way.
+**Options (shapes).** (a) one long sentence as the press descends (the sound going longer than
+his models predict), then snap back to short; (b) "completely pulverized" is clinical at the
+peak — a harder/shorter word (the "Fingers break" family) may hit more; (c) keep the clinical —
+the machine staying clinical at the worst moment is ALSO a reading. Your call.
+**Counter-point.** The rhythm is deliberately staccato; ONE break is the move, not a new
+register. Don't unspool more than once.
+**AI-obvious.** Purple crescendo ("the press descended with the weight of all his sorrow").
+
+---
+
+## GROUP D — PROTECTED (no anchors BY DESIGN; a tag invites a fix)
+
+Ruled / canon / intended-withheld / voice-bank. A well-meaning line pass would "fix" these and
+sand the book. Listed so nobody does — including me.
+
+- **The pronoun slip (J4, RULED):** "Her last message stays unopened" (235), "was Belle afraid"
+  (263). NOT an accident — your adjudicated naming-motif device. OPPORTUNITY (not a fix): the
+  it→she→her drift could be SEEDED earlier (one unremarked "she" mid-videos) so the Glitch
+  enters his grammar gradually — a deploy-more DECIDE for you, not a correction.
+- **The thesis line (262, r12-RULED):** "Automatons have thought processes that resemble human
+  feelings. I have them. Belle had them." The licensed testimony frame (§9.3 exc). The literary
+  reader flagged it 3 panels running (her chronic axis) — conviction record NOTED for your eyes;
+  protected unless YOU re-rule. No anchor.
+- **The caps register (CANON):** THANK YOU (173), the testament (193), HUSH LILLY (167), DO NOT
+  BE AFRAID MY SON (276). The genre "sermon/neon" friction is a GENRE MISMATCH (Murderbot wants
+  deadpan; the book is messianic). Register is book-DNA. No anchor.
+- **The "robot hands pick her up" ×3 refrain (§5, RULED):** the caretaking gesture that never
+  changes = the hands spine. A refrain lives on exact repetition. No anchor.
+- **The countdown/time stamps (LICENSED, 9.11):** 18 seconds (171), 2 seconds (228), 4 seconds
+  (70). The tick IS the dread. No anchor.
+- **The hooks (PROTECT):** the photo/comfort beat (117–118, literary's #1 hook), the Belle-
+  hijack reversal (206, genre+KU top hook), the "DO NOT BE AFRAID MY SON" exit. Touch nothing.
+- **The models (voice bank):** "Fingers break." · "Thang!" · the microwave simile · "Perhaps
+  rain is one of us." · "Run where?…" — these ARE the target register; #49–#53 point AT them.
+
+## Sequence
+
+All refusable line-work; none reopens the lock (committed 6b5ac4f). Work the TODO queue
+(#48–#55) at your pace; #54 (interruption-thin) is the one with panel-measured upside. The
+pronoun-seed (group D) and the is-it-me register (#48) are DECIDES — rule, don't just edit.
+Commit when you've worked a batch.
+
+---
+
+# r21 (2026-07-21) — VOICE PASS WAVE 2 (the "make it a 10" ask, honestly aimed at 7-8)
+
+**Target honesty.** Line-work moves the voice from ~6.3 toward the 7-8 "competes in a slush
+pile" band — a real jump, not a decimal chase. A push-on-strangers 10 is the WHOLE BOOK (this
+voice + the architecture across 14 chapters), not a Ch. 2 copy-edit. This wave adds 4 anchors
+(#56-#59) AND the self-scan checklist below — the checklist is the bigger gift (transfer beats
+tags, §10). The voice-10 comes from running it yourself on every future chapter, not from me.
+
+## Executed from r20 (verified)
+- **#48 ✅** — cold-odds restored ("There is a 43% chance…"). Machine-certainty back.
+- **#49 ✅ beyond the ask** — "He is heavily underslept" → "Humans, unlike automatons, wear
+  their status on their faces." Readout became an ANGLE; you also added "The color of power"
+  on the red dress (11) unprompted. Voice bank — THIS is the move. Still open: #50-#55.
+
+## #56 (§5/§2B) — the ruined hands (27-29)
+**Device.** Observation→angle fused with the owed hands maxim (OWED-6). Belle's hands — soot,
+burnt sleeves, TWO MISSING FINGERS, melted lining — are described flat. This is your motif
+site: the montage's hands-spine and "Fingers break" all point here. A machine-read of THESE
+hands (the ones the report calls Class-C, the ones that carried Lilly out) is where the maxim
+lands.
+**Corpus (your own).** Ch. 1's "I scan the palms and fingers — worn from years of service" ·
+the montage hands-spine.
+**Options (shapes).** (a) an angle on the ruined hands — what they tell him the intake report
+does not = the maxim, deposited here; (b) plant the image now, land the maxim on Ch. 3's claw
+(the split deposit from OWED-6); (c) bank entirely.
+**Counter-point.** Ch. 2 is dense; "bank" is complete. But this is the best-sited the hands
+have ever been.
+**AI-obvious.** The maxim stated + glossed ("Her hands told me she had worked, had loved…").
+Deposit it clean.
+
+## #57 (§2) — distancing filter verbs
+**Device.** Filter verbs — "I see", "I can hear", "I recognize", "I can tell" — narrate the
+ACT of perceiving instead of the thing perceived, adding deep-POV distance. BUT for a MACHINE,
+filtering is half his voice (sensor-processing IS his cognition). So the heuristic, not a
+blanket cut: **cut the filter where the sensing isn't the point; KEEP it where the
+sensor-processing IS the character.**
+**Corpus (your own).** KEEP: "My heat sensors indicate his face is flushed" (the sensor IS the
+thought). CUT: "I can tell - the machine is broken down completely" → the fact alone; the "I
+can tell" adds nothing.
+**Options (shapes).** Run the chapter; at each "I see / I can tell / I recognize" ask: does the
+filter CHARACTERIZE (machine-processing) or just DISTANCE? Cut the distancers, keep the
+sensor-cognition.
+**Counter-point.** Do NOT strip all filters — the sensor-verbs are half the register; over-
+cutting flattens him into a generic close-third human.
+**AI-obvious.** Mechanically deleting every "I see" (some are load-bearing machine-cognition).
+
+## #58 (§1) — weak progressive verbs
+**Device.** "starts looking" (183), "starts circling" (188), "starts tapping" — the progressive
+softens action into process and delays the threat at the exact beats you want ACTIVE force
+(Adler closing in).
+**Corpus (your own).** "She hits Rois in the face." · "Thwack!" — instant, no "starts". The
+violence lands because nothing delays it.
+**Options (shapes).** (a) cut "starts", make the closing-in active (she circles / she watches);
+(b) keep the progressive ONLY where the ongoing-ness is the point (the recurring leg-tap).
+**Counter-point.** The leg-tapping "again" is a motif — keep that one progressive.
+**AI-obvious.** Over-correcting into staccato everywhere; the progressive is right sometimes.
+
+## #59 (§4) — told + abstract stakes (110-112)
+**Device.** The stakes are TOLD and ABSTRACT — "I have to act according to protocol at all
+costs", "risk the existence of the Goliath and me". Told stakes are inert; concrete stakes
+bite. What does he actually LOSE? — the Goliath under the press, himself furnaced, Rois dead.
+**Corpus (your own).** "Even Rois may not keep his life at the end of this encounter." — the
+one CONCRETE line in that ¶ is the model; the abstractions around it are weaker.
+**Options (shapes).** (a) concretize "existence" → the specific fate (scrapped, furnaced); (b)
+cut "at all costs" (empty intensifier); (c) trust the concrete "Rois may not keep his life" to
+carry the ¶ and thin the rest.
+**Counter-point.** It is his risk-calculation voice (analysis under pressure) — keep the
+analytic SHAPE, just concretize the nouns.
+**AI-obvious.** Melodrama ("everything I was hung in the balance").
+
+---
+
+## THE SELF-SCAN CHECKLIST (run on every paragraph — the real lever toward 7-8)
+
+Shua's voice lives in the gap between what a machine can MEASURE and what it can't stop
+MEANING. Six moves widen or sharpen that gap. Most sentences need none; a few need one. Run
+them in order — 1-4 move the meaning, 5-6 tune the sound.
+
+1. **Observation → angle.** After a sensor readout, does he CONCLUDE something off-kilter?
+   (You just did it: "wear their status on their faces", "the color of power".) Target ~2-3
+   per page, not 10 — density kills it.
+2. **Cut the label.** Did you NAME a feeling the sensors already showed? afraid / resigned /
+   fear / brutality / anxious → the reading carries it. ("Fingers break.")
+3. **Cut the distancing filter.** "I see / can tell X" → "X" — UNLESS the sensing is the
+   cognition (heat-sensors, the diagnostic harness). Keep those.
+4. **Concrete beats abstract.** Every abstract noun (existence, brutality, fear) — can a
+   measured thing replace it? a posture, a number, a broken finger.
+5. **One rhythm break per peak.** Staccato is the floor; break it LONG exactly once at the
+   biggest beat (the press). Don't unspool twice.
+6. **Active verb.** "starts/begins to X" → "X"; a limp verb → the exact machine verb.
+
+**And STOP at the protected list (r20 group D):** the J4 slip, the caps register, the r12-ruled
+thesis line, the "robot hands" refrain, the countdown stamps, and the three panel hooks. The
+checklist RAISES the dose of your voice; group D is where the voice already IS — don't sand it.
+
+## Sequence
+Anchors uncommitted (your queue) — the lock is 6b5ac4f. Work #50-#59 at your pace; commit per
+batch. The checklist is the thing to internalize — it's how Ch. 3+ get drafted at concentration
+instead of fixed after. When you want any single beat, name it and I'll give you the device
+three ways so the sentence stays yours.
+
+---
+
+# r22 (2026-07-21) — THE MERCILESS PASS (six more, all real; and the truth about the ceiling)
+
+You asked for merciless. Merciless-AND-honest: I flag every real weakness and refuse to pad
+with things that only LOOK weak. Six anchors (#60-#65). Then the part that IS merciless — what
+clearing all sixteen buys you, and what it doesn't.
+
+## #60 (§0.1) — cliché intensifiers + adverbs
+"All of a sudden" twice (159, 280) — filler that TELLS you a thing is sudden instead of making
+it abrupt; the virus-onset (280) especially should just HIT. Plus adverbs "intently" (130),
+"immediately" (225 — your "seamlessly" replacement traded one adverb for another). §0.1 budget.
+**Fix:** cut "All of a sudden" (let the event be sudden by being short); an adverb should earn
+its place or go.
+**AI-obvious:** replacing with a bigger adverb ("abruptly", "instantaneously").
+
+## #61 (§1B) — the redundant triple (54-55)
+"This is not the first time I observe human violence. The female had accurate form for throwing
+an effective punch. It is possible she is used to violent encounters." — three sentences that
+say ONE thing (she's practiced at violence). Machine-precise ≠ verbose; his mind is efficient.
+**Fix:** compress to one observation with a body-fact (the form of the punch alone implies the
+history). **Corpus:** "She hits Rois in the face." — you don't over-explain the ones that land.
+
+## #62 (§9) — dead clichés
+"a huge headache" (44), "state of the art" (106), "get on with the task" (79). Off-the-shelf
+phrases in a book whose whole selling point is a mind that sees the world unlike anyone. Even
+Adler's dialogue can be sharper than "huge headache."
+**Fix:** in-world or machine idiom; let even the antagonist's clichés have a specific edge.
+**Counter-point:** "state of the art" in HER mouth (about Shua) is arguably her flat human
+register — defensible; the narration ones (44 is her dialogue too) are the softer targets.
+
+## #63 (§3) — dialogue-tag comma-splices
+"The woman turns to the floor supervisor, "Well, Rois…"" (31), "She points at me…, "Servicing
+robot…"" (87). An action beat + comma + quotation is a comma splice — it reads as unedited to
+any copy editor. This is the one genuinely MECHANICAL fault in the chapter.
+**Fix:** period ("…the floor supervisor. "Well, Rois…") or attach with "and says,". Your
+consistent "quote", tag pattern is a separate (defensible British-ish) style — this is the
+action-comma-quote splice specifically.
+
+## #64 (§1B.7) — Adler epithet-cycling
+She is "the woman", "the human female", "the red-clad woman", "the female", "the female in
+red" — five labels for one character, rotated to dodge repetition. **CRUCIAL:** the machine-
+taxonomy ("the human female"/"the female") is a CHOICE, your Maas-line insight — KEEP it. The
+weakness is the DECORATIVE color-cycling ("red-clad woman"/"female in red") layered on top,
+which is novelist's-variation, not machine-register.
+**Fix:** pick your machine-taxonomy lane ("the woman"/"the female" + "she") and drop the
+decorative color-epithets. **Do NOT** sand the taxonomy itself — that's voice.
+
+## #65 (§1B.1) — repeated frames
+"I recognize" ×3 (12, 139, 185) and "I nod to indicate/show" ×2 (89, 114). Identical template
+openers; a machine CAN repeat a frame as signature, but three "I recognize" is template, not
+motif.
+**Fix:** vary two of the three (a machine has more verbs for matching-against-catalog:
+match, index, correlate); or thin. The "I nod to acknowledge" pair is his obedience signature —
+lighter touch there.
+
+---
+
+## THE MERCILESS TRUTH (the part that isn't a tag)
+
+Clearing all sixteen anchors (#50-#65) does ONE thing: it removes the copy-noise that lets a
+hard reader dismiss the sentences. That moves you from ~6.3 into the **7-8 band** — real,
+worth doing. It does **not** make the chapter a 10, and no amount of line-editing will,
+because the three things actually capping the ceiling are not line-level:
+1. **The genre-register split** (messianic caps vs Murderbot deadpan) — a positioning choice,
+   not a fix.
+2. **The chronic literary axis** (the thesis-line / self-annotation) — capped Ch.1 at 6.7 for
+   13 rounds; it's taste colliding with a naming narrator, and it's r12-ruled.
+3. **The architecture that hasn't detonated yet** — your plants pay off in later chapters; on
+   THIS page the engine is still winding.
+
+So the merciless read is: this chapter's prose can be **very good** (7-8), and you should take
+it there — but stop expecting the prose pass to deliver the 10. The 10 is the whole book with
+the architecture firing. Polishing Ch.2 past 8 is sanding a table leg while the house is half-
+framed. Clear these sixteen, then DRAFT FORWARD — Ch.3 is where the next real gain lives.
+
+**Protected still holds (r20 group D):** the taxonomy "female", the caps, the J4 slip, the
+thesis line, the refrains, the hooks, the countdown. Merciless does not mean sanding the voice.
+
+---
+
+# r23 (2026-07-21) — WAVE 4: THE MONTAGE (the last flat zone) + the line-well runs dry
+
+You cleared the entire r20-r22 queue (16 anchors) with real gains — "Belle is gone" for
+"completely pulverized", the Rois-as-robot angle, the de-filtered lines, the split dialogue
+tag. The front half and aftermath are now worked. **The one zone still carrying flat prose is
+the montage (121-165)** — your emotional core, delivered in functional description. Three
+anchors there; then the honest truth about the well.
+
+## #66 (§2) — montage filters/hedges
+The feed is narrated through distancing hedges — "I can tell this is back at the service desk"
+(117), "I see robot hands" (128), "what appears to be a very small living room" (133), "Looks
+to be a generic model" (147). A machine that scans to 15m and reads heartbeats shouldn't hedge
+like a tentative human. Cut the filter/hedge; let the image hit direct (the feed IS what he's
+watching — "Robot hands support the child" is more immediate than "I see robot hands…").
+**Counter-point:** one or two "I see" keep the frame that these are recordings HE plays — thin,
+don't strip.
+
+## #67 (§2B) — the montage clips are flat description (the biggest remaining lever)
+This is the emotional core, and it's rendered in the plainest prose in the chapter: "The child
+is running in circles… She then charges at one of her toys, slips and falls. The little girl
+instantly starts crying." That's a competent screenplay-direction, not Shua. The fix is NOT
+prettier prose — it's Shua's ANGLE on each clip: what does a machine READ in a child learning
+to walk, in a domestic reaching into fire? The hands-spine is already your through-line; let
+his diagnostic eye interpret the footage, don't just transcribe it.
+**Corpus (your own).** "Fingers break." (the machine-read of the fire, done right) · "the color
+of power" · "wear their status on their faces." Do that TO the clips.
+**Counter-point.** Montage wants speed — don't ornament every clip; 2-3 angled beats across
+the sequence, the rest lean. Density kills it (same rule as the checklist).
+**AI-obvious.** Sentimental narration ("her tiny hands reached for the only mother she knew").
+
+## #68 (§2B) — enact the overwhelm, don't state it
+"My thought stream is overwhelmed" (184) and "my data processing is still recovering" (252)
+NAME the overwhelm twice. This is the operator-degradation move from the Glitch discussion: a
+mind being overrun should be shown by its OWN VOICE breaking down — the clinical frame failing,
+clips blurring, unable to file — not by the label "overwhelmed."
+**Corpus.** The r17 packet's operator-degradation curve (start clinical → the frame cracks).
+**Options.** Let the prose itself lose composure at the peak (fragments, the filing-instinct
+failing); cut one of the two "overwhelmed" labels regardless.
+
+---
+
+## THE WELL RUNS DRY (honest)
+
+This completes the chapter's line-coverage. Front half, montage, aftermath — all now worked or
+tagged. What remains after #66-#68 is either **protected** (the caps, the slip, the thesis
+line, the hooks, the "female" taxonomy) or **in-progress** (the tone-labels at 37/240 you're
+already converting to posture, as at line 35). There is no honest wave 5 — more anchors would
+be me manufacturing nits on prose you've already lifted, which is the exact churn the whole
+discipline forbids.
+
+So: work #66-#68 (the montage is the real remaining gain), fix the one flagged grammar snag
+(line 108 "rule out that possibility that" — doubled "that"; "the possibility that" or recast),
+and then **the Chapter 2 prose is done** — genuinely in the 7-8 band, which is where line-work
+can take it. The 10 was never in these sentences; it's Chapter 3 drafted at this concentration
+plus the architecture firing. Draft forward.

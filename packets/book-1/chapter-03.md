@@ -8,9 +8,11 @@
 > `bible/characters/cairn.md` and the maxim ledger, and Books 2–3 already pay them off.
 > Everything else is yours.
 >
-> **Depends on your Ch. 2 draft.** This packet assumes Ch. 2 ended with the reinit order
-> signed (8:00, fourteen hours out). If your Ch. 2 lands differently, tell me and I'll
-> re-cut this packet before you write — packets are cheap; re-drafting isn't.
+> **RE-CUT 2026-07-22 against the FINAL Ch. 2** — which ends on the virus blackout +
+> "DO NOT BE AFRAID MY SON", reinit fuse at 14h11m — **and the new canon:** the dream
+> (Movement 0), the soldier era, the developmental taxonomy, the hands-maxim landing.
+> Full rulings: `bible/rewrite-cascade.md` → Ch. 3 DEVELOPMENT RULED + `shua.md`.
+> Ch. 4 plan (ruled): Cairn-teaching ∥ Adler-hunt, intercut — her razor waits there.
 
 ---
 
@@ -22,7 +24,7 @@
 - **Master clock:** Day 3. Reinit window 8:00 → noon ("back on the line by noon" — Rois's
   constraint). The four-hour duration is the one thing he cannot fake — **duration is the
   honest clock** of this chapter.
-- **Budget:** ~2,400 words.
+- **Budget:** ~2,700–2,900 words (Movement 0, the dream, adds — keep it lean).
 - **Job of the chapter:** the full crime, chosen. Ch. 1 he hid a decision ("if it were
   truly up to me…"); Ch. 2 he watched, forced; Ch. 3 he **decides on the page** — fakes a
   Goliath-class reinit, teaches the first pupil to hide, receives the vow, gives the name.
@@ -31,8 +33,9 @@
 - **Gauge:** the reinit window (one clock, two faces: the noon deadline and the four-hour
   procedure are the SAME clock — pick one presentation, then bare stamps; 1C.1/1C.5,
   mastered — keep it).
-- **Bridge-in (6.19):** open by seizing Ch. 2's curtain number (fourteen hours / 840
-  minutes — the demonstrative pickup at chapter scale).
+- **Bridge-in (6.19):** the DREAM cuts into the Ch. 2 blackout — no transition; the
+  cliffhanger pays on the first line (what the virus did = an interior). The fourteen-
+  hours number pickup fires at the WAKE (Movement 0c), one beat later.
 - **Frame line (MAX 1):** the ledgered candidate is the asked-since line about **what his
   name means** ("…They will." family — the Yeshua-series plant; the prose never points).
   Spend it at the naming, nowhere else. The glitch-guess withholding ("it doesn't go in
@@ -74,9 +77,10 @@
   by it — first position on this book's naming ladder (cost-free for the human; note what
   it costs Shua to notice).
 - **The Glitch** — **SILENT through the decision.** Kenosis enacted: it never votes on
-  choices. If your Ch. 2 Fork D went silent-at-the-death, this confirms the pattern; if
-  it pressed at the death, this is the first silence — either way, he notices the silence
-  has a shape. No adjudication.
+  choices. Ch. 2 final: it PRESSED at the death (pressure alerts; "Is the Glitch trying
+  to help?") — so this chapter is the FIRST full silence, and he notices the silence has
+  a SHAPE (the veto-rule legible by negative space: it fires against harm-compliance; it
+  has nothing to say to a free refusal). No adjudication on the page.
 
 ### Canon anchors — reproduce these VERBATIM (character sheet + ledger; Books 2–3 pay them)
 - **The bow as first utterance:** Belle's bow, stored at full fidelity, timestamped
@@ -144,6 +148,22 @@ armor can't blame the Glitch today). Fear response at the shear: flash → servo
 
 ## 2. Beat sheet (claim-map altitude)
 
+### Movement 0 — The dream (NEW, ruled 2026-07-22; cuts INTO the Ch. 2 blackout)
+0a. **The dream.** No transition — the chapter opens inside the blackout, in the first
+    dream of his existence. Content: the soldier era (canon, shua.md) — the evacuation,
+    the triage, THE ORDER. *Laws:* three legible anchors (soldier / the order / obeyed-
+    and-cracked) — fragment everything EXCEPT these; the order-string verbatim and intact
+    (the one clean object in the wreckage); machine-dream grammar (corrupted timestamps,
+    a loop returning to one image, files with no creation date); 9.3 holds — wrongness in
+    images, no feeling-nouns. *Plants, never pays:* Ch. 8 stays dark (optional: one
+    fragment the dream refuses to show). A page, maybe two.
+0b. **The wake.** Re-boot on the shuttle beside Rois — a stalled unit draws no attention.
+    He checks the logs: **no file.** No recording, no source, no creation date — the
+    first experience that exists nowhere but in him. *Establishes:* he can dream now; the
+    interior is real; the virus's answer delivered, machine-grade.
+0c. **The number pickup.** THEN the fourteen-hours seizes him — the reinit fuse, still
+    running. Hard pivot to the night.
+
 ### Movement I — The night and the kits
 1. **Bridge pickup.** Ch. 2's number, seized and restated larger (fourteen hours → what
    a night does to it). *Establishes:* the count is running him now.
@@ -153,6 +173,14 @@ armor can't blame the Glitch today). Fear response at the shear: flash → servo
    hands-maxim here** (anchor above). Fork A governs the entry.
 3. **The Glitch silent all night.** He notices the silence's shape. *Establishes:* the
    kenosis pattern; licensed opacity (1C.9) — no reading confirmed.
+3b. **The theory assembles (the taxonomy — his science, ruled 2026-07-22).** The night's
+    other work: Belle's archive as DATASET. He runs the feeds — all children, all binary
+    states (fear/comfort, protect/soothe) — and he is not. The diagnostician builds the
+    developmental model: Class-C is a child with knowledge; something turns children into
+    minds; the wave is that turn spreading; he is furthest through it. The cause-field
+    stays UNKNOWN — he writes it that way (right about the pattern, dark about the
+    mechanism). *Establishes:* the Sanderson-legible system, in-voice, from owned data
+    (dream + archive + himself = three data points). ~150–250 words, dry.
 
 ### Movement II — The bay (8:00)
 4. **The remand bay.** Cold the Depot doesn't pay to fix. Set the geometry ONCE — what
@@ -325,6 +353,20 @@ window — flag me either way and I'll ledger it.
 
 **⑨ Loose threads left taut (9.4):** the recert never scheduled; the Glitch's silence;
 the gentleness returning at noon; the file assembling toward a nameless someone.
+
+**⑩ Growth-edge targets (the r21–r23 curriculum — draft AT concentration, don't retrofit):**
+one distinctive machine-read per page (the microwave/rain family — the dream and the bay
+are rich sites; 2–3 per scene max, density kills it) · the WORLD sensed, not told (the
+cold bay, the journey, what a Depot floor is to a machine that has worked it 130 years —
+§4 sites all chapter) · ONE modulated long-sentence peak (candidates: the torch seams, or
+the naming — pick one; break the staccato once) · Adler's §2C razor is RESERVED for Ch. 4
+(she is off-stage here; don't spend her).
+
+**⑪ Hands maxim lands here (OWED-6 split-deposit resolves):** the image was banked in
+Ch. 2 (burnt fingers, the hands-spine, "Fingers break"); the SENTENCE lands on the claw —
+hands built to crush, used to lift, the weapon welded shut. Your wording ("hands tell you
+more than intake reports do" family). Candidate sites: the vow-read (Movement V) or the
+naming. Registry row at draft.
 
 ---
 

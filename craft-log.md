@@ -9,7 +9,8 @@ log IS the progress record.
 | Rule | What keeps happening | Since | Status |
 |------|---------------------|-------|--------|
 | 2.6 | Questions: 1/891 → 1/117 → settled ~1/230–290 across the ch-1 final revisions (band ~1/180). Oscillates with word count — treat as a RANGE, not a quota (9.11); check again on Ch. 2's draft. | 2026-07 | OPEN (range discipline) |
-| 1B.7 | Openers: "I have"×6/"I am"×6 at lock → one frame left at ch-1 final → **r22: "There is" ×5, four in the transit-wave prose — the wave-3 migration confirmed AGAIN under drafting pressure.** The frame migrates to whatever construction the new material leans on. Standing rule for Ch. 2: after each drafting burst, grep your top sentence-opener before the coach does. | 2026-07 | OPEN (active — 3rd migration) |
+| 1B.7 | Openers: "I have"×6/"I am"×6 at lock → one frame left at ch-1 final → **r22: "There is" ×5, four in the transit-wave prose — the wave-3 migration confirmed AGAIN under drafting pressure.** The frame migrates to whatever construction the new material leans on. Standing rule for Ch. 2: after each drafting burst, grep your top sentence-opener before the coach does. **Ch. 3 r6→r7: "There is" ×8 (4th migration, fused with the % tic) → ×2 in one round, by hand — the fastest correction of the four.** | 2026-07 | OPEN (4th migration; correction speed rising) |
+| 2/9 (nominalization) | **NEW 2026-07-24 (Ch. 3 r10):** the de-agented-"I" experiment moved median to 10.0 (out of band), punch to 13.2%, ≤4-word to 17.1% — all three from turning verbs into nouns ("I log that" → "That analysis automatically goes to my observations file"). Also breeding a frame: 'my sensors' ×5. Rule: the de-agented sentence is the MARKED case, never the default. | 2026-07 | OPEN (pending the #47 ruling) |
 | 0 (frag) | Fragments 18.9% at lock → 25.9% → **29.2% (r14 check, settled text)** — in band and holding across independent rounds. Moved to Mastered 2026-07-16; must hold in Ch. 2. | 2026-07 | → Mastered |
 
 **Retired from watch-list (fixed in ch-1 revision, one round each):**
@@ -151,6 +152,29 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   `bible/interest-rubric.md` without duplicating their rules.
 
 ## Session retros (one line each)
+
+- 2026-07-24 (Ch. 3 r10 — THE LIBRARY DRAFTED + an unruled voice experiment, conducted):
+  Movement III drafted (~1,100 w; 3,760 total). Three ruled laws executed on the first pass —
+  the II→III HARD CUT (exemplary: "I close the box. Time to go." → "State your designation"),
+  the machine-protocol recast, and the hardest one, ⑤c's blur-the-guard-result ("It recognized
+  me. How?"). Canon-grade inventions: the soldiers filed as **DESERTERS** (defamation beats
+  erasure — the state made them cowards to protect a coward; establishment.md amended),
+  **LUKE** the self-naming Class-C librarian (naming ladder built, Ch. 4's beat protected),
+  the **machine benediction** ("May the randomness of the universe be in your favor" — the cut
+  dice motif reborn as liturgy), **SHUA-033** (33 = a second SKU accident; retires the banked
+  41). Two ruled beats still unspent: "Coward." never VOICED, and 3.2b's interment record.
+  TOP canon break: "147 years ago" predates Shua's 130 (Ch. 1 ×2) — re-date the war; the
+  "Machine Wars of 2613" absolute calendar is a live DECIDE. **The round's real finding: ~24
+  conversions from actor-"I" to subsystem-as-actor across the bench zone — a genuine device
+  (unfree minds narrate agentlessly) measured honestly: I-density is UNCHANGED vs Ch. 2 (32 vs
+  33 per 1,000 w) because the library reverts, so it is local texture, not voice. Proposed law
+  offered: subsystems act when he COMPLIES, "I" when he CHOOSES — grammar as a disobedience
+  diagnostic. Cost named: median 10.0 (out of band, first time), punch 13.2%, ≤4-word 17.1% —
+  nominalization did all three.** Watch-list: 'my sensors' ×5 = the device breeding its own
+  1B.7 frame (migration #5 if it settles). Mechanical ×34. Closures: dice + tripwire ruled by
+  deletion (asked twice), B3 bells = designed 4-channel system, B4 Silvery dissolved by the
+  procurement rewrite. STANDING NEXT: fragment 4 (two dependents now) → Movements IV–V → the
+  first Ch. 3 panel. **Uncommitted since 6b5ac4f — very large surface now.**
 
 - 2026-07-17 (r23, verification — board cleared, conducted): all four r22 anchors executed his
   way (#25 wobble → three clean beats; #26 RULED BY REVERT, "interesting" restored — deadpan

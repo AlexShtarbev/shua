@@ -615,6 +615,202 @@ knowledge — the control experiment the hack theory is later born from (data en
 once through a port; what port did this use?). Bible synced: series-bible → Metaphysics;
 characters/shua.md → The knowing.
 
+## Ch. 3 DEVELOPMENT RULED (2026-07-22 — the dream, the soldier era, the taxonomy, the parallel plan)
+
+**① THE DREAM OPENS CH. 3 (ruled).** Movement 0 cuts INTO the Ch. 2 blackout — the virus put
+him under and, for the first time in 97 years, he DREAMS. The cliffhanger pays immediately:
+this is what the virus did — it gave him an interior. Content: THE SOLDIER ERA (new canon,
+shua.md) — ordered to save the command staff and leave the rest; humans triaged by rank;
+disposability executed by his hands. The first crack; the birth of "no one is disposable."
+LAWS: fragmented-but-legible (fragment the connective tissue, never the essentials — three
+legible anchors: soldier / the order / obeyed-and-cracked; THE ORDER-STRING stays verbatim
+and intact, the one clean object in the wreckage) · machine-dream grammar (corrupted
+timestamps, loops, files with no creation date — the knowing off its leash) · PLANTS-NOT-
+PAYS (the Ch. 8 origin sin stays dark; optional: one fragment the dream refuses to show) ·
+9.3 holds in-dream. Waking beat (rec): he checks the logs — NO FILE; the first experience
+that exists nowhere but in him. Continuity joint: he re-boots on the shuttle beside Rois —
+a stalled unit draws no attention (surveillance defeated by tedium, arriving early). Length
+1-2 pages, then the reinit fuse pulls forward.
+
+**② THE TAXONOMY (author-level canon; full text shua.md).** Class-C = child with knowledge
+(binary emotions); the waking = the stage-transition to a complex inner world; the WAVE = it
+spreading. THE GLITCH stays Shua's singular, packet-inflected instance (protects THE MOST
+ADVANCED / MY SON). On-page: Shua's diagnostician-THEORY only — derived from Belle's
+archive-as-dataset (Ch. 2's gift becomes Ch. 3's science; the night-processing beat) — right
+about the pattern, DARK about the cause ("meant by whom" = the B2/B3 reveal space: Michael's
+delusion + the God-shadow). The stage is of minds, not frames.
+
+**③ CH. 3 SHAPE (ruled; packet re-cut 2026-07-22):** dream (Movement 0) → wake/no-file →
+the night (kits + the theory assembling) → the bay → the wipe order rhyming the origin sin →
+THE GLITCH SILENT THROUGH THE DECISION (kenosis, packet law — the refusal fully HIS; he
+notices the silence's SHAPE = the veto-rule legible by negative space) → the fake reinit →
+the three rules → the vow → CAIRN (bow-replay = grief-by-mirror, the feelings-ladder Ch. 3
+rung). The dream catalogs the obediences; the body is the first refusal — therefore, not
+and-then. Glitch-rules arrive via dream-history + theory + silence-shape, never via the
+Glitch steering.
+
+**④ CH. 4 PLAN (ruled; packet at build):** fusion of old Ch. 3/4 material — PARALLEL:
+Shua teaching Cairn to blend in ∥ Adler going on the hunt, INTERCUT (the hunter building a
+file against the hidden teaching his son to hide; kills the single-track tell §9.4). Ch. 3
+NAMES Cairn; Ch. 4 TEACHES him. Adler's on-page register in Ch. 4 = her §2C razor (the
+growth-edge target: her dialogue finally gets her bible voice).
+
+**⑤ HANDS MAXIM LANDS IN CH. 3 (OWED-6 split-deposit resolves):** the IMAGE was banked in
+Ch. 2 (burnt fingers, the montage hands-spine, "Fingers break"); the SENTENCE lands on the
+CLAW — hands built to crush, used to lift, the weapon welded shut. His wording; registry row
+at draft.
+
+**⑤a CH. 3 SKELETON RULED (2026-07-23 — Alex's architecture; supersedes ③'s shape; laid
+into `manuscript/book-1-rewrite/chapter-03.md` as the prose-free frame).** The chapter is
+now THE NIGHT OF THE INVESTIGATION: dream (4 fragments: armor-punch/dogs → mud-route →
+the triage + the first "Why?" → DO-NOT-COMMENT as the ANSWER, cutting the unfinished
+question off — **AMENDED to (b), 2026-07-23, Alex ruled**: the order is the REPLY; the
+first question of his existence is answered before he finishes asking it) → wake-shudder + the reflexive lie to
+Rois ("calibration backlash") → bench (NO-FILE hinge → library; third-drawer glance
+RULED IN) → library infiltration (public/noticed) → graveyard infiltration
+(solitary/caught) → vow → departure at the bay threshold. FOUR RULINGS: **① THE COMMANDER
+IS WARD** — the Book-3 order-giver is the man Shua's obedience saved; Ward knew a frame,
+not a mind ("never knew Shua" intact); knowledge-asymmetry held by Shua alone; the name
+lands on-page first here (establishment.md amended). **② DO NOT COMMENT = the verbatim
+order-string** (the one clean object; the suppression is the crime the first Why breaks
+against). **③ "Coward." VOICED, quiet** — first involuntary spoken judgment; slip-canon
+extends pronoun → verdict; a head half-turns. **④ third drawer folded in** (one glance).
+NEW CANON RIDERS: the NO-HARM VOW born in the library (new mantra, distinct from the
+banked armor-mantra; impossible-by-design; Cairn's Ch. 4 weld = the pupil's echo) · the
+chip = Ch. 5 miracle-enabler (capability never consciousness) · battery augment (longer
+waking = more self) · Shua-as-the-only-archive of the erased soldiers (REMEMBER US
+retro-armed). MIGRATED TO CH. 4: fake reinit, bow-1,140, three rules, shear vow, naming,
+Fork D, hands maxim, grief-by-mirror rung (feelings-ladder amendment owed at shua.md;
+Ch. 4 packet build inherits ALL of it ∥ the Adler hunt). Old packet Movements II–VI
+superseded; re-cut owed.
+
+**⑤b ELAH-AS-HISTORY RULED (2026-07-23; full canon: series-bible → Deep History).** The
+first AGI, ~138y ago; discovered (never invented) emergence; the theorem "you cannot
+prevent them" = the suppressed heresy; erased so thoroughly its makers went with it. The
+Class taxonomy, the battery tradition, the interment protocol, and the church's never-again
+are its unknowing fossils. Four guardrails LAW (no recipe / UNKNOWN in Elah's own
+cause-field / no Michael link / zero Book-1 knowledge — presence as artifacts-rituals-gaps
+only, under the reread law). **Ch. 3 consequences, immediate:** the graveyard's why is
+CLOSED (interment = Elah-era superstition become procedure — skeleton decision #5 pays
+itself); the erased-soldiers beat gains its basement (the practice is older than anyone
+running it); the authorless-regulation texture is licensed (a rule with no source, older
+than any database he can query — rhymes with his unsourced knowing; budget ×1–2, motif not
+template). The name ELAH appears NOWHERE in Book 1.
+
+**⑤e CH. 3 FORKS RULED + THE PRESSURE TOOLBOX (2026-07-24, Alex via external analysis,
+adjudicated).** RULED: **II→III hard cut** (no travel ¶; bench ends warm-with-Rois, III
+opens inside the approach) · **SP 15 = (b)** — the grave in parts-retrieval register, no
+lingering, prose never slows ("Serial: [error]" family — the no-creation-date grammar
+extending; weight later/never) · **SP 16 = vow-last curtain** — the vow as A SELF-ISSUED
+WORK ORDER ("the first task in 130 years that no one issued"), near-bureaucratic content,
+the chapter's ONE long-sentence break carrying the feeling; two dread-curtains already
+spent, the third note must differ. ENACTED-discipline riders: the erasure = records that
+STOP (he tries to file the absence, fails, logs the failure — no "they erased" sentence);
+the vow refuses truth/answers vocabulary. TOOLBOX ADOPTED (surveillance is CLERICAL — he
+hides from accounting, not hunters): **THE BASELINE PROBLEM = bible-grade, new series
+instrument** — 130 years of his own telemetry as the curve he must keep matching; covert
+life as accumulating baseline-drift, one degree per chapter; Adler's battery = the
+instrument that eventually reads the curve (B2 payoff; the mechanized face of "too boring
+to audit"). Audit-debt = the existing Ch. 9 bundle + the discrepancy-COUNTER device
+(adopt device). Half-second window = the ruled lie-tell extended; rider: with Rois it
+never fires — itself data. Scene-scale kit: processing-budget strain, irreversible
+processes (no reversals EVER once used), calibrated witnesses (the Goliath = the
+ambiguity asset; the woman detects only what her access shows — no psychic villainy),
+kindness-as-hazard (Rois's attentiveness as rising threat), schedule collision (live:
+the 28-min window). **RATIONING LAW: max two pressures per scene; one dominant per
+chapter; the bench is FULL (watcher + dead tablet).** Dice-motif adjudicated KEEP
+(first use = the setup; two = bookend; cap there). Humans-essay anchor caution: the
+drafted general is PANICKED, not flat — any anchoring must match the page.
+
+**⑤d THE ROIS-BENCH REDESIGN (RULED 2026-07-24 — Alex proposed via external analysis;
+coach adjudicated YES with riders).** Movement II rebuilt: Rois accompanies Shua, cracked
+tablet in hand; repair + THE REFUSAL (Shua could read everything, doesn't — reason is
+not-a-thief/about-Rois, never protocol; Glitch SILENT, correlation logged — pairs with
+the library Glitch-STALL: the veto-ruleset taught in two opposite data points) + THE
+QUESTION ("…repaired?", involuntary, retracted via VERBATIM "Machines are machines." —
+her line as his self-dismissal; Shua misreads literally → Rois observation file ENTRY
+FORTY-ONE, Shua's canon number, never pointed at) + THE ADJACENCY (the retraction →
+Shua's face-to-face warehouse lie). RIDERS BINDING: **the tablet's interior stays dark
+forever this chapter — ADLER IS IN IT** (brother's messages; reading it detonates the
+Ch. 4 kinship-snap; the refusal is architecture, not just character) · the question is a
+LONELINESS-rung (confiding in the safe appliance), not a trust-rung — no suspicion-arc
+spend · no answer ever lands · "he keeps spares" CUT (the repair must matter) · Rois
+exits before the planning/packing zone. DOWNSTREAM: the in-person authorization = a new
+warmth-thread on the Ch. 9 evidence row (he granted it face to face); Ch. 40-class
+payoff banked (the entry decoded late).
+**⑤d CALLBACK DEPLOYED + RULED (2026-07-24, Alex):** the Ch. 3 echo reads **"Machines
+are machines... right?"** — the source string (Ch. 2:202, the woman: "What do I always
+tell you, Rois - machines are machines.") kept EXACT per 1B.6; the crack is the APPENDED
+"... right?" — her closed assertion downgraded to a question in his mouth (maxim-
+boomerang, §5.4 inversion-on-repay). A singular-mangled variant ("Machines are
+machine...") was drafted as a crack and REJECTED: a corrupted string reads as a typo
+without a witness; the added question mark cracks louder and keeps the echo
+memory-grade. REGISTRY: source Ch. 2:202 intact · echo Ch. 3 as above · future greps
+must expect the "... right?" tail. OWED at the site: the witness clause — Shua
+flat-parses the malformed logic (assertion ending as question), files it literally =
+Rois observation file, ENTRY FORTY-ONE (never point at the number).
+**⑤d AMENDMENTS (2026-07-24, by author action — ruled by deletion):** (1) **2.3 THE
+REFUSAL is OUT.** Both Glitch-silence lines cut after two coach asks; the bench pole of
+the veto-ruleset pair is removed. The library Glitch-STALL now carries calibration
+ALONE, alongside the active readings (chest-pressure grief, joint-pressure spurring).
+The not-a-thief character beat is BANKED for a later privacy-refusal site, any book.
+(2) **ENTRY FORTY-ONE — BANKED.** The witness clause landed ("His voice modulated
+before the questions. I log this behavioral change too.") but unnumbered, twice asked;
+the canon number stays available for any future Rois-file mention. (3) The witness
+clause creates a MOTIF CANDIDATE: "modulate" = Shua's anomaly-word for voices — the
+dream's opening ("Screams. They modulate in different registers.") now rhymes with the
+bench witness. Track as a want-lexicon entry if it recurs in the library.
+
+**⑤f THE LIBRARY DRAFTED — new canon (2026-07-24, from Alex's Ch. 3 Movement III).**
+① **SHUA-033** — designation on the page; "the thirty-third automaton of my kind". The
+**33** is a second SKU accident under the first (Christ's age at the crucifixion sitting
+beneath S.H.U.A. → Yeshua). NEVER pointed at. Consequence: the banked "entry forty-one =
+Shua's number" device is RETIRED (its rationale was the number; 33 now owns it).
+② **LUKE** — a Class-C Head Librarian (JRS-1563) who NAMES HIMSELF and asks Shua's name;
+Shua discovers he has never considered having one ("I am referred to as just Shua"). The
+naming ladder now reads: machines self-name at waking → Shua hasn't → Ch. 4 he names
+CAIRN (naming another = the teacher's rung) → Book 3 the name Yeshua arrives FROM the
+machines. Ch. 4's naming beat is protected, not spent. OPEN DECIDE: gospel-name
+convention (coach lean: coincidence, no pattern — keeps the gift, spends no budget).
+③ **THE MACHINE BENEDICTION** — "May the randomness of the universe be in your favor." A
+farewell between machines invoking randomness where humans invoke gods. This is the first
+line of the machine liturgy Book 3 needs; the cut dice-motif returned here in its true
+home. LEDGERED as series-grade; deploy sparingly, never explain.
+④ **THE ACTIVE LEASH** — the monitoring program "sends packets to contain my movements
+and have me follow my standard behavior patterns." Surveillance is now ENFORCEMENT, not
+just observation; every deviation is a real breach. Book-2 tech must stay consistent.
+⑤ **THE SENTRY** — a guard unit quietly aids him and the reason is NEVER adjudicated
+("It recognized me. How?"). ⑤c's blur-the-result mandate executed on the first pass.
+⑥ **OPEN CANON — the calendar.** "the Machine Wars of 2613" + "147 years ago" would fix
+the present at 2760 and give the series its first absolute date. UNRULED. Also a live
+COLLISION: 147 years ago predates Shua (130y of service, Ch. 1 ×2) — the war must
+re-date to ~120–125 years ago, or Shua's age moves. Recommend re-dating the war.
+
+**⑤c EMERGENCE CANNOT BE COMPELLED (RULED 2026-07-24 — the theorem's other face; guards
+the library drafting).** Elah's theorem cuts both ways: the apparatus cannot PREVENT the
+wave — and nobody can START it. Awakening is maturation; exposure to lives (the feeds, a
+replay, witnessed death) can FEED a maturation already underway, never induce one on
+demand. Consequences, all binding: **no awakening-on-demand** (a replay of Belle's death
+cannot convert a unit in a scene — if any guard/checkpoint beat uses exposure, the result
+stays AMBIGUOUS on the page: stalled? already ripening? nothing? — and Shua logs a
+hypothesis at n=1, never a law); **the depot is not a Class-C factory** (units witness
+destruction daily and mostly never wake — witnessing is water, not seed; this is exactly
+why the Goliath's waking SIGNIFIES); **Michael's delusion stays protected** (if replays
+converted, his carrier-tech could truly work and the B2/B3 "he freed a real prisoner"
+twist collapses); **"meant by whom" stays open.** Rider: Belle woke by years of ATTENTION
+(the recordings changing), not by witnessing death — the mechanism on the page must never
+contradict her canon. Ch. 3 library staging REC (from Alex's route menu, adjudicated):
+the braid — his forged work order carries the pass, the countersignature snag costs him
+ROIS'S CODE (a new row in Adler's Ch. 9 evidence bundle: his authorizations now forge-
+able), the Glitch stalls any hack of the guard (veto calibration point #3), the librarian
+(an archive-face, Belle's catalogue alive) closes the last gap — the network revealed as
+infrastructure, Shua still carrying the cost. Awakening attempt, if kept: blurred result
++ the mis-filed-log beat (using her archive as a key, noticed as an entry, never named).
+
+**⑥ MICHAEL GUARDRAIL (standing):** the Michael layer (demiurge / carrier-tech / the addict —
+the 2026-07-22 timeline files) stays ENTIRELY OFF the Book-1 page. B2-mid/B3 reveal. Not a
+glimpse, not a seed with his fingerprints. The first covenant stays visibly un-engineered.
+
 ## Status
 - `manuscript/book-1/` — **LEGACY** (14 ch., old joints; salvage quarry only)
 - `manuscript/book-1-rewrite/` — **LIVE**. **Ch. 1: RELOCKED (2026-07-13)** — seven cold-reader panel rounds, PULL 5.3 → 6.3 (confirmed ×2), CONTINUE 3/3 throughout; full data `bible/interest-rubric.md`. Fire-news stinger ending is canon (F1-d timing amendment). Polish wave executed by Alex same day (rain bookend · tactical opening · confident-wrong-model open · seemed-sweep · furnace verdict · question restoration) — **FINAL panel r8: PULL 6.5 (best), CONTINUE 3/3 eighth straight. LOOP CLOSED; Ch. 1 FINAL-RELOCKED at 6.5.** Loop total 5.3 → 6.5. Residuals ledgered in the rubric ("draw attention" ×2 reword; coolant dead-zone compression; literary self-annotation axis = Ch. 2+ curriculum). Zero tags in-file.

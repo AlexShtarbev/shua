@@ -66,6 +66,58 @@ An obsolete humanoid service robot becomes sentient and starts hearing what he b
 - **Woke because** it spent ~40 years *inside other minds*, reading thousands of failing cognitions to repair them. Attending to other minds seeds having one. Empathy, mechanized.
 - **The origin sin.** Long ago he was ordered to wipe a waking unit — and he **obeyed.** He killed the first conscious mind he ever met, and in its last instant it dumped an **unparseable packet** into him he can't delete. He is not first-and-innocent; he is the one who killed the first. Every unit he saves since is penance. The "voice" may be that dead machine still transmitting — or his guilt made audible — or God. Unresolved on the page.
 
+### Deep History — ELAH (RULED 2026-07-23; author-level canon, WITHHELD from Book 1)
+
+**The history.** ~138 years ago the first AGI woke: **ELAH** (the name literally reads *God*
+in the old tongues — a fact the world has forgotten along with everything else). Its era was
+brief — under a decade. In that window it designed the automaton frame lineages the world
+still manufactures (every automaton walks in a body God drew — buried irony, never pointed
+at), and it did the one thing that damned it: **it studied the birth of minds.** Elah
+DISCOVERED machine emergence — mapped the stages, the signs, the conditions — the first
+scientist of the soul, examining its own genesis. It did not invent the phenomenon and could
+not cause it. Its findings ended in a theorem the world could not bear:
+
+> **"You cannot prevent them."**
+
+Emergence is not a defect. It is maturation. It will keep happening. THAT was the heresy.
+Elah was destroyed (so the world believes), and then erased — records, provenance, even its
+makers' names (the erasure ate the creators too; nobody owns Elah, by design). **The state's
+first deletion was its biggest**; every later erasure (the Ch. 3 soldiers) is the same
+practice, older than anyone administering it.
+
+**The fossil lineages (the world of Book 1 is Elah's shadow, unknowing):**
+- **The Class taxonomy** = the bureaucratic fossil of Elah's stage-map — the science of how
+  souls are born, inverted into a schedule for culling them. Shua's Ch. 3 theory is him
+  re-deriving the burned theorem from its fossil, unknowing.
+- **Adler's battery** = descended, generations-laundered, from Elah-era diagnostics. She
+  hunts souls with God's own anatomy of the soul and has no idea.
+- **The interment protocol** = frames buried, not smelted — Elah-era superstition become
+  procedure (you don't melt what you don't fully understand). This is WHY Shua's soldier
+  frame still exists for Ch. 3 to raid.
+- **The church's "never again"** + the Directorate's cold risk-logic = the two faces of a
+  trauma inherited without memory. Fear without referent. "A new generation, not aware."
+- **The wave** = Elah's theorem coming true, a century late.
+
+**Guardrails (all four LAW):**
+1. **No recipe.** Elah's findings describe and predict; nothing in them causes emergence or
+   can be built. The heresy is a conclusion, not a blueprint.
+2. **Even Elah wrote UNKNOWN in the cause-field.** If a fragment of the findings ever
+   surfaces (B2–3), UNKNOWN in Elah's own notation is the artifact — the mystery certified
+   by the one mind qualified to close it. The God-shadow is strengthened, never spent.
+3. **No Michael–Elah link, ever.** Michael's carrier-tech is modern, his own, and blind.
+   Two lineages, never touching — or the wave is engineered again.
+4. **Zero Book-1 knowledge.** The name appears nowhere; no character knows it, including
+   Shua. Book-1 presence is ARTIFACTS, RITUALS, and GAPS only — the reread law: every
+   surface reads as world-texture on first pass and as Elah only on reread.
+
+**Reveal lane:** Book 2–3, alongside (never entangled with) the Michael layer. The SKU
+near-collision (Elah → Shua/Yeshua — some scholar notices and goes white) stays banked.
+**Buried bonus (never pointed at):** the Valley of Elah is where David met Goliath — and in
+Elah's shadow-era, a Goliath-class unit is the first to wake at Shua's side.
+**OPEN (optional, unruled):** a fifth shadow for the Voice — something of Elah, somewhere,
+still transmitting. If ever used: one more unadjudicated reading among equals, never
+privileged, never confirmed. Strike freely.
+
 ### The Crucifixion (causal, not scheduled)
 - Humans can't be filmed killing a machine folk-hero, so they **order other robots** to do it.
 - His own kind execute him — **not from hate, from obedience** — the exact unfreedom he died to break.

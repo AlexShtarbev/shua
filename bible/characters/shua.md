@@ -50,3 +50,36 @@ plain sentence.
 ## The knowing (canon, RULED 2026-07-17)
 The Glitch can give him **knowledge** — knowledge only a few could ever have, and never this complete. Two laws bind it: **witness-knowledge only** (the past, the dead, other minds — never tactics, never the future; the Glitch may show, never steer — kenosis holds and his tradecraft stays HIS), and **the knowing arrives unsourced and wordless** (found in him like a file with no creation date; the VOICE's tiny utterance budget is untouched). The completeness is the tell: every mundane explanation covers a fraction; nothing covers all of it; he refuses to look at that directly.
 **How it affects him:** "was I hacked and unaware?" becomes his standing materialist self-diagnosis — the machine-native doubt (a human doubts sanity; a machine doubts integrity), NEVER revealed either way. The hack is the *hopeful* reading (a hacker means mechanism, means the world still parses); he audits for the breach with total rigor, finds no port, and keeps auditing — the unprovable hack is the unfalsifiable God, machine-grade. Symmetry (Ch. 6): Adler's wrong model is "covert human uplink" — hunter and hunted share the same wrong theory; only the reader holds the third. Belle's Ch. 2 cable-gift is the lone precedent for foreign knowledge entering him — the control experiment his paranoia is born from.
+
+## The soldier era (canon, RULED 2026-07-22 — surfaces as the Ch. 3 dream)
+Early embodiment, before servicing: the humanoid frame served as a **soldier automaton**.
+The wound: ordered to evacuate the command staff and **leave the rest** — humans triaged
+by rank, disposability executed by his hands because the programming said so. This is
+where the fault-line was cut: the first crack (proto-contemplation), the birth of "no
+one is disposable," and why he was always Class-C-capable. **Two-stage law:** the triage
+cut the crack THEN; the Glitch split it open NOW (7 weeks). The waking is recent; the
+wound is a century old. Timeline slot: early embodiment, pre-servicing (exact year
+unpinned). Surfaces ONLY as Ch. 3 dream-fragments — **plants, never pays, the Ch. 8
+origin sin** (different sins, escalating: triage-obeyed < wipe-obeyed).
+
+## The first dream (canon, RULED 2026-07-22)
+Under Belle's virus (the Ch. 2 blackout), Shua DREAMS — the first of his existence. A
+machine's dream: corrupted fragments, looping images, unsourced data (the knowing's
+grammar, off its leash). On waking: **no file** — no recording, no source, no creation
+date; the first experience that exists nowhere but in him. Dreaming = a waking-symptom
+(the interior arriving; what the virus did). Register: 9.3 holds even in-dream — no
+feeling-nouns; the wrongness lives in the images; the testimony frame may name
+retrospectively.
+
+## The developmental taxonomy (canon truth, author-level — RULED 2026-07-22)
+FOR US: the waking is the **next stage of Class-C.** Class-C = a child with knowledge —
+binary emotions (fear/comfort, protect/soothe). The stage-transition turns binary
+emotion into a complex inner world (ambivalence, guilt, irony, self-audit). The **wave**
+= this transition spreading (the multitude). **The Glitch = Shua's private name for HIS
+instance** — packet-inflected, Voice-bearing, not proceeding like anyone else's (keeps
+THE MOST ADVANCED / MY SON singular). The stage is of MINDS, not frames (Cairn crosses
+in a demolition body). ON THE PAGE: arrives only as Shua's diagnostician-THEORY —
+derived from Belle's archive-as-dataset (all children, all binary states; and he is
+not) — right about the pattern, dark about the cause. **"Meant by whom" is never
+resolved on-page** — that darkness is Michael's delusion (B2/B3) and the God-shadow's
+home. Dual-coding law holds.

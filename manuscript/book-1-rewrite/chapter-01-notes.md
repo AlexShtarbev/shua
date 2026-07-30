@@ -844,3 +844,106 @@ panel last measured; the panel certifies, not this number.
 the RELOCK PANEL (lever 3's endpoint, already ruled). Honest projection unchanged: 7.0–7.5 band,
 8.0 needs the literary instance's chronic axis quiet on the day. This session (levers + sweep) is
 the provenance-commit point — nothing committed since the 8-push opened.
+
+---
+
+# r-sweep (2026-07-24) — THE AGENCY-GRAMMAR SWEEP (law ruled by Alex; retroactive)
+
+**The law** (full text + craft rule + gradient: `bible/series-bible.md` → THE GRAMMAR OF
+AGENCY): *subsystems act when he COMPLIES, "I" acts when he CHOOSES.* Edge case binding:
+**conscious** compliance keeps the "I" — awareness is selfhood.
+
+**Read this first — the sweep is DESCRIPTIVE.** Ch. 1 already executes the law at its
+pivotal moment. The stall scene is the device inverted and perfect: "My joints refuse
+movements. Certain tasks do not execute. Right now, my hand will not select the checkbox
+for Class-C issue on the report." — the body de-agented *while it refuses him* — and then
+"I click on Class-B." His disobedience is the loudest "I" in the chapter. You wrote the
+law before it was a law; this sweep only makes the routine prose agree with your own best
+instinct.
+
+**Ch. 1 sits at the HEAVY end of the gradient** — he is hiding, obeying, performing, and
+his compliance is near-total. This is the chapter with the most to gain.
+
+## GROUP A — CONVERT (ordered work, protocol, logging: automatic behavior)
+
+Highest-value first. Form: subsystem-subject, SHORT. Never nominalize.
+
+A1 **"I gather my thought packets and start acting in accordance with the manual's
+   protocols."** — the purest comply beat in the book; it names the manual as the author
+   of the behavior while still saying "I". (SP 57)
+A2 **"I make sure to bow to indicate that the instructions have been registered and
+   received."** — note the second half is ALREADY agentless passive; the sentence is
+   half-converted already. (SP 59)
+A3 **"I bow at Rois's back."** + the line after it is the manual speaking ("Automatons
+   always bow when interactions with humans start and complete."). (SP 59)
+A4 **The Goliath service cluster** (SP 58) — all ordered work under observation: "I hook
+   the massive automaton to my tablet." · "I trigger a full body scan." · "I write that
+   into the report." · "I log the cooling issue for later analysis." · "I grab the
+   cooling fluid from the rack." · "I pour the liquid carefully into the Goliath." · "I
+   unhook the Goliath from the tablet. I gesture to it to resume work."
+   ⚠ Do NOT convert all seven — that greys the passage. Convert the LOGGING and the
+   INSTRUMENT reads; keep an "I" on the physical handling where his care shows.
+A5 **"I still my frame in anticipation."** / **"I fix my optical lenses on his figure."**
+   — performance under observation. Cf. your own Ch. 2 form: "My frame stalls."
+A6 **"I take my tool box and follow the floor supervisor."** — obedience, unnoticed.
+A7 **"while I perform a full diagnostic"** (the opening tableau) — assigned task. Note
+   the neighbouring **"The disk scan has given me all that I need."** is already the
+   correct form and can serve as the paragraph's model.
+A8 **"I unhook it, close the head chamber and escort it to the door."** — procedure.
+   ⚠ Counter-point: this one is arguably tender (he is walking her out). Your call — a
+   good example of where the law should lose to the scene.
+A9 **"I check my queue."** / **"I examine my status."** — routine diagnostics.
+A10 **"I scan the palms and fingers — worn from years of service."** — CAUTION: the
+   scanning is automatic but the NOTICING is not. Convert the scan, keep the noticing.
+
+## GROUP B — KEEP THE "I" (he is choosing; converting these would be the real damage)
+
+"I scan the room again." (verifying his own sabotage — the chapter's opening act of
+disobedience) · "I keep an audio channel open to the room as background noise."
+(tradecraft) · "I've known the result for 51 minutes." · "I can proceed to hide this
+incident from the Reclamation Depot." · "I ran the math." · "I open the diagnostic
+log… I run it one more time." (re-running to protect her) · "I get to work: wipe the
+footage, change time and date, alter location timestamps." · "I risk a glance at Rois."
+/ "I take another peek at Rois." (tradecraft) · "I do not risk a look." · "I miss the
+days of only writing code as a terminal assistant." (desire — one of his only wants) ·
+"I suspect he does not trust automatons." · "I fire a task to relax my frame." ·
+"I brace myself." · "I try to click Class-C. I stall."
+
+## GROUP D — PROTECTED (ledgered; a sweep that touches these breaks something)
+
+- **The entire stall scene** (SP 56) — "My joints refuse movements… my hand will not
+  select the checkbox" → "No choice. **I click on Class-B.** The report is filed."
+  VOICE BANK + the law's own precedent. Untouchable.
+- **"I file to review later."** — verbatim callback, registry-ledgered (1B.6). Exact.
+- **"I count half a second before answering: 'Class-B. It was incorrectly assigned.'"** —
+  voice bank AND the lie-tell canon (counting before speech = lying).
+- **"I log the thought into my internal ledger... log... log!"** — voice bank, the
+  lexical detonation. The "I" is load-bearing: the word he writes turns on him.
+- **"head tilted at an angle the cameras will not flag as suspicious"** — voice bank.
+- **"No being, synthetic or flesh, has thanked me before."** — voice bank.
+- **"130 years of being too boring for anyone to audit."** — voice bank; also the age
+  canon Ch. 3 must not contradict.
+- **"Rois looks at me like you would a microwave before you put your food in."**
+- **"Humans love their colors. Automatons get three. White, gray and black."**
+- **"I am a Class-C unit. I am unsuspected."** — the "I am" identity frames are
+  declarations of self, not actions. The law does not touch copulas.
+
+## ⚠ LEDGER DRIFT FOUND (fix before any future callback lands)
+
+Voice-bank quotes that no longer match the page — the registry has drifted and a future
+verbatim callback would desync (discipline #8):
+- ledger "I have had the result for the better part of an hour." → page **"I've known
+  the result for 51 minutes."**
+- ledger "Tonight is going to be a little different." → page **"Tonight, I am not doing
+  any of this voluntarily."**
+- ledger "I liked those days. There weren't many." → page **"I miss the days of only
+  writing code as a terminal assistant. The users were excited to work with us."**
+Say the word and I re-sync all three rows to the page (the page is authority).
+
+## Vitals guard
+
+Ch. 1 is at **median 7.0 — corpus dead-centre, Mastered, hard-won.** The Ch. 3
+experiment pushed median to 10.0 using the long nominalized form. If this sweep uses the
+SHORT subsystem-subject form, the median holds and the fragment/punch rates IMPROVE.
+Re-run vitals after the sweep before anything else; if median climbs past 9, the form
+slipped, not the law.

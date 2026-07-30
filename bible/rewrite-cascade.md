@@ -1,5 +1,17 @@
 # Book 1 Rewrite — Cascade Impact Map (2026-07-10)
 
+> ## ⚠ CHAPTER RENUMBERING NOTICE (2026-07-29)
+> Chapter 3 was SPLIT at its ruled hard-cut seam:
+> **Ch. 3** = dream + wake + bench (ends "I close the box. Time to go.") ·
+> **Ch. 4** = library + graveyard (opens "State your designation and order number").
+> **Every reference in this file written BEFORE 2026-07-29 that says "Ch. 4" means the
+> CAIRN-NAMING ∥ ADLER-HUNT chapter — which is now Ch. 5.** Likewise old "Ch. 5" (the
+> miracle) is now Ch. 6, and so on for the rest of Book 1's planned numbering.
+> Entries dated 2026-07-29 or later use the NEW numbering. Nothing below has been
+> rewritten — a redirect is safer than a mass find-replace on canon prose. Ask and I will
+> run a full renumber sweep with a diff.
+
+
 > **Trigger:** Alex's hand-written Ch. 1 (`manuscript/book-1-rewrite/chapter-01.md`) adopted
 > as new canon (user decision, 2026-07-10), superseding three locked joints. The old
 > manuscript line (`manuscript/book-1/`) is **LEGACY** — kept for salvage, no longer canon.
@@ -781,10 +793,35 @@ and have me follow my standard behavior patterns." Surveillance is now ENFORCEME
 just observation; every deviation is a real breach. Book-2 tech must stay consistent.
 ⑤ **THE SENTRY** — a guard unit quietly aids him and the reason is NEVER adjudicated
 ("It recognized me. How?"). ⑤c's blur-the-result mandate executed on the first pass.
-⑥ **OPEN CANON — the calendar.** "the Machine Wars of 2613" + "147 years ago" would fix
-the present at 2760 and give the series its first absolute date. UNRULED. Also a live
-COLLISION: 147 years ago predates Shua (130y of service, Ch. 1 ×2) — the war must
-re-date to ~120–125 years ago, or Shua's age moves. Recommend re-dating the war.
+⑥ **THE CALENDAR — RESOLVED AND NOW CANON (2026-07-24).** The war re-dated to **97 years
+ago**; collision gone. The series timeline reconciles end to end: **Machine Wars 2613 ·
+present 2710 · Shua manufactured ~2580 (active 130y 10m) · Elah wakes ~2572**, its era
+under a decade — so **Shua was built at the very end of Elah's window, in a frame lineage
+Elah designed**, and fought at ~34. The absolute calendar is adopted; every future date
+reconciles against 2710. (Buried, never pointed at: he is SHUA-033 and was ~33 at the war.)
+⑦ **ARES-002 (new canon).** His soldier frame's designation, etched on the sun blade, and
+the key that locates the interment record. **Ares** under **Yeshua** is the second buried
+name-accident after S.H.U.A. — the war god and the savior in one body-lineage. Never
+pointed at. The frame is interred on the third floor, sector F; killed from behind by a
+Sun Blade (his own elite class), limbs gone but the battery compartment intact.
+⑧ **THE VOW — first form spoken in the library, OPEN on scope.** Drafted as "whatever I
+was, wherever I was is of no consequence, but I, Shua, will never cause harm" — logged in
+his diary (work-order register ✓) and **self-named** (the naming ladder pays inside the
+chapter: offered a name by Luke → deflects → self-designates when he binds himself).
+✅ **RESOLVED 2026-07-29 — THE VOW IS CANON, in its impossible form:**
+> *"whatever I was, wherever I was is of no consequence, but I, Shua, **will never let
+> anyone in front of me die so long as I am operational.**"*
+The tragedy engine is intact: it reaches OUTWARD (an obligation he must fail), not inward
+(a restraint he could keep). Three properties worth protecting in every future deployment:
+**(1) "anyone" is species-neutral** — the vow covers humans and automatons in one word,
+which is the whole thesis and must never be narrowed to either; **(2) "in front of me"**
+is the limiter that keeps it from absurdity — not everyone everywhere, everyone *in his
+presence* — and it aims Book 3 with terrible precision, because at the cross the witnesses
+are exactly that; **(3) it is logged in his diary**, i.e. issued as a work order, per the
+SP 16 register. Portability test passed (Cairn can echo it in four words).
+VERBATIM REGISTRY ROW — exact string above; any Ch. 4 weld or Book-2/3 quotation must
+match it to the letter (1B.6), and the wording is the one that gets broken, inverted and
+repaid across three books.
 
 **⑤c EMERGENCE CANNOT BE COMPELLED (RULED 2026-07-24 — the theorem's other face; guards
 the library drafting).** Elah's theorem cuts both ways: the apparatus cannot PREVENT the

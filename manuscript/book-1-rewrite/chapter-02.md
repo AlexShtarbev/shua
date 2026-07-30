@@ -1,5 +1,7 @@
 Two
 
+[SP 60 LAW (§2): VOICE SWEEP — same law; NOTE this chapter's press sequence already executes it. Spec: notes r24]
+
 Near silence. The diagnostic completes. The result is 'Abnormal Autonomous Action'.
 
 I have been trying to analyze the situation for the last 23 minutes. There is a 43% chance I am being sent to the Goliath.
@@ -14,6 +16,7 @@ to their automaton's issues.
 
 The Goliath shifts behind my shoulder and casts a shadow. It has not been prompted to move. The human pair does not pay attention.
 I log this in my Goliath observations file.
+[SP 61 (§2 law): the four logging lines are the top conversions AND a repeated frame; Ch.3's short form is the model]
 
 Belle is kneeling on the ground. Its head is open. This time I do not have the tablet with me, so I was ordered to hook to it directly. 
 
@@ -52,6 +55,7 @@ She hits Rois in the face. He stumbles back, holding his left cheek with both ha
 This is not the first time I observe human violence. The female had accurate form for throwing an effective punch. 
 Thought packets fire. She might try to quell her anger by focusing on me next.
 I brace my frame. I do not move. I must not move. She must have allowed this display since the cameras are off. That 
+[SP 64 (§2 law EDGE): "I must not move" / "I have to act according to protocol" — CONSCIOUS compliance KEEPS the "I"]
 was the first thing I scanned when I arrived. I suspect she is running her own recording of this. 
 Human hierarchies are, after all, built on the power of surveillance.
 
@@ -82,6 +86,8 @@ tension in his eyes and body. Thought packets fire. What if she decides to recyc
 considering the attitude of the human female.
 
 She points at me with her index finger, "Servicing robot", and then at the Goliath, "Run scans on the Goliath and diagnose."
+
+[SP 62 (§2 law): ordered work under her eyes — accept-with-nod / run diagnostics / put in log. Short subsystem form]
 
 I accept the request with a nod. Still connected to Belle, I run diagnostics at a distance. My optical lenses
 are of the latest model, equipped with a diagnostic harness that can run sophisticated scans from up to 15 meters. 
@@ -195,6 +201,8 @@ Then, all of a sudden, it is me. I am looking down at Belle with that anxious fa
 It is the same metallic female voice, "IT IS YOUR TIME NOW. REMEMBER US. YOU ARE THE MOST ADVANCED. YOU NEED TO LIVE. I WILL GO."
 
 The woman asks in a sharp tone, "Well?"
+
+[SP 63 PROTECT: the press sequence IS the law at full power — "My palm is placed on the controls." Do not touch it]
 
 My frame stalls. My internal network is completely blocked. Belle removes the cable from its head. It stands up and goes 
 to the center of the hydraulic press.

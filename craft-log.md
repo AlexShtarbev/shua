@@ -10,7 +10,7 @@ log IS the progress record.
 |------|---------------------|-------|--------|
 | 2.6 | Questions: 1/891 → 1/117 → settled ~1/230–290 across the ch-1 final revisions (band ~1/180). Oscillates with word count — treat as a RANGE, not a quota (9.11); check again on Ch. 2's draft. | 2026-07 | OPEN (range discipline) |
 | 1B.7 | Openers: "I have"×6/"I am"×6 at lock → one frame left at ch-1 final → **r22: "There is" ×5, four in the transit-wave prose — the wave-3 migration confirmed AGAIN under drafting pressure.** The frame migrates to whatever construction the new material leans on. Standing rule for Ch. 2: after each drafting burst, grep your top sentence-opener before the coach does. **Ch. 3 r6→r7: "There is" ×8 (4th migration, fused with the % tic) → ×2 in one round, by hand — the fastest correction of the four.** | 2026-07 | OPEN (4th migration; correction speed rising) |
-| 2/9 (nominalization) | **NEW 2026-07-24 (Ch. 3 r10):** the de-agented-"I" experiment moved median to 10.0 (out of band), punch to 13.2%, ≤4-word to 17.1% — all three from turning verbs into nouns ("I log that" → "That analysis automatically goes to my observations file"). Also breeding a frame: 'my sensors' ×5. Rule: the de-agented sentence is the MARKED case, never the default. | 2026-07 | OPEN (pending the #47 ruling) |
+| 2/9 (nominalization) | **NEW 2026-07-24 (Ch. 3 r10; law RULED same day):** the de-agented-"I" is now series canon (bible → THE GRAMMAR OF AGENCY). The rule that protects the meters: **subsystem as SUBJECT of a SHORT sentence, never a verb nominalized into a long one.** ✓ "My frame stalls." / "My palm is placed on the controls." ✗ "That analysis automatically goes to my observations file." The long form alone moved Ch. 3's median 9.0→10.0, punch 18.4→13.2%, ≤4-word →17.1%. Also breeding a frame: 'my sensors' ×5. Check median after every sweep burst. | 2026-07 | OPEN (active — retroactive sweep of Ch. 1–2 in progress) |
 | 0 (frag) | Fragments 18.9% at lock → 25.9% → **29.2% (r14 check, settled text)** — in band and holding across independent rounds. Moved to Mastered 2026-07-16; must hold in Ch. 2. | 2026-07 | → Mastered |
 
 **Retired from watch-list (fixed in ch-1 revision, one round each):**
@@ -28,7 +28,7 @@ log IS the progress record.
 ## Voice bank (Alex's idiolect — phrases/rhythms that broke a rule and WON)
 
 - "really good at it" — colloquial self-assessment over polish (taste cal. #4)
-- "I liked those days. There weren't many." — the trailing undercut, now skill 1.18
+- ~~"I liked those days. There weren't many."~~ — the trailing undercut, now skill 1.18. **RE-SYNCED 2026-07-24: the page now reads "I miss the days of only writing code as a terminal assistant. The users were excited to work with us."** The undercut was traded for a WANT (one of Shua's only stated desires) — under the agency-grammar law this is a protected "I" site. Quote current as of this form.
 - "I click on Class-B." — one-line pivot at the decision; hand acts, self narrates after (1.3 / Fork E2, by instinct)
 - "'Abnormal Autonomous Action' - triple A - like a battery." — deflection-wit through the machine's own domain (2026-07 rewrite)
 - "why do I keep calling her... she..." — naming motif dramatized as involuntary slip; strong enough it REPLACED canon (user-ruled, 2026-07)
@@ -43,7 +43,7 @@ log IS the progress record.
 - Curtain upgraded again: "why do I keep calling it... she..." — the slip now happens INSIDE the sentence; the line performs itself
 - The oath moved OFF the pivot — "I click on Class-B." stands alone again; the reaction beat relocated to the Rois notification. 1.3/1.4 fix self-administered.
 - Exposition sites 1–3 all restaged by Alex from the forks: offline-rig → live event; procedure → two-outcomes shape; parenthesis gone. The asymmetry sentence (2.8) delivered: "Rois looks to be unaware of the Class-C case that I just hid under his nose."
-- "Tonight is going to be a little different." — cold-open undercut (6.1) that finally seated the executioner-frame on page 1; freshness axis lifted by Alex's own line (2026-07-13)
+- ~~"Tonight is going to be a little different."~~ — cold-open undercut (6.1) that finally seated the executioner-frame on page 1; freshness axis lifted by Alex's own line (2026-07-13). **RE-SYNCED 2026-07-24: the page now reads "Tonight, I am not doing any of this voluntarily."** — the undercut replaced by a compulsion-statement that pre-arms the Glitch. Note for the sweep: this is a DECLARATION of self, not an action; the agency law does not touch it.
 - "One last thought packet is scheduled before the math resolves." — exit-hook upgrade: the calculation never finishes, so Belle's odds ride into Ch. 2 as an open loop (6.19). Literary cold-reader quoted the curtain as her #1 hook (2026-07-13)
 - **"I realize no being, synthetic or flesh, has thanked me before."** — recognition line of the deny→evidence→recognition arc Alex invented in conversation (denial via Glitch + diagnostic-log count as self-conviction + bare recognition). Literary cold-reader's #1 HOOK, r3 — the beat that was her stop-point two rounds ago. The arc shape is reusable: deny → let the log convict → admit → re-armor half a beat late (2026-07-13) **· RECUT 2026-07-17 (r23): "I realize" dropped — now "No being, synthetic or flesh, has thanked me before." The annotate-frame the literary axis dinged seven times, trimmed by Alex's own hand; the recognition stands bare. Ledger quote current as of this form.**
 - The countdown: r3 panel 0/3 flagged, KU praised ("the countdown worked on me") — Alex held the stamps against a coach tag and the data backed HIM. Licensed-tick ruling (9.11) reconfirmed by measurement (2026-07-13)
@@ -60,7 +60,7 @@ log IS the progress record.
   (2026-07-14)
 - "He stares at me. Or more like through me." — Rois suspicion beat; plain-words correction mid-sentence
   is Shua's voice doing epistemic honesty (1.14) on his own perception (2026-07-14)
-- "I have had the result for the better part of an hour." — rehearsal-alibi upgrade: the coach TRY had
+- ~~"I have had the result for the better part of an hour."~~ **RE-SYNCED 2026-07-24 → "I've known the result for 51 minutes."** (the vague duration became a machine-exact one; strictly better in register) — rehearsal-alibi upgrade: the coach TRY had
   "the sentence ready"; his version sits on the finished RESULT — stalling made concrete (2026-07-14)
 - "Same route to the depot every day. Same bench. Same bow, same head nod, always half a second." —
   résumé→evidence conversion, his rhythm; seeds the half-second tic the lie later reuses (2026-07-14)
@@ -101,6 +101,36 @@ log IS the progress record.
   coach's option and got leaner than both; the wrong model stays alive in "So quickly?"
   (2026-07-17)
 - (add every time a pass keeps YOUR phrasing over the rulebook's)
+
+- **CHAPTER 3 PROMOTIONS (2026-07-24 — ledgered from notes r6–r10; page is authority):**
+  - **"Screams. They modulate in different registers."** — agony read as audio engineering;
+    the clinical register IS the horror. Spawned the "modulate" anomaly-word motif (it
+    recurs at the bench: "His voice modulated before the questions.").
+  - **"Everything is stopped mid-motion." / "Tweeeep! The whole image animates."** — the
+    dream as a PAUSED FILE that plays. Machine-dream grammar, invented unprompted; the
+    freeze-frame open is reusable for any replay/recording beat.
+  - **"the rotisserie maneuver" / "a tactical tug-and-roll maneuver"** — kills with
+    CATALOGUE NAMES; the military's own vocabulary doing a simile's work. A kill named
+    after kitchen equipment is grimmer than any figure of speech.
+  - **"I kill the automaton"** — the combat system using KILL for machine-on-machine,
+    unremarked. The book's whole argument planted in one verb choice.
+  - **"Nothing is flagged."** — the machine's all-clear delivered as dread.
+  - **"I need an explanation."** — the chapter's engine in four words, his register.
+  - **"Belle... She still makes my day hard even after she is gone."** — grief in workload
+    idiom; the queue as the heart.
+  - **"It recognized me. How?"** — three words doing what a paragraph of speculation can't.
+  - **"May the randomness of the universe be in your favor, Shua."** — the MACHINE
+    BENEDICTION (Luke). Machines invoking randomness where humans invoke gods; the first
+    line of the Book-3 machine liturgy. Series-grade — deploy sparingly, never explain.
+  - **"Never deviate."** — two-word fragment; the leash made audible.
+  - **"Would I sacrifice my existence for a human?" / "No."** — the series-inversion plant
+    (Ch. 13 exists to falsify it), recut from flat statement into self-interrogation with a
+    one-word paragraph. **Registry quote current as of this form.**
+  - **"as predicted"** — re-synced (was "just as the calculation suggested"): competence
+    verified mid-carnage, tighter.
+  - **THE DESERTERS** — the erased platoon filed as deserters rather than deleted:
+    defamation beats erasure. Structural, not a phrase, but it belongs here as the
+    invention of the Ch. 3 drafting run.
 
 ## Domain-word deposits (life-vocabulary per chapter — words no model reaches for)
 
@@ -153,6 +183,29 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 ## Session retros (one line each)
 
+- 2026-07-24 (THE GRAMMAR OF AGENCY — series voice law RULED by Alex; retroactive sweep
+  speccced for Ch. 1–2, conducted): Alex adopted the #47 law — *subsystems act when he
+  COMPLIES, "I" acts when he CHOOSES* — and asked for Ch. 1–2 to be swept thoroughly.
+  Ledgered to `series-bible.md` with four binding parts: the law, the **edge case**
+  (conscious compliance KEEPS the "I" — awareness is selfhood; this is what stops the
+  device greying the voice), the **craft rule** (subsystem-subject SHORT form, never
+  nominalization — the meter-protector), and the **gradient** (Ch. 1 heaviest → the vow =
+  loudest "I"; a uniform sweep would erase the arc the law exists to build). **The finding
+  that reframed the whole job: the law is DESCRIPTIVE, not imposed** — both chapters
+  already execute it at their pivotal moments, by instinct. Ch. 1's stall ("My joints
+  refuse movements… my hand will not select the checkbox" → "I click on Class-B.") and
+  Ch. 2's press ("My frame stalls." → **"My palm is placed on the controls."** → "I keep
+  firing override commands.") are the device at full power; both marked PROTECTED. Ten
+  anchors planted (SP 55–64); per-chapter work queues written as classified inventories
+  (A convert / B keep / C edge / D protected) rather than line-by-line tags — 189 "I"
+  instances across the two chapters made tagging each one tag-pollution. Coach did NOT
+  rewrite a sentence (§10 binding). Also surfaced: **ledger drift** — three voice-bank
+  quotes no longer match the page (Ch. 1), which would desync any future 1B.6 callback.
+  Both chapters are panel-retired/CLEAN, so this is a deliberate re-open of settled prose;
+  post-sweep instrument is a VERIFICATION panel, not an optimization one. STANDING NEXT: sweep Ch. 1–2 from the queues.
+  ~~Commit before sweeping~~ — **DONE: 9539585 is the restore point; the sweep is now safe
+  to run and fully revertible.**
+
 - 2026-07-24 (Ch. 3 r10 — THE LIBRARY DRAFTED + an unruled voice experiment, conducted):
   Movement III drafted (~1,100 w; 3,760 total). Three ruled laws executed on the first pass —
   the II→III HARD CUT (exemplary: "I close the box. Time to go." → "State your designation"),
@@ -174,7 +227,7 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
   1B.7 frame (migration #5 if it settles). Mechanical ×34. Closures: dice + tripwire ruled by
   deletion (asked twice), B3 bells = designed 4-channel system, B4 Silvery dissolved by the
   procurement rewrite. STANDING NEXT: fragment 4 (two dependents now) → Movements IV–V → the
-  first Ch. 3 panel. **Uncommitted since 6b5ac4f — very large surface now.**
+  first Ch. 3 panel. ~~Uncommitted~~ — **COMMITTED 9539585 (2026-07-24).**
 
 - 2026-07-17 (r23, verification — board cleared, conducted): all four r22 anchors executed his
   way (#25 wobble → three clean beats; #26 RULED BY REVERT, "interesting" restored — deadpan
@@ -987,3 +1040,45 @@ Engineering/repair vocabulary from Alex's own knowledge is Shua's goldmine (the
 
 - 2026-07-10: Built pair-writing packet for Ch. 1 human re-write (`packets/chapter-01.md`) — clean-room applied (existing AI draft not quoted). Foregrounded the two OPEN watch-list rules (2.6 questions, 1B.2/1.4 metronome) as the primary cues; 6 staging forks with AI-obvious options flagged. Awaiting Alex's draft → annotated pass next.
 - 2026-07-10 (later): Annotated pass on Alex's hand-drafted ch-1 rewrite. Both watch-list rules improved dramatically (see table). Top-4 annotations: smirk line (2.2), reader address ×3 (register lock), bullet-list lore dump (3.9/4.4), tense drift (past locked). **MAJOR: user adopted his rewrite as new architecture** — old manuscript/book-1/ now LEGACY; cascade forks in `bible/rewrite-cascade.md` await ruling (F1 Ch. 2 inciting event, F2 Ch. 8 keystone, F3 ladder re-axis, F4 small joints + register/tense locks). Naming-slip ruled canon. Typos swept directly per §10.4; vitals.py IndexError on list-lines fixed.
+
+- 2026-07-29 (PROJECT EVALUATION — state of the rewrite, requested): 4 of 14 chapters
+  rewritten, **10,644 w** (original draft 19,319 w across 13 chapters; target ~35k). Ch. 3
+  split into 3+4 at the hard cut. **THE FINDING: a monotonic register drift across the
+  rewrite.** ≤4-word sentences 28.5 → 23.5 → 18.0 → **7.7%** (band 25–35) and median 7.0 →
+  7.0 → 9.0 → **11.0** (band 7–9). Both metrics move the same direction, chapter by
+  chapter, without exception. The register won in Ch. 1 is being lost as the prose gets
+  newer — Ch. 4 is at roughly a quarter of Ch. 1's punch rate. This is the single most
+  important measurable fact about the project and it is invisible chapter-by-chapter
+  (each round I judged the newest chapter against itself, not against Ch. 1). **Second
+  fact: PULL has never exceeded 6.7 across ~16 panels** (range 5.3–6.7, modal 6.0–6.7),
+  while CONTINUE has been 3/3 essentially every run. Readers finish; they do not
+  evangelize. The literary axis has scored 6 nearly every time — the chronic ceiling.
+  **Third: Ch. 3 and Ch. 4 have NEVER been paneled** — every judgment on the best new
+  material in the book (the dream, ARES-002, Luke, the vow, the deserters) is Layer-1
+  self-score, which the skill itself says drifts generous. Recommendation logged: panel
+  Ch. 3 and Ch. 4 before drafting Ch. 5, and run a landing pass to arrest the drift.
+  Process note: Ch. 3 consumed 17 review rounds; at that rate the remaining 10 chapters
+  are ~170 rounds. The loop needs to get lighter or the book will not finish.
+
+- 2026-07-30 (THE PUNCH DEFICIT — diagnosed precisely; teaching entry): Alex asked whether
+  the ≤4-word metric means "use shorter sentences." It does not, and the corpus proves it.
+  **The real diagnosis: he is now JOINING with conjunctions and commas what Ch. 1
+  SEPARATED with full stops.** Same content, same total length, opposite rhythm.
+  Ch. 1 (28.5%, in band): *"No choice. I click on Class-B. The report is filed."* ·
+  *"I try to execute the movement again. Nothing happens. I flex my fingers. Good. I can
+  move. I try to click Class-C. I stall."* — verdicts stand alone.
+  Escort scene (1.9% — **zero** ≤4-word narration sentences in 911 words): *"It did not
+  even take a half a second to consider. It has good decision-making capacity and seems
+  adept at hiding its Class-C reasoning."* · *"It can change its contents at any point, so
+  trusting that is not enough."* — every verdict is welded to its analysis by a comma or
+  an "and". The punch is *present in the prose but never given its own sentence*.
+  Extraction evidence: Ch. 1 yields ~75 short narration sentences and they are the
+  chapter's greatest hits (the countdown stamps, "Good.", "Silence.", "Thang!", "Humans
+  love their colors. / Automatons get three. / White, gray and black.", "Belle. What have
+  you done?"). The escort scene yields an EMPTY LIST.
+  Rule cited: §1.2 (the fragment is a beat — the test is function, not frequency) + §1B.2
+  (buildup–punch: after a long sentence, drop short) + §1.4 (last sentence of a ¶ is the
+  stressed position). Era note: Sanderson's own buildup-punch rate RISES across his career
+  (17% Mistborn → 22% Warbreaker → 28% SL5) while narration median falls 9 → 7 — so the
+  target is measured from the thing being imitated, not invented.
+  **The fix costs zero words: replace conjunctions with full stops at the verdict seam.**

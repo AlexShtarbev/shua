@@ -1,5 +1,7 @@
 one
 
+[SP 55 LAW (§2): VOICE SWEEP — subsystems act when he COMPLIES, "I" when he CHOOSES. Spec+protect list: notes r1-sweep]
+
 I scan the room again. Four cameras. Their connectivity indicators are now flashing red.
 Good. The room is now offline.
 
@@ -55,6 +57,8 @@ I check my queue. The notification I received earlier is flashing: GOLIATH-CLASS
 A Goliath with an issue means a floor supervisor requires assistance. Rois is on his way.
 
 7 minutes left.
+
+[SP 56 (§2 law): the stall scene is ALREADY the law, inverted — body refuses, "I" chooses Class-B. PROTECT ENTIRE ZONE]
 
 Hide Belle or send it off? 48 seconds left to finish the report. Whenever I perform actions or process certain thought packets,
 pressure on my chest and behind my neck plates develops. My joints refuse movements. Certain tasks do not execute.
@@ -117,6 +121,8 @@ again. Go service it now. I want it fixed ASAP." Rois talks just like he types c
 in the terminal. I make sure to bow to indicate that the instructions have been registered and received. After my
 glitching episode, I examine my status. My hands are stable. I gather my thought packets and start acting
 in accordance with the manual's protocols.
+[SP 57 (§2 law): "gather my thought packets and start acting in accordance with the manual" — the purest comply beat]
+[SP 59 (§2 law): the bow + "instructions have been registered and received" — pure protocol; the manual is the actor]
 
 I take my tool box and follow the floor supervisor. I've never worked out why Rois prefers giving commands live
 and not through the ticketing system. I suspect he does not trust automatons. I miss the days of only writing code as a
@@ -143,6 +149,8 @@ his tablet: "Run quick diagnostic on the Goliath. Attempt all low-to-medium leve
 
 I risk a glance at Rois. The floor supervisor looks to be unaware of the Class-C case that I just hid under his nose.
 If he suspects anything, then the next time I see the Goliath will not be for a diagnostic.
+
+[SP 58 (§2 law): ordered work — hook / trigger scan / write report / grab / pour / unhook. Subsystem-subject, SHORT]
 
 I hook the massive automaton to my tablet. The cooling fluid has run out. How is it burning through it so quickly?
 My heat sensors show the rear compartment is running 40 degrees higher than baseline. I write that into the report.

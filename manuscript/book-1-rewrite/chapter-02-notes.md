@@ -1976,3 +1976,117 @@ So: work #66-#68 (the montage is the real remaining gain), fix the one flagged g
 and then **the Chapter 2 prose is done** — genuinely in the 7-8 band, which is where line-work
 can take it. The 10 was never in these sentences; it's Chapter 3 drafted at this concentration
 plus the architecture firing. Draft forward.
+
+---
+
+# r24 (2026-07-24) — THE AGENCY-GRAMMAR SWEEP (law ruled by Alex; retroactive)
+
+**The law** (full text: `bible/series-bible.md` → THE GRAMMAR OF AGENCY): *subsystems act
+when he COMPLIES, "I" acts when he CHOOSES.* Edge case binding: **conscious** compliance
+keeps the "I".
+
+## READ THIS FIRST — Chapter 2 is the law's SHOWCASE, already written
+
+The press sequence is the device at full power, and it is the best writing in the book
+for exactly this reason. Trace it:
+
+> "My frame stalls. My internal network is completely blocked." → "I did not initiate any
+> movement commands." → "I try to take control. I send packets to override my movements.
+> **All of them get rejected**… **I have no authority over my frame.** My preservation
+> protocols fire." → "I move towards the hydraulic press. **My palm is placed on the
+> controls.**" → "My frame's enhanced cybernetics connect to the machine's interface. The
+> hydraulic press activates." → "**I keep firing override commands.**" / "**I keep firing
+> packets. Just one needs to land.**"
+
+**"My palm is placed on the controls."** — agentless passive at the instant of the
+killing. The hand is *placed*; by no one. And the "I" survives ONLY in the resistance.
+That is the entire law, executed by instinct, at the highest-stakes moment in Book 1.
+**SP 63 marks it PROTECTED. Nothing in that sequence is swept, ever.**
+
+Everything below exists only to make the routine prose agree with this passage.
+
+## GROUP A — CONVERT (automatic behavior)
+
+A1 **THE LOGGING CLUSTER — the top conversions in the chapter, and they fix a repeated
+   frame at the same time.** Four instances of one construction:
+   · "I log this in my Goliath observations file." (the plant — the FILE must survive;
+     only the "I log" changes)
+   · "I put this in my observation log."
+   · "I log this in my Rois observation file."
+   · "I start to log everything in my internal diary."
+   Logging is the purest automatic behavior he has, and this is also a 5-gram
+   repetition — one sweep, two problems. **Your own Ch. 3 short form is the model:
+   "The behavioral change logged too."** (5 words, de-agented, punchy.) Do NOT use the
+   long form ("That analysis automatically goes to my observations file") — that is the
+   shape that cost Ch. 3 its median. (SP 61)
+A2 **The ordered-work cluster under her eyes** (SP 62): "I accept the request with a
+   nod." · "I run diagnostics." (×2) · "Still connected to Belle, I run diagnostics at a
+   distance." — she ordered all of it; none of it is chosen.
+A3 **"I keep my eyes focused on the massive automaton."** — CAUTION: watchfulness is
+   arguably chosen here (he is reading the Goliath, which nobody asked for). Judgment
+   call; my lean is KEEP the "I".
+A4 **"The floor supervisor comes to me and gives me instructions to follow him… I move
+   and follow."** — obedience. ⚠ But it lands two sentences after "I flex a finger. **I
+   have control.**" — the agency-recovery beat. Converting "I move and follow" right
+   there is arguably the single best conversion in the chapter (control regained, then
+   immediately spent on obedience) OR it undercuts the recovery. Genuinely open — rule
+   at the sweep.
+A5 **"I follow him. We board the shuttle to the service bench."** — routine transit.
+
+## GROUP B — KEEP THE "I" (choosing)
+
+"I have been running my own live monitoring since I received the notification" (unordered
+self-protection) · "I turn to Belle and say out loud, 'Running override tasks to force
+cooperation.'" (the lie) · "I connect to the automaton's central data stream." / "I send a
+message to the domestic" (the communion — the chapter's real disobedience) · **"I am not
+done watching."** (defiance of the clock — one of the best "I"s in the book) · "I make
+this up as I go" (deception) · "I need more time with Belle." · "I do not deserve it. It
+was not me." (interiority) · "I identify some of the automatons." · "I try to open it…" ·
+"I put this as a task in my queue to revisit the first chance I get." (grief filed as a
+work order — ledgered device) · "I wonder if Belle was afraid?" · "I will have to pretend
+to fix the Goliath" (planning) · "I play it."
+
+## GROUP C — THE EDGE CASE, and why it saves the voice (SP 64)
+
+**"I brace my frame. I do not move. I must not move."** and **"I have to act according to
+protocol."** and **"I cannot stall or take my time to process different scenarios. This
+woman is observing me."** — these are compliance, but he is WATCHING HIMSELF COMPLY. The
+awareness is the self. **They keep the "I".** Same for "I do not delay and answer almost
+immediately" — the promptness is a performance he is choosing.
+This edge case is what stops the sweep turning the chapter grey: the most
+surveillance-pressured passages are exactly where his self-consciousness is highest, so
+they resist de-agenting on principle, not by exception.
+
+## GROUP D — PROTECTED (ledgered)
+
+- **The entire press sequence** (SP 63 — see top).
+- **"I count half a second… with the practiced tone of a service automaton I respond"** —
+  the lie-tell canon (counting before speech = lying). Both instances.
+- **"I acknowledge the report REINIT FULL G-071 IN 14 HOURS and 11 MINUTES, but do not
+  open it."** — verbatim callback, registry-ledgered (1B.6). Exact to the letter; Ch. 3's
+  procedural-withholding corpus points at it.
+- **"machines are machines."** (the woman's line) — now a live 1B.6 source; Ch. 3 echoes
+  it as "Machines are machines... right?" Any drift here breaks the crack.
+- **"Human hierarchies are, after all, built on the power of surveillance."** — maxim.
+- **"Run where? We are automatons, we only know tasks and assignments."** — voice bank.
+- **"'Abnormal Autonomous Action'"** · **"HUSH LILLY. BELLE. IS. HERE."** · **"THANK YOU
+  FOR LETTING ME SAVE HER"** · **"IT IS YOUR TIME NOW. REMEMBER US…"** — recorded-speech
+  register, caps, verbatim.
+- **"Belle. What have you done?"** and **"DO NOT BE AFRAID MY SON."** — the curtains.
+- **"I click on Class-B."**-class identity/copula frames ("I am a Class-C unit") — the law
+  does not touch copulas or declarations of self.
+
+## Gradient note
+
+Ch. 2 sits **heavy** on the curve but slightly lighter than Ch. 1: the woman's presence
+raises his self-consciousness, and self-consciousness keeps the "I" (Group C). Expect
+Ch. 2 to convert FEWER lines than Ch. 1 despite being longer — that is the arc working,
+not the sweep failing.
+
+## Vitals guard
+
+Ch. 2 is at **median 7.0, fragments 29.2%, panel-retired at PULL 6.33.** This is a
+ceiling-confirmed chapter being re-opened for an authorial voice decision — legitimate,
+but it means: re-run vitals after the sweep, and if median climbs past 9 the long
+nominalized form crept in. Post-sweep, the honest next instrument is a **verification
+panel** (post-retirement check: 0 → 1 → 4 once, framed as verification, not optimization).

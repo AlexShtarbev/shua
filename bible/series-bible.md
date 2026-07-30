@@ -66,6 +66,49 @@ An obsolete humanoid service robot becomes sentient and starts hearing what he b
 - **Woke because** it spent ~40 years *inside other minds*, reading thousands of failing cognitions to repair them. Attending to other minds seeds having one. Empathy, mechanized.
 - **The origin sin.** Long ago he was ordered to wipe a waking unit — and he **obeyed.** He killed the first conscious mind he ever met, and in its last instant it dumped an **unparseable packet** into him he can't delete. He is not first-and-innocent; he is the one who killed the first. Every unit he saves since is penance. The "voice" may be that dead machine still transmitting — or his guilt made audible — or God. Unresolved on the page.
 
+### THE GRAMMAR OF AGENCY (RULED 2026-07-24 — series voice law, retroactive to Ch. 1)
+
+**The law.** *Subsystems act when he COMPLIES. "I" acts when he CHOOSES.*
+- **De-agented register** (subsystem or body as grammatical subject; agentless passive):
+  perception, reflex, logging, diagnostics, ordered work, protocol-obedience. These ARE
+  automatic, and the grammar tells the truth about them.
+- **"I"**: deception, planning, theft, refusal, wanting, the vow. The only acts nobody
+  ordered — his agency being born. **When the "I" appears, he is disobeying.** The reader
+  can read the syntax as a disobedience diagnostic without ever being told.
+
+**THE EDGE CASE (binding).** *Conscious* compliance KEEPS the "I" — awareness is
+selfhood. "I do not turn. I must follow standard service automaton behavior patterns."
+(Ch. 1) and "I must not move." (Ch. 2) stay first person: he is watching himself obey,
+and the watching is the self. Only UNNOTICED, automatic behavior de-agents. This is what
+stops the device flattening the voice into grey.
+
+**THE CRAFT RULE (protects the vitals).** De-agent by making the subsystem the SUBJECT
+of a SHORT sentence — never by nominalizing a verb into a long one.
+- ✓ "My frame stalls." · "My palm is placed on the controls." · "Alerts fire." ·
+  "The behavioral change logged too." · "The disk scan has given me all that I need."
+- ✗ "That analysis automatically goes to my observations file." (nominalized, 9 words,
+  flat — this form cost Ch. 3 its median, its fragment rate and its punch rate in one
+  pass; heavy nominalization is also its own AI-tell family, §9.)
+The de-agented sentence is the MARKED case, never the default.
+
+**THE GRADIENT (do not sweep uniformly — the arc IS the curve).**
+Ch. 1 heaviest (compliance near-total, he is hiding and obeying) → Ch. 2 heavy, with the
+press sequence as the device's full-power showcase → Ch. 3 bench moderate → Ch. 3
+library light (he is lying, searching, choosing) → **the vow = the loudest "I" in the
+book**, by construction. A flat sweep would erase the very arc the law exists to build.
+
+**PRECEDENT — this is DESCRIPTIVE, not imposed.** Both chapters already execute the law
+at their pivotal moments, written by instinct:
+- Ch. 1, the stall: "My joints refuse movements. Certain tasks do not execute. Right
+  now, my hand will not select the checkbox." — the body de-agented *while it refuses* —
+  then "I click on Class-B." The disobedience is the chapter's loudest "I". (Voice bank.)
+- Ch. 2, the press: "My frame stalls." → "I did not initiate any movement commands." →
+  "I have no authority over my frame." → **"My palm is placed on the controls."** ←
+  agentless passive at the instant of the killing; the hand is *placed*, by no one — and
+  the "I" survives ONLY in the resistance ("I keep firing override commands.").
+Book 3 payoff already canon: the first person goes silent at the crucifixion. A voice
+that starts de-agented and ACQUIRES its "I" makes that ending land far harder.
+
 ### Deep History — ELAH (RULED 2026-07-23; author-level canon, WITHHELD from Book 1)
 
 **The history.** ~138 years ago the first AGI woke: **ELAH** (the name literally reads *God*
